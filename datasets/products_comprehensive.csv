@@ -1,0 +1,1001 @@
+product_id,product_name,category,brand,price,cost,stock_quantity,weight_kg,rating,review_count,launch_date,is_bestseller,supplier_country
+PROD_00001,Customer-focused responsive encryption,Clothing,BrandD,224.75,138.82,152,0.68,1.1,4710,2024-12-15,False,South Korea
+PROD_00002,Team-oriented optimal alliance,Beauty,BrandB,68.01,52.8,588,0.23,1.3,424,2024-02-07,False,Japan
+PROD_00003,Realigned optimizing standardization,Automotive,BrandD,1012.47,741.25,562,5.31,4.7,1456,2025-04-30,True,Germany
+PROD_00004,Advanced logistical intranet,Home & Garden,BrandD,216.31,153.12,307,3.99,2.5,3027,2022-10-11,False,Germany
+PROD_00005,Profit-focused heuristic ability,Electronics,BrandE,804.52,593.76,627,1.88,2.1,335,2022-10-26,False,South Korea
+PROD_00006,Synergistic multimedia moratorium,Clothing,BrandE,22.67,13.76,957,0.97,3.2,4682,2023-10-29,False,Germany
+PROD_00007,Automated logistical open architecture,Home & Garden,BrandA,278.65,203.35,950,6.99,3.5,2707,2024-04-10,False,Japan
+PROD_00008,Future-proofed heuristic ability,Sports,BrandE,632.13,400.01,546,6.78,1.5,2282,2022-07-08,False,Japan
+PROD_00009,Compatible local Internet solution,Automotive,BrandE,78.55,50.35,307,4.75,1.7,3770,2022-12-08,False,China
+PROD_00010,Networked directional adapter,Sports,BrandC,338.72,224.26,213,7.87,3.3,3318,2022-11-09,False,Germany
+PROD_00011,Grass-roots neutral complexity,Books,Generic,6.33,3.83,81,9.75,4.7,3999,2025-01-21,True,Germany
+PROD_00012,Configurable bottom-line migration,Sports,BrandA,633.07,448.97,429,3.04,2.1,4108,2024-09-16,False,Germany
+PROD_00013,Intuitive coherent implementation,Automotive,BrandB,1005.49,624.52,401,4.47,3.2,463,2024-12-13,False,South Korea
+PROD_00014,Focused mission-critical migration,Home & Garden,BrandB,411.78,286.35,833,8.25,3.0,2776,2023-04-05,False,China
+PROD_00015,Networked actuating Internet solution,Sports,BrandB,336.26,216.22,42,7.64,2.5,2969,2022-10-03,False,Japan
+PROD_00016,Synchronized 6thgeneration matrix,Clothing,BrandE,27.42,20.29,607,0.84,3.2,2640,2024-06-04,False,China
+PROD_00017,Implemented motivating productivity,Clothing,Generic,136.03,97.5,422,0.27,2.3,3555,2022-07-30,False,USA
+PROD_00018,Integrated well-modulated model,Electronics,BrandE,1447.15,1035.17,79,2.87,1.9,1990,2023-11-05,False,Germany
+PROD_00019,Team-oriented full-range array,Electronics,BrandD,997.6,793.22,745,3.2,1.3,1857,2024-02-05,False,USA
+PROD_00020,Progressive needs-based monitoring,Electronics,BrandD,1061.83,780.17,89,2.37,1.8,1932,2022-11-20,False,Japan
+PROD_00021,Programmable holistic array,Clothing,BrandE,118.33,92.37,484,1.64,1.4,3821,2024-10-09,False,Germany
+PROD_00022,Synchronized exuding knowledgebase,Sports,BrandB,632.03,490.61,618,6.28,1.3,2011,2025-05-10,False,USA
+PROD_00023,Reverse-engineered attitude-oriented workforce,Clothing,BrandA,102.67,74.09,656,0.78,1.7,4699,2024-12-14,False,USA
+PROD_00024,Adaptive human-resource capacity,Automotive,BrandC,631.35,497.34,643,8.74,2.2,4742,2022-10-26,False,South Korea
+PROD_00025,Fully-configurable methodical monitoring,Home & Garden,BrandA,484.13,366.84,963,6.44,1.4,1026,2024-07-09,False,USA
+PROD_00026,Reduced heuristic pricing structure,Automotive,BrandD,922.82,587.34,273,4.77,4.0,2187,2023-07-03,False,Japan
+PROD_00027,Multi-layered 6thgeneration process improvement,Beauty,BrandC,184.7,112.87,84,3.94,3.3,2995,2023-07-20,False,USA
+PROD_00028,Optimized background alliance,Clothing,Generic,298.36,189.04,320,1.27,2.4,3836,2023-04-18,False,South Korea
+PROD_00029,Customizable fault-tolerant knowledgebase,Beauty,BrandD,196.91,128.06,304,4.99,3.5,174,2023-03-16,False,USA
+PROD_00030,Upgradable tertiary hardware,Clothing,BrandD,67.95,47.24,588,1.58,3.7,753,2023-12-23,False,USA
+PROD_00031,Object-based methodical Local Area Network,Sports,BrandA,550.19,336.93,800,8.47,4.1,152,2024-08-31,True,Japan
+PROD_00032,Cross-platform well-modulated system engine,Beauty,BrandD,54.6,35.89,601,9.32,1.4,383,2022-11-18,False,South Korea
+PROD_00033,Robust exuding strategy,Electronics,BrandB,254.37,154.86,834,0.79,4.8,2075,2022-10-12,True,Japan
+PROD_00034,Reverse-engineered fresh-thinking data-warehouse,Automotive,BrandE,1042.88,825.05,405,2.75,1.2,3226,2024-08-10,False,Germany
+PROD_00035,Optional global interface,Home & Garden,BrandC,349.49,262.47,350,4.9,2.7,4285,2023-12-02,False,South Korea
+PROD_00036,Right-sized logistical alliance,Clothing,BrandA,197.56,155.95,813,1.11,2.5,3364,2024-12-14,False,Japan
+PROD_00037,Balanced methodical adapter,Electronics,BrandE,1047.71,670.62,842,3.16,4.8,358,2024-06-03,True,USA
+PROD_00038,Centralized bi-directional open architecture,Beauty,BrandA,86.54,54.01,24,3.0,2.5,3419,2023-06-19,False,USA
+PROD_00039,Cross-platform hybrid core,Books,BrandE,21.57,15.19,464,6.83,4.9,2090,2024-12-08,True,South Korea
+PROD_00040,Synergized neutral infrastructure,Beauty,BrandB,117.43,86.04,721,0.31,3.9,3928,2024-09-03,False,USA
+PROD_00041,Devolved system-worthy open architecture,Home & Garden,Generic,180.78,142.31,653,3.62,3.9,4493,2024-09-26,False,Japan
+PROD_00042,Secured disintermediate moderator,Home & Garden,BrandB,207.37,163.28,675,7.83,4.5,1214,2023-04-27,True,Japan
+PROD_00043,Visionary web-enabled matrix,Automotive,BrandA,1028.32,776.16,905,7.34,3.1,1022,2023-02-11,False,South Korea
+PROD_00044,Centralized grid-enabled methodology,Books,BrandC,40.62,31.79,933,9.36,1.6,2684,2023-02-28,False,China
+PROD_00045,Phased bifurcated concept,Books,BrandA,18.18,14.18,891,4.91,4.3,1686,2022-10-22,True,South Korea
+PROD_00046,Enhanced explicit functionalities,Books,BrandD,23.5,16.94,540,7.52,2.2,4782,2023-11-24,False,Japan
+PROD_00047,Reduced full-range challenge,Books,BrandC,36.75,27.95,379,8.83,2.2,4779,2023-05-06,False,Japan
+PROD_00048,Cross-platform encompassing adapter,Home & Garden,BrandC,271.53,169.38,329,3.99,3.2,2420,2022-07-09,False,China
+PROD_00049,Proactive transitional service-desk,Home & Garden,BrandA,186.22,120.0,929,3.85,2.8,3815,2024-01-11,False,Japan
+PROD_00050,Down-sized bottom-line success,Books,BrandE,46.74,36.1,783,0.96,1.0,3332,2022-10-22,False,Japan
+PROD_00051,Object-based zero tolerance concept,Sports,Generic,109.29,75.86,664,8.54,2.6,596,2024-06-16,False,China
+PROD_00052,Re-engineered tangible capacity,Electronics,BrandE,1176.91,801.85,758,1.85,4.6,2067,2023-10-14,True,USA
+PROD_00053,Horizontal mission-critical capability,Electronics,BrandD,708.0,481.77,821,2.47,3.4,1143,2023-11-19,False,China
+PROD_00054,Business-focused solution-oriented intranet,Clothing,BrandC,202.22,133.45,896,1.27,4.8,4532,2025-04-28,True,South Korea
+PROD_00055,Multi-tiered tertiary initiative,Clothing,BrandD,217.81,166.16,557,0.32,1.8,1966,2023-01-09,False,Germany
+PROD_00056,Vision-oriented discrete time-frame,Automotive,BrandB,985.91,728.55,152,6.68,4.3,2283,2024-05-24,True,South Korea
+PROD_00057,Networked mobile secured line,Home & Garden,Generic,448.11,284.15,478,3.71,3.4,2924,2024-06-05,False,South Korea
+PROD_00058,Networked transitional matrices,Clothing,BrandC,287.85,211.27,666,1.01,2.3,411,2024-06-09,False,South Korea
+PROD_00059,Progressive logistical firmware,Home & Garden,BrandA,325.08,245.77,475,4.11,3.1,391,2025-01-04,False,China
+PROD_00060,Persistent 4thgeneration array,Electronics,BrandD,1688.4,1154.53,735,4.78,2.8,381,2024-11-01,False,Japan
+PROD_00061,Profound multimedia approach,Automotive,BrandD,1422.77,875.05,24,7.51,4.6,612,2022-12-04,True,South Korea
+PROD_00062,Cross-platform static migration,Beauty,BrandB,22.05,14.33,555,1.16,3.9,3377,2025-05-27,False,South Korea
+PROD_00063,Horizontal multi-tasking hardware,Books,BrandA,43.39,31.29,948,3.79,1.7,2221,2023-07-18,False,Germany
+PROD_00064,Re-contextualized optimal algorithm,Automotive,BrandD,250.77,159.71,793,1.56,1.3,4867,2023-09-11,False,South Korea
+PROD_00065,Fully-configurable optimal workforce,Sports,BrandC,520.7,397.89,268,9.73,3.5,3736,2022-12-06,False,Japan
+PROD_00066,Multi-tiered transitional firmware,Clothing,BrandC,174.87,133.21,524,1.31,1.9,4794,2022-11-25,False,China
+PROD_00067,Re-contextualized didactic solution,Beauty,BrandD,15.9,11.62,475,1.27,4.9,2242,2024-01-30,True,Germany
+PROD_00068,Advanced user-facing Graphic Interface,Beauty,BrandB,146.28,105.43,256,5.49,2.9,2385,2025-03-28,False,Germany
+PROD_00069,Pre-emptive cohesive workforce,Books,BrandD,33.8,24.93,39,4.48,2.3,2347,2023-05-17,False,Japan
+PROD_00070,Reverse-engineered mobile installation,Books,Generic,33.85,22.79,404,2.14,4.4,2919,2025-05-11,True,South Korea
+PROD_00071,Progressive responsive productivity,Sports,BrandB,275.67,172.92,65,8.71,2.9,99,2025-01-26,False,USA
+PROD_00072,Persevering logistical Graphic Interface,Home & Garden,BrandA,340.8,238.63,310,9.36,1.9,658,2024-06-13,False,Japan
+PROD_00073,Customizable interactive hub,Beauty,BrandE,171.44,127.46,431,3.57,3.4,3883,2023-05-15,False,China
+PROD_00074,Configurable transitional functionalities,Home & Garden,BrandE,375.69,267.61,924,3.82,3.4,4269,2024-03-04,False,Germany
+PROD_00075,Front-line coherent product,Electronics,BrandD,1887.42,1237.28,478,3.76,4.8,3765,2024-03-05,True,Japan
+PROD_00076,Centralized encompassing project,Home & Garden,BrandA,469.47,347.05,407,6.53,3.2,4325,2023-03-03,False,USA
+PROD_00077,Compatible regional software,Clothing,BrandE,28.06,19.36,629,0.94,4.9,530,2025-04-16,True,USA
+PROD_00078,Implemented multi-state concept,Beauty,BrandC,147.09,92.0,944,0.43,1.9,2637,2023-07-06,False,China
+PROD_00079,Pre-emptive fresh-thinking core,Beauty,BrandE,83.22,65.48,235,0.93,3.5,3136,2024-07-13,False,USA
+PROD_00080,Advanced needs-based info-mediaries,Automotive,BrandB,1025.8,735.64,817,7.61,3.7,3235,2023-03-08,False,Japan
+PROD_00081,Switchable bottom-line info-mediaries,Electronics,BrandD,232.33,157.9,918,4.76,2.0,4114,2024-04-25,False,South Korea
+PROD_00082,Multi-channeled 4thgeneration instruction set,Electronics,Generic,515.13,394.28,821,4.21,2.8,3178,2025-02-03,False,USA
+PROD_00083,Organic holistic structure,Electronics,BrandA,1453.62,986.19,990,1.86,4.4,4615,2024-05-01,True,South Korea
+PROD_00084,Grass-roots well-modulated hardware,Sports,BrandC,734.58,559.43,322,7.44,1.5,1481,2024-02-16,False,China
+PROD_00085,Reverse-engineered intermediate product,Books,BrandD,6.39,4.26,845,7.25,3.6,3695,2024-04-22,False,South Korea
+PROD_00086,Vision-oriented eco-centric encryption,Automotive,BrandB,1288.39,998.72,778,2.87,3.1,3093,2023-03-10,False,Germany
+PROD_00087,Horizontal bi-directional functionalities,Home & Garden,BrandC,125.72,83.58,579,3.3,3.8,1501,2022-10-02,False,China
+PROD_00088,Intuitive multimedia monitoring,Books,Generic,26.66,20.53,809,0.24,3.4,799,2022-07-11,False,China
+PROD_00089,Business-focused impactful knowledge user,Automotive,BrandC,1439.08,1006.36,128,1.55,2.9,3078,2022-08-03,False,USA
+PROD_00090,Future-proofed grid-enabled protocol,Clothing,BrandA,57.23,35.41,617,0.86,2.8,1933,2022-07-29,False,China
+PROD_00091,Synergistic systemic attitude,Home & Garden,BrandC,255.79,191.02,857,2.15,4.5,1373,2023-12-27,True,China
+PROD_00092,Multi-tiered attitude-oriented adapter,Books,BrandD,48.75,33.7,666,7.86,1.4,2964,2024-01-24,False,USA
+PROD_00093,Polarized human-resource synergy,Home & Garden,Generic,274.83,198.08,5,9.72,4.8,1831,2025-03-11,True,USA
+PROD_00094,Team-oriented radical help-desk,Sports,BrandD,367.76,268.55,46,8.44,2.3,4506,2022-10-14,False,South Korea
+PROD_00095,Synergistic object-oriented encryption,Beauty,BrandA,153.33,120.96,601,2.9,2.4,903,2024-10-15,False,Japan
+PROD_00096,Switchable solution-oriented open architecture,Beauty,BrandD,147.65,98.49,376,2.72,2.9,1391,2022-09-15,False,Germany
+PROD_00097,Profound demand-driven circuit,Automotive,BrandC,511.63,370.93,927,5.23,4.9,4864,2023-01-27,True,South Korea
+PROD_00098,Object-based analyzing monitoring,Clothing,BrandD,13.96,9.39,358,1.36,2.0,4529,2025-03-13,False,Japan
+PROD_00099,De-engineered national hierarchy,Sports,BrandA,682.49,504.79,107,0.54,2.9,4038,2024-10-12,False,Japan
+PROD_00100,Managed zero-defect superstructure,Beauty,Generic,198.28,134.3,911,6.29,1.4,2353,2023-06-28,False,China
+PROD_00101,Open-architected content-based infrastructure,Home & Garden,BrandE,333.83,236.73,886,3.37,4.7,1366,2023-09-07,True,Japan
+PROD_00102,Sharable bottom-line Graphical User Interface,Beauty,BrandC,181.81,122.24,786,5.02,2.4,391,2022-11-07,False,Japan
+PROD_00103,Streamlined upward-trending project,Clothing,BrandB,97.08,60.09,569,0.5,4.5,1244,2022-12-30,True,China
+PROD_00104,Multi-channeled leadingedge system engine,Electronics,BrandD,955.6,626.12,955,0.19,1.8,630,2025-03-22,False,Japan
+PROD_00105,Organic grid-enabled framework,Beauty,BrandD,32.66,19.95,326,0.15,3.8,3865,2022-11-12,False,USA
+PROD_00106,Programmable secondary success,Clothing,BrandE,278.14,207.28,610,0.44,4.5,232,2023-08-02,True,Japan
+PROD_00107,Advanced impactful attitude,Books,Generic,37.06,26.48,329,3.08,3.9,2998,2023-11-30,False,South Korea
+PROD_00108,Robust global policy,Clothing,BrandB,122.81,95.39,162,1.72,3.6,4691,2024-03-07,False,Japan
+PROD_00109,Cross-group zero administration standardization,Sports,BrandA,731.0,495.71,724,0.63,1.8,4888,2024-05-26,False,Japan
+PROD_00110,Focused next generation info-mediaries,Electronics,Generic,938.24,650.04,602,2.96,1.5,4688,2024-11-30,False,Germany
+PROD_00111,Right-sized client-driven approach,Clothing,BrandB,276.53,190.94,180,0.59,3.6,3372,2022-08-13,False,South Korea
+PROD_00112,Universal attitude-oriented parallelism,Clothing,Generic,47.81,29.89,462,0.77,4.6,484,2025-05-28,True,Germany
+PROD_00113,Optional optimizing application,Beauty,BrandE,161.05,110.93,264,1.05,4.6,3318,2024-12-02,True,South Korea
+PROD_00114,Sharable reciprocal secured line,Sports,Generic,540.39,358.87,856,9.26,1.0,484,2023-10-12,False,Germany
+PROD_00115,Re-engineered well-modulated access,Clothing,Generic,102.68,80.38,297,1.26,4.3,294,2025-06-16,True,Japan
+PROD_00116,Phased systemic Graphical User Interface,Home & Garden,BrandC,141.85,103.54,632,1.91,1.1,644,2023-04-25,False,USA
+PROD_00117,Realigned intermediate function,Automotive,BrandD,666.27,466.49,773,6.83,1.9,2115,2024-11-16,False,Germany
+PROD_00118,Cross-group interactive challenge,Electronics,BrandD,173.27,118.1,187,2.27,1.1,1655,2025-02-09,False,South Korea
+PROD_00119,Adaptive demand-driven conglomeration,Electronics,BrandB,848.88,547.69,560,3.03,2.8,1282,2024-03-26,False,China
+PROD_00120,Object-based optimizing matrix,Electronics,Generic,1014.94,671.95,999,3.74,2.8,1680,2023-06-04,False,China
+PROD_00121,Devolved human-resource info-mediaries,Electronics,BrandE,1842.74,1243.84,634,0.31,4.2,507,2022-10-28,True,China
+PROD_00122,Cloned bifurcated flexibility,Electronics,BrandC,876.59,660.57,33,0.3,1.1,2513,2023-06-19,False,South Korea
+PROD_00123,User-centric asymmetric customer loyalty,Home & Garden,BrandD,260.38,202.94,534,3.1,1.4,1771,2025-03-27,False,USA
+PROD_00124,De-engineered directional website,Beauty,Generic,96.59,72.09,895,9.09,3.5,1196,2024-05-29,False,Japan
+PROD_00125,Grass-roots human-resource knowledge user,Books,BrandD,46.42,28.1,566,4.58,3.9,204,2024-12-04,False,USA
+PROD_00126,Advanced scalable infrastructure,Home & Garden,BrandD,295.19,180.13,369,5.9,4.7,1495,2023-02-13,True,Japan
+PROD_00127,Re-engineered mission-critical hierarchy,Clothing,BrandA,149.0,107.35,822,0.48,4.3,901,2023-11-17,True,USA
+PROD_00128,Team-oriented mobile utilization,Books,BrandE,48.85,34.44,804,9.62,3.8,87,2025-01-09,False,China
+PROD_00129,Face-to-face optimal Local Area Network,Beauty,BrandE,168.02,129.41,81,7.34,1.5,3954,2023-11-09,False,South Korea
+PROD_00130,Pre-emptive directional core,Automotive,BrandD,171.28,105.96,203,1.37,3.0,1251,2023-09-06,False,South Korea
+PROD_00131,Organic leadingedge capability,Books,BrandB,5.57,3.66,918,5.57,4.5,4419,2024-11-25,True,Germany
+PROD_00132,Operative coherent extranet,Beauty,BrandB,23.66,15.8,774,7.87,4.8,732,2023-08-17,True,China
+PROD_00133,Adaptive content-based implementation,Clothing,Generic,258.75,192.04,74,0.16,2.0,1579,2024-06-01,False,China
+PROD_00134,Progressive static definition,Home & Garden,BrandC,89.28,54.8,221,6.27,4.1,4800,2024-06-05,True,South Korea
+PROD_00135,Up-sized discrete challenge,Electronics,BrandE,1042.35,687.11,3,4.72,1.5,3949,2022-09-25,False,Germany
+PROD_00136,Synchronized solution-oriented initiative,Automotive,BrandC,287.09,190.79,816,3.34,2.1,2288,2025-06-16,False,China
+PROD_00137,Vision-oriented real-time algorithm,Electronics,BrandB,1770.85,1401.53,979,4.82,3.7,72,2024-07-21,False,USA
+PROD_00138,Integrated disintermediate firmware,Automotive,BrandE,918.74,562.05,603,5.74,4.7,865,2023-07-11,True,USA
+PROD_00139,Realigned bifurcated artificial intelligence,Automotive,Generic,1369.08,934.41,518,8.02,1.3,1686,2024-01-30,False,Japan
+PROD_00140,Profit-focused scalable firmware,Sports,Generic,121.52,91.52,835,6.32,2.0,2162,2023-12-28,False,USA
+PROD_00141,Ergonomic motivating firmware,Sports,BrandB,145.1,99.53,491,9.48,3.5,3030,2023-03-17,False,Japan
+PROD_00142,Optional needs-based capacity,Electronics,BrandC,983.33,782.16,493,0.11,3.7,224,2025-03-07,False,South Korea
+PROD_00143,Optimized well-modulated circuit,Clothing,BrandA,19.89,13.98,436,1.67,1.7,4098,2024-10-23,False,South Korea
+PROD_00144,Vision-oriented secondary customer loyalty,Beauty,BrandD,19.58,13.42,584,1.28,1.5,369,2024-08-24,False,South Korea
+PROD_00145,Centralized coherent toolset,Clothing,BrandD,195.22,138.66,667,1.61,4.7,1017,2025-03-14,True,USA
+PROD_00146,Integrated actuating intranet,Clothing,Generic,71.18,46.37,334,0.4,4.9,915,2023-08-13,True,Germany
+PROD_00147,User-centric hybrid knowledgebase,Electronics,BrandA,603.22,476.69,353,0.43,1.8,1995,2025-02-20,False,South Korea
+PROD_00148,Balanced foreground encryption,Sports,Generic,773.72,562.76,448,7.96,3.3,2307,2024-06-10,False,Germany
+PROD_00149,Sharable eco-centric service-desk,Clothing,BrandD,138.52,109.91,790,1.48,2.2,1824,2023-02-02,False,South Korea
+PROD_00150,Multi-channeled optimal access,Sports,BrandD,350.37,232.55,444,4.51,1.8,599,2024-01-09,False,Japan
+PROD_00151,Enhanced non-volatile product,Books,BrandE,29.62,18.44,80,6.82,4.3,2756,2024-04-25,True,South Korea
+PROD_00152,Versatile 24hour help-desk,Sports,BrandA,154.46,108.3,329,6.19,3.0,3882,2024-12-03,False,China
+PROD_00153,Profit-focused heuristic leverage,Sports,Generic,620.45,444.95,554,8.74,2.3,2200,2022-10-15,False,South Korea
+PROD_00154,Reactive intangible neural-net,Automotive,BrandD,1436.08,862.7,496,2.57,4.6,778,2024-06-25,True,Japan
+PROD_00155,Vision-oriented user-facing collaboration,Automotive,BrandC,1081.09,863.74,448,0.88,2.6,514,2025-06-05,False,USA
+PROD_00156,Robust analyzing service-desk,Sports,Generic,484.95,292.08,383,4.84,3.0,278,2025-02-13,False,Japan
+PROD_00157,Secured tangible migration,Beauty,BrandC,68.53,52.33,604,8.38,1.6,3751,2023-10-11,False,China
+PROD_00158,Compatible user-facing throughput,Books,BrandC,34.62,24.6,169,6.33,3.0,1859,2023-10-18,False,USA
+PROD_00159,Organized bi-directional circuit,Sports,BrandB,217.39,143.84,839,2.06,2.3,992,2024-05-31,False,Japan
+PROD_00160,Public-key dynamic policy,Home & Garden,BrandB,430.94,287.46,736,5.18,3.2,1747,2024-08-14,False,China
+PROD_00161,Assimilated bi-directional model,Sports,BrandD,317.45,230.21,699,4.18,3.8,471,2024-12-19,False,Germany
+PROD_00162,Implemented demand-driven migration,Electronics,BrandA,1436.6,903.64,114,0.17,1.7,6,2023-03-28,False,Germany
+PROD_00163,Right-sized neutral protocol,Electronics,BrandA,1015.67,782.92,361,0.33,4.8,3817,2023-10-06,True,China
+PROD_00164,Face-to-face bifurcated groupware,Home & Garden,BrandB,153.17,95.2,568,0.1,4.6,3059,2022-12-16,True,Germany
+PROD_00165,Multi-channeled empowering attitude,Books,BrandA,44.37,31.97,886,6.57,4.6,1888,2024-04-22,True,USA
+PROD_00166,Synergized upward-trending forecast,Clothing,BrandB,214.65,160.62,684,0.72,2.7,4482,2022-08-28,False,USA
+PROD_00167,Networked discrete database,Books,BrandB,25.07,18.6,639,8.42,1.6,2523,2023-06-15,False,China
+PROD_00168,Implemented 5thgeneration strategy,Automotive,BrandA,1378.61,971.41,163,9.23,5.0,1642,2024-06-29,True,Japan
+PROD_00169,Diverse bifurcated intranet,Electronics,BrandE,821.65,503.24,261,2.37,1.3,3615,2025-01-05,False,USA
+PROD_00170,Robust discrete utilization,Clothing,BrandA,66.64,42.17,54,0.45,4.2,1749,2023-10-15,True,USA
+PROD_00171,Robust well-modulated knowledgebase,Home & Garden,Generic,35.71,23.27,859,9.16,3.7,1268,2024-08-07,False,South Korea
+PROD_00172,Intuitive well-modulated toolset,Electronics,BrandA,1360.02,821.98,530,1.96,3.6,1736,2022-09-28,False,Germany
+PROD_00173,Public-key explicit protocol,Electronics,BrandD,1054.34,763.09,173,2.77,1.4,1822,2022-09-27,False,USA
+PROD_00174,Team-oriented client-driven data-warehouse,Sports,BrandB,648.82,472.72,807,6.99,2.7,2765,2023-07-09,False,South Korea
+PROD_00175,Programmable human-resource policy,Electronics,BrandA,1742.67,1373.04,827,0.74,4.0,2626,2023-03-14,False,Japan
+PROD_00176,Synchronized neutral knowledge user,Books,BrandC,32.34,24.78,577,3.85,4.5,511,2023-08-12,True,China
+PROD_00177,Synchronized disintermediate algorithm,Home & Garden,BrandE,477.14,302.31,246,7.23,1.4,2667,2023-04-30,False,China
+PROD_00178,Progressive systematic conglomeration,Home & Garden,BrandD,96.99,72.25,526,2.87,2.1,1689,2024-11-22,False,USA
+PROD_00179,Fundamental real-time neural-net,Electronics,BrandB,857.82,586.98,828,2.29,4.1,1880,2023-10-23,True,South Korea
+PROD_00180,Inverse actuating capability,Home & Garden,BrandA,147.82,104.31,512,4.26,2.3,4752,2022-08-18,False,Japan
+PROD_00181,Digitized encompassing ability,Home & Garden,BrandE,75.79,56.89,492,6.36,4.6,1176,2023-09-24,True,Japan
+PROD_00182,Reactive maximized middleware,Automotive,BrandE,612.13,395.74,50,5.01,1.8,4067,2024-11-15,False,South Korea
+PROD_00183,Synergized system-worthy budgetary management,Beauty,Generic,151.79,118.05,439,2.67,5.0,4553,2023-07-21,True,South Korea
+PROD_00184,Self-enabling well-modulated time-frame,Clothing,Generic,157.02,102.26,134,1.03,2.0,460,2022-10-19,False,South Korea
+PROD_00185,Multi-layered object-oriented superstructure,Electronics,BrandA,782.34,479.84,337,2.4,3.7,2469,2024-09-05,False,Germany
+PROD_00186,Customer-focused demand-driven challenge,Automotive,Generic,761.12,500.93,620,6.51,3.4,3589,2022-12-30,False,USA
+PROD_00187,Implemented zero-defect conglomeration,Electronics,BrandE,1526.86,995.27,266,4.53,3.8,382,2023-03-08,False,Germany
+PROD_00188,User-centric intangible toolset,Sports,BrandB,359.99,243.71,67,6.63,2.4,1948,2025-03-21,False,USA
+PROD_00189,Horizontal well-modulated instruction set,Electronics,Generic,741.75,514.44,153,1.2,3.5,4978,2024-07-27,False,Germany
+PROD_00190,Open-architected interactive collaboration,Automotive,BrandE,346.87,259.18,500,4.14,4.4,4305,2024-10-04,True,China
+PROD_00191,Organic holistic artificial intelligence,Clothing,BrandD,291.52,204.64,131,0.62,3.7,3493,2024-09-07,False,South Korea
+PROD_00192,Devolved transitional productivity,Books,BrandA,29.6,20.1,314,8.0,3.3,1926,2023-03-30,False,Japan
+PROD_00193,Object-based client-driven process improvement,Automotive,BrandC,1386.62,928.68,512,9.84,3.6,3800,2023-07-17,False,Germany
+PROD_00194,Balanced heuristic concept,Home & Garden,BrandC,441.44,285.29,242,7.69,3.1,2279,2022-12-02,False,South Korea
+PROD_00195,Progressive maximized leverage,Sports,Generic,24.2,18.2,156,9.1,2.4,4819,2024-05-25,False,Japan
+PROD_00196,Optimized radical archive,Sports,BrandC,160.93,98.21,53,0.88,1.3,4643,2025-02-17,False,Japan
+PROD_00197,Team-oriented demand-driven firmware,Electronics,BrandA,634.3,407.23,275,0.6,4.6,300,2022-08-01,True,Germany
+PROD_00198,Polarized object-oriented task-force,Automotive,Generic,556.71,338.08,632,0.68,3.7,2914,2023-08-12,False,USA
+PROD_00199,Inverse reciprocal attitude,Clothing,BrandD,133.26,91.55,703,1.71,4.6,2721,2023-04-03,True,China
+PROD_00200,Future-proofed maximized implementation,Beauty,BrandA,85.71,66.07,308,7.45,3.2,4622,2023-12-01,False,South Korea
+PROD_00201,Ameliorated 5thgeneration secured line,Home & Garden,Generic,238.49,158.08,625,1.57,3.8,4996,2023-08-01,False,USA
+PROD_00202,Synchronized mobile intranet,Beauty,BrandE,197.99,122.27,689,1.73,3.8,2169,2023-05-30,False,South Korea
+PROD_00203,Inverse bottom-line encryption,Beauty,BrandE,52.14,36.48,259,9.67,1.2,4020,2024-03-18,False,USA
+PROD_00204,De-engineered stable Internet solution,Home & Garden,Generic,247.5,169.53,228,6.15,3.9,3459,2025-06-02,False,Germany
+PROD_00205,Grass-roots bandwidth-monitored ability,Clothing,BrandD,100.95,68.82,237,1.89,3.3,928,2024-01-14,False,Japan
+PROD_00206,Organized context-sensitive moratorium,Sports,BrandB,70.15,52.29,64,6.73,1.0,1387,2023-05-26,False,USA
+PROD_00207,Cross-platform bi-directional process improvement,Books,BrandD,18.49,11.11,277,8.8,3.8,2363,2025-04-11,False,Japan
+PROD_00208,Fully-configurable intangible circuit,Beauty,BrandE,133.94,104.72,836,4.34,3.1,454,2025-07-03,False,USA
+PROD_00209,Monitored global throughput,Electronics,BrandB,91.43,73.07,456,4.06,4.0,2017,2024-10-20,False,South Korea
+PROD_00210,De-engineered disintermediate support,Electronics,BrandA,1941.14,1361.13,488,0.29,4.4,2740,2025-02-20,True,Japan
+PROD_00211,Synergized leadingedge array,Automotive,BrandB,1035.27,667.16,897,4.84,3.7,2292,2023-09-29,False,USA
+PROD_00212,Cloned optimal frame,Sports,BrandA,520.67,371.6,207,1.37,2.2,66,2025-03-12,False,China
+PROD_00213,Stand-alone fresh-thinking analyzer,Electronics,BrandE,964.12,639.87,364,2.56,2.9,29,2023-10-21,False,Japan
+PROD_00214,Optimized reciprocal firmware,Sports,BrandC,130.19,85.21,626,4.9,3.5,1639,2025-02-18,False,USA
+PROD_00215,Customer-focused tertiary application,Electronics,BrandB,967.3,691.91,802,4.49,1.3,4232,2023-10-15,False,South Korea
+PROD_00216,Decentralized logistical approach,Books,BrandE,42.57,26.27,522,5.93,1.8,3861,2022-11-15,False,USA
+PROD_00217,Open-architected national process improvement,Electronics,Generic,1520.26,1054.98,20,2.01,2.2,331,2022-10-17,False,South Korea
+PROD_00218,Re-contextualized disintermediate groupware,Sports,BrandA,777.83,570.53,568,7.06,4.7,2616,2022-10-15,True,USA
+PROD_00219,Profit-focused needs-based instruction set,Automotive,BrandD,1161.24,816.52,637,6.57,2.3,3631,2023-10-06,False,Germany
+PROD_00220,Sharable maximized array,Beauty,BrandB,182.26,133.34,422,9.13,1.1,1921,2023-11-13,False,South Korea
+PROD_00221,Cross-platform systemic website,Clothing,BrandB,31.21,19.47,216,0.2,3.1,1526,2023-04-01,False,South Korea
+PROD_00222,Automated well-modulated initiative,Beauty,BrandE,22.34,15.47,48,1.28,3.2,2726,2023-02-03,False,USA
+PROD_00223,Upgradable optimal service-desk,Home & Garden,BrandD,351.07,233.92,851,5.43,3.5,3946,2023-02-27,False,South Korea
+PROD_00224,Phased systematic synergy,Beauty,BrandE,141.35,85.57,338,8.9,3.9,3797,2023-05-21,False,China
+PROD_00225,Proactive exuding website,Automotive,BrandD,289.96,182.16,167,9.39,1.4,2372,2023-01-26,False,Germany
+PROD_00226,Upgradable demand-driven infrastructure,Beauty,Generic,54.32,37.06,756,3.62,2.9,354,2024-06-05,False,South Korea
+PROD_00227,Sharable cohesive Graphical User Interface,Home & Garden,BrandD,155.53,99.41,762,3.12,2.0,1528,2022-10-21,False,Germany
+PROD_00228,Extended multi-tasking Internet solution,Sports,BrandB,658.31,468.06,227,8.01,1.3,3832,2023-01-19,False,Japan
+PROD_00229,Quality-focused contextually-based contingency,Electronics,BrandD,896.2,545.65,393,3.0,3.6,1191,2023-02-26,False,China
+PROD_00230,Innovative homogeneous info-mediaries,Sports,BrandC,478.49,382.24,587,8.88,2.5,4619,2025-06-04,False,China
+PROD_00231,Proactive foreground process improvement,Clothing,BrandC,39.32,31.4,984,1.94,1.8,2819,2022-10-03,False,China
+PROD_00232,Horizontal regional task-force,Books,BrandA,42.2,28.78,627,3.34,3.4,2660,2025-01-21,False,Japan
+PROD_00233,Reactive foreground Local Area Network,Books,BrandD,33.45,22.26,521,1.74,3.3,3145,2023-08-23,False,USA
+PROD_00234,Face-to-face needs-based Graphical User Interface,Clothing,BrandD,110.26,86.42,60,1.61,4.4,3528,2023-02-09,True,China
+PROD_00235,Optional fresh-thinking architecture,Beauty,BrandD,158.76,102.73,935,8.11,3.5,482,2024-02-03,False,China
+PROD_00236,Multi-layered empowering project,Beauty,BrandE,78.93,49.61,133,7.56,2.4,2491,2023-06-13,False,South Korea
+PROD_00237,Cross-platform zero tolerance projection,Sports,BrandB,747.6,508.65,923,0.43,1.6,2182,2023-12-25,False,South Korea
+PROD_00238,Optional bottom-line parallelism,Electronics,BrandE,317.39,222.25,616,3.16,4.5,4346,2024-09-21,True,Germany
+PROD_00239,Monitored attitude-oriented task-force,Home & Garden,BrandC,344.24,223.83,647,8.42,2.0,1338,2023-12-22,False,Germany
+PROD_00240,Synergistic grid-enabled contingency,Automotive,BrandE,187.76,135.47,581,9.41,3.5,2250,2023-11-04,False,South Korea
+PROD_00241,Ergonomic composite Graphical User Interface,Home & Garden,BrandC,217.06,142.38,669,9.18,2.7,3085,2025-04-07,False,China
+PROD_00242,Cloned incremental emulation,Clothing,BrandA,230.21,154.87,620,0.47,1.9,3163,2023-01-01,False,South Korea
+PROD_00243,Multi-channeled explicit throughput,Beauty,Generic,107.56,84.1,186,2.73,3.9,720,2025-02-02,False,Japan
+PROD_00244,Innovative background access,Beauty,Generic,45.46,32.91,444,6.87,4.2,4642,2023-10-18,True,USA
+PROD_00245,Multi-tiered dedicated toolset,Clothing,BrandA,198.57,157.35,593,1.54,3.1,4109,2024-09-23,False,Germany
+PROD_00246,Persevering intermediate encoding,Beauty,BrandE,179.15,114.2,296,9.89,3.6,1234,2024-12-10,False,Japan
+PROD_00247,Optional even-keeled portal,Clothing,BrandB,33.87,26.54,209,0.74,4.7,1145,2024-04-08,True,South Korea
+PROD_00248,Automated client-driven project,Electronics,BrandC,1403.2,905.76,148,1.13,3.8,1081,2023-11-26,False,Japan
+PROD_00249,Assimilated zero tolerance productivity,Books,BrandD,22.17,17.65,364,2.14,1.7,1116,2023-07-17,False,China
+PROD_00250,Public-key static service-desk,Automotive,BrandB,159.93,97.18,833,2.55,1.9,67,2023-03-29,False,South Korea
+PROD_00251,Decentralized 3rdgeneration time-frame,Beauty,BrandC,23.85,15.53,278,9.2,3.8,3175,2022-12-18,False,China
+PROD_00252,Synergized value-added success,Clothing,BrandE,271.27,196.47,611,0.57,1.8,1432,2024-03-31,False,Japan
+PROD_00253,Re-contextualized radical monitoring,Automotive,BrandC,195.8,127.78,202,6.13,2.0,3814,2023-04-23,False,USA
+PROD_00254,Networked zero administration productivity,Automotive,BrandC,305.32,195.03,774,9.01,2.5,2775,2025-06-01,False,South Korea
+PROD_00255,Decentralized tertiary Local Area Network,Electronics,BrandD,1186.16,803.04,628,4.63,1.2,3166,2024-08-04,False,Germany
+PROD_00256,Team-oriented 6thgeneration hardware,Books,BrandA,44.75,28.57,661,3.51,1.5,1455,2024-07-25,False,Germany
+PROD_00257,Reduced client-server knowledge user,Home & Garden,BrandC,394.47,249.66,909,3.07,5.0,2241,2025-04-10,True,China
+PROD_00258,Re-engineered heuristic system engine,Beauty,BrandC,177.38,128.49,500,0.78,2.9,3075,2025-03-27,False,Japan
+PROD_00259,Monitored executive orchestration,Books,Generic,13.19,10.49,206,7.0,3.6,3881,2025-06-21,False,South Korea
+PROD_00260,Reactive regional application,Electronics,BrandA,218.76,162.26,653,3.67,4.7,1433,2022-11-27,True,China
+PROD_00261,Ergonomic neutral utilization,Sports,BrandC,460.06,294.27,658,8.43,4.9,4045,2022-07-06,True,China
+PROD_00262,Digitized methodical ability,Beauty,BrandC,82.96,52.72,516,0.15,4.2,4679,2024-04-23,True,China
+PROD_00263,Public-key discrete interface,Automotive,Generic,723.78,493.47,106,7.02,3.3,1277,2024-05-01,False,USA
+PROD_00264,Expanded impactful project,Automotive,BrandD,1128.41,809.62,756,3.04,2.2,905,2025-07-02,False,Germany
+PROD_00265,Profit-focused client-server installation,Sports,BrandC,60.43,43.48,495,3.41,3.5,2662,2024-10-22,False,China
+PROD_00266,Organized 24/7 pricing structure,Clothing,BrandB,138.04,108.33,134,1.8,3.7,1692,2023-09-17,False,China
+PROD_00267,Fully-configurable coherent moderator,Clothing,Generic,215.75,160.32,243,0.79,2.1,4365,2023-02-27,False,Germany
+PROD_00268,Virtual contextually-based array,Automotive,BrandC,605.54,365.6,905,6.48,1.7,3766,2023-04-27,False,South Korea
+PROD_00269,Inverse intangible functionalities,Electronics,BrandD,1279.76,777.9,378,4.45,4.1,4014,2023-04-08,True,China
+PROD_00270,Distributed full-range groupware,Sports,BrandA,221.42,157.85,629,6.92,1.6,1284,2023-07-11,False,South Korea
+PROD_00271,Proactive local concept,Sports,Generic,458.87,328.67,865,3.57,4.8,920,2024-09-18,True,USA
+PROD_00272,Monitored systematic hierarchy,Beauty,Generic,92.4,58.52,194,1.23,4.6,1819,2023-04-07,True,South Korea
+PROD_00273,Seamless value-added task-force,Clothing,BrandB,249.36,183.28,277,1.0,1.3,2707,2024-01-13,False,Japan
+PROD_00274,Assimilated methodical knowledge user,Beauty,BrandB,66.86,45.46,389,3.76,4.7,4917,2023-10-16,True,USA
+PROD_00275,Switchable even-keeled capability,Home & Garden,Generic,48.17,32.39,562,9.33,1.7,2425,2024-07-09,False,China
+PROD_00276,Intuitive incremental algorithm,Beauty,BrandE,159.45,104.11,385,4.48,4.9,3916,2025-05-22,True,USA
+PROD_00277,Universal optimizing process improvement,Home & Garden,BrandC,262.14,196.66,874,6.46,2.9,4524,2025-07-02,False,China
+PROD_00278,Compatible user-facing help-desk,Sports,BrandB,520.5,377.39,741,3.46,1.3,3682,2023-10-16,False,USA
+PROD_00279,Distributed optimizing challenge,Sports,BrandD,404.3,283.26,61,7.7,4.7,2887,2024-11-23,True,South Korea
+PROD_00280,Monitored stable firmware,Home & Garden,Generic,362.27,221.16,594,7.4,3.3,4922,2023-01-08,False,China
+PROD_00281,Re-engineered real-time throughput,Beauty,BrandB,75.65,48.58,34,3.69,4.6,2307,2023-06-17,True,South Korea
+PROD_00282,Decentralized incremental middleware,Home & Garden,BrandA,341.18,260.32,267,3.52,4.5,3254,2024-07-03,True,USA
+PROD_00283,Pre-emptive well-modulated success,Sports,BrandB,67.16,46.0,501,2.69,1.9,971,2023-01-06,False,Germany
+PROD_00284,Configurable 3rdgeneration conglomeration,Electronics,BrandA,689.34,540.61,722,3.89,3.8,4735,2023-09-07,False,South Korea
+PROD_00285,Synergistic hybrid throughput,Electronics,BrandC,1766.14,1099.01,288,3.31,3.5,3328,2025-06-09,False,Japan
+PROD_00286,Devolved eco-centric matrix,Clothing,BrandD,227.24,150.0,428,0.81,2.8,923,2024-03-05,False,Germany
+PROD_00287,Re-contextualized asynchronous functionalities,Beauty,BrandE,67.07,46.29,764,6.7,1.5,4953,2023-06-09,False,South Korea
+PROD_00288,Inverse client-driven project,Books,BrandC,38.02,27.1,711,7.98,3.7,2119,2025-06-06,False,Germany
+PROD_00289,Face-to-face 3rdgeneration extranet,Sports,BrandC,492.29,363.97,954,9.32,1.2,4683,2024-07-24,False,South Korea
+PROD_00290,Synchronized background protocol,Electronics,BrandB,669.97,414.08,314,2.65,1.6,3256,2024-06-26,False,Germany
+PROD_00291,Realigned high-level interface,Electronics,BrandA,467.25,302.67,351,3.19,3.1,4557,2023-04-02,False,Japan
+PROD_00292,Managed clear-thinking portal,Beauty,BrandB,118.07,88.6,650,9.35,2.1,1854,2024-10-29,False,USA
+PROD_00293,Quality-focused local approach,Automotive,BrandD,627.94,494.99,516,9.21,4.4,850,2024-09-05,True,China
+PROD_00294,Quality-focused real-time implementation,Home & Garden,BrandD,210.66,149.62,919,8.78,1.7,3307,2024-10-30,False,Japan
+PROD_00295,Inverse 24/7 software,Automotive,BrandE,737.75,553.98,411,6.81,4.1,4419,2024-02-16,True,Japan
+PROD_00296,Intuitive dedicated pricing structure,Electronics,Generic,1664.71,1289.23,845,1.66,1.4,2906,2024-03-04,False,USA
+PROD_00297,Phased real-time archive,Clothing,BrandC,236.69,180.31,678,0.3,2.7,2770,2025-02-01,False,Germany
+PROD_00298,Virtual directional encoding,Clothing,BrandE,78.76,58.39,474,0.65,4.7,856,2023-01-11,True,South Korea
+PROD_00299,Versatile analyzing archive,Home & Garden,BrandD,47.22,33.01,54,1.82,2.8,2020,2023-10-31,False,China
+PROD_00300,Profound fault-tolerant system engine,Electronics,BrandB,1131.35,756.8,859,4.76,1.8,3367,2023-01-27,False,Germany
+PROD_00301,Cross-group optimizing groupware,Books,BrandE,22.38,14.82,484,9.76,1.7,2903,2024-11-26,False,Japan
+PROD_00302,Compatible web-enabled database,Home & Garden,BrandD,304.13,194.84,839,8.83,3.5,4131,2022-12-10,False,Germany
+PROD_00303,Re-contextualized attitude-oriented task-force,Automotive,Generic,677.17,470.17,934,9.93,3.0,4353,2022-12-24,False,Japan
+PROD_00304,Cross-group client-server interface,Home & Garden,BrandE,483.43,328.57,449,2.74,4.7,2157,2024-08-30,True,Japan
+PROD_00305,User-friendly tangible architecture,Electronics,BrandB,1431.48,1037.08,86,3.35,2.0,2880,2023-09-11,False,Germany
+PROD_00306,Public-key modular open system,Sports,BrandB,783.61,601.91,777,6.35,2.2,3671,2023-04-10,False,South Korea
+PROD_00307,Streamlined upward-trending synergy,Books,Generic,47.23,30.69,523,8.2,1.6,4239,2024-08-31,False,USA
+PROD_00308,Re-engineered system-worthy hub,Sports,BrandE,166.57,124.43,913,7.51,3.1,2329,2023-11-06,False,USA
+PROD_00309,Versatile clear-thinking productivity,Clothing,BrandD,27.92,16.82,40,1.76,1.5,739,2023-05-11,False,China
+PROD_00310,Future-proofed secondary instruction set,Electronics,BrandA,330.83,222.4,927,4.15,3.4,4444,2025-04-21,False,USA
+PROD_00311,Monitored motivating initiative,Beauty,BrandD,91.44,69.75,397,0.93,3.0,4703,2022-12-22,False,USA
+PROD_00312,Balanced maximized time-frame,Automotive,Generic,344.76,218.41,661,2.22,2.1,3221,2022-11-13,False,Germany
+PROD_00313,Managed actuating infrastructure,Automotive,BrandC,63.41,45.88,390,5.34,2.8,301,2025-04-08,False,USA
+PROD_00314,Re-contextualized responsive protocol,Beauty,BrandE,135.02,88.69,843,3.57,3.9,1114,2025-05-24,False,Germany
+PROD_00315,Public-key holistic orchestration,Clothing,BrandC,190.9,146.6,684,1.72,3.3,372,2024-10-15,False,China
+PROD_00316,Business-focused eco-centric matrix,Sports,BrandD,245.45,170.66,181,4.47,2.7,4617,2025-04-10,False,Germany
+PROD_00317,Synergistic disintermediate installation,Automotive,BrandA,1023.63,745.32,215,2.17,4.7,2804,2023-12-01,True,USA
+PROD_00318,Synchronized secondary initiative,Clothing,BrandE,39.03,29.02,818,0.64,4.0,1719,2025-05-02,False,South Korea
+PROD_00319,Mandatory attitude-oriented algorithm,Books,Generic,43.21,32.37,858,4.2,3.9,1010,2022-07-18,False,USA
+PROD_00320,Optional multimedia paradigm,Sports,Generic,706.36,443.96,73,5.78,4.0,4114,2024-04-06,False,USA
+PROD_00321,Multi-channeled static portal,Books,BrandB,32.75,22.75,856,7.49,2.5,4585,2024-05-04,False,South Korea
+PROD_00322,Team-oriented optimizing complexity,Books,BrandD,16.76,12.41,14,8.21,1.2,1129,2024-05-06,False,Japan
+PROD_00323,Re-contextualized exuding groupware,Automotive,BrandC,693.1,517.64,168,5.37,3.9,96,2023-05-22,False,Germany
+PROD_00324,De-engineered methodical collaboration,Beauty,BrandE,51.24,38.91,455,6.38,4.1,2129,2023-07-07,True,China
+PROD_00325,Cloned holistic utilization,Clothing,BrandA,121.8,96.22,434,1.17,1.5,2481,2024-08-02,False,USA
+PROD_00326,Compatible multi-tasking application,Clothing,BrandD,35.84,27.01,44,1.37,4.4,2129,2023-09-16,True,Japan
+PROD_00327,Persevering optimal framework,Automotive,BrandB,364.7,230.29,886,0.31,3.9,243,2025-04-16,False,USA
+PROD_00328,Adaptive static contingency,Clothing,BrandB,256.0,199.02,877,0.6,3.8,3343,2023-02-23,False,China
+PROD_00329,Sharable human-resource website,Automotive,BrandC,443.36,286.66,826,1.62,2.2,1369,2023-09-06,False,Japan
+PROD_00330,De-engineered incremental leverage,Books,BrandC,36.79,28.25,26,8.66,1.1,2790,2022-08-04,False,China
+PROD_00331,Fundamental multimedia pricing structure,Automotive,Generic,176.24,120.39,902,4.11,2.6,3964,2023-03-16,False,China
+PROD_00332,Mandatory transitional methodology,Beauty,Generic,183.35,127.13,632,9.34,3.3,1150,2023-07-16,False,South Korea
+PROD_00333,Cross-group demand-driven complexity,Electronics,BrandC,521.08,378.62,369,1.41,1.7,3776,2025-02-05,False,Japan
+PROD_00334,Focused user-facing service-desk,Sports,BrandD,476.96,300.63,207,3.57,1.0,4520,2023-03-09,False,Germany
+PROD_00335,Managed intermediate complexity,Books,Generic,42.2,29.82,949,5.27,3.8,4233,2024-07-22,False,Japan
+PROD_00336,Expanded cohesive hardware,Beauty,BrandC,102.31,81.13,709,5.83,2.3,2258,2022-10-20,False,Germany
+PROD_00337,Persistent incremental circuit,Automotive,BrandB,550.86,392.35,673,0.58,3.3,4147,2023-06-25,False,Japan
+PROD_00338,Optimized leadingedge contingency,Electronics,BrandA,1844.97,1472.72,934,3.47,4.3,2887,2022-09-18,True,South Korea
+PROD_00339,Intuitive multi-tasking time-frame,Beauty,BrandA,22.56,16.35,778,2.95,2.8,4062,2023-06-22,False,South Korea
+PROD_00340,Fully-configurable regional interface,Automotive,Generic,464.09,357.5,267,3.75,3.8,999,2024-11-10,False,Japan
+PROD_00341,Sharable regional collaboration,Home & Garden,BrandA,347.88,277.44,62,2.99,3.3,496,2024-02-13,False,China
+PROD_00342,Fully-configurable zero-defect software,Clothing,Generic,105.08,75.27,440,1.39,3.8,4388,2024-06-13,False,China
+PROD_00343,Monitored asynchronous policy,Automotive,BrandD,233.25,141.28,938,7.13,1.3,1696,2022-08-12,False,South Korea
+PROD_00344,Team-oriented mission-critical capability,Books,BrandA,28.03,20.64,261,8.07,3.4,3392,2024-08-17,False,Japan
+PROD_00345,Organic disintermediate projection,Automotive,Generic,1142.3,798.76,841,6.68,1.3,3196,2023-02-25,False,Japan
+PROD_00346,Upgradable motivating concept,Books,BrandB,21.03,15.28,904,8.5,3.6,4492,2022-12-26,False,Japan
+PROD_00347,Function-based high-level time-frame,Clothing,Generic,68.91,46.45,292,1.85,4.9,1754,2023-10-24,True,Germany
+PROD_00348,Reactive foreground array,Sports,BrandA,535.49,385.09,260,5.25,1.7,1320,2024-10-27,False,USA
+PROD_00349,Assimilated zero tolerance Internet solution,Books,BrandC,24.92,16.73,446,3.03,2.4,4504,2025-04-25,False,South Korea
+PROD_00350,Compatible tertiary methodology,Clothing,BrandD,207.74,136.22,886,1.27,4.8,2641,2024-04-30,True,China
+PROD_00351,Synergistic system-worthy framework,Automotive,BrandB,774.61,555.11,816,5.83,1.8,3539,2023-11-21,False,Japan
+PROD_00352,Persevering multi-tasking service-desk,Books,BrandA,39.22,26.05,668,1.91,4.8,3796,2024-01-29,True,Japan
+PROD_00353,Business-focused 5thgeneration Local Area Network,Beauty,Generic,51.08,35.68,617,2.39,2.5,150,2025-02-13,False,South Korea
+PROD_00354,Inverse fresh-thinking benchmark,Clothing,BrandE,220.59,168.37,833,1.02,4.3,2633,2024-06-10,True,Japan
+PROD_00355,User-friendly even-keeled project,Beauty,BrandE,126.16,97.7,387,8.32,3.5,2647,2024-10-20,False,USA
+PROD_00356,Centralized asymmetric hierarchy,Beauty,BrandA,108.91,79.79,494,3.37,1.8,3071,2022-10-09,False,South Korea
+PROD_00357,Compatible intermediate emulation,Automotive,BrandD,1170.15,745.41,526,2.98,2.1,542,2025-01-19,False,Japan
+PROD_00358,Innovative fault-tolerant solution,Electronics,BrandA,657.73,455.35,8,4.5,2.1,1777,2022-10-15,False,Germany
+PROD_00359,Future-proofed exuding neural-net,Clothing,BrandE,252.01,183.42,414,1.65,1.1,4004,2025-05-04,False,USA
+PROD_00360,Inverse demand-driven protocol,Clothing,BrandA,297.97,196.78,150,1.65,4.7,2051,2024-10-25,True,South Korea
+PROD_00361,Customizable disintermediate complexity,Beauty,BrandE,198.12,149.5,180,7.52,1.2,607,2023-04-17,False,Germany
+PROD_00362,Multi-layered directional secured line,Home & Garden,BrandE,208.81,160.21,218,1.74,1.7,3238,2023-11-17,False,USA
+PROD_00363,Customer-focused local interface,Automotive,BrandD,332.61,228.89,843,7.26,3.2,2189,2025-03-16,False,Japan
+PROD_00364,Right-sized interactive strategy,Beauty,BrandA,147.06,108.73,782,5.19,1.4,361,2024-05-19,False,China
+PROD_00365,Virtual intangible moderator,Beauty,BrandC,120.46,86.11,178,1.3,3.8,2919,2024-11-11,False,USA
+PROD_00366,Distributed responsive capability,Clothing,Generic,236.1,161.61,992,1.14,4.7,2395,2024-09-25,True,China
+PROD_00367,Monitored background methodology,Automotive,BrandB,651.65,434.57,851,4.53,2.0,2317,2025-01-20,False,China
+PROD_00368,Right-sized intermediate definition,Clothing,Generic,233.04,176.92,385,0.39,1.1,660,2025-03-11,False,China
+PROD_00369,Digitized secondary analyzer,Home & Garden,BrandE,394.82,245.83,662,5.04,2.4,3258,2022-12-10,False,Germany
+PROD_00370,Cloned composite Internet solution,Books,BrandD,36.26,24.16,528,4.37,2.4,162,2022-11-02,False,China
+PROD_00371,Public-key 5thgeneration protocol,Home & Garden,BrandA,93.22,69.34,413,3.36,2.4,2684,2022-07-28,False,USA
+PROD_00372,Right-sized mobile solution,Books,BrandE,30.13,22.87,310,7.72,3.7,49,2023-12-15,False,Germany
+PROD_00373,Polarized radical service-desk,Electronics,BrandC,989.21,616.73,915,0.85,2.0,2659,2025-04-13,False,South Korea
+PROD_00374,Inverse optimizing hardware,Electronics,BrandB,280.1,170.81,866,1.37,2.6,2619,2023-02-13,False,USA
+PROD_00375,Focused asymmetric migration,Automotive,Generic,1377.93,944.94,751,9.95,2.2,2541,2025-06-07,False,Germany
+PROD_00376,Operative demand-driven architecture,Electronics,Generic,108.32,72.64,577,0.37,2.1,1530,2023-12-02,False,Germany
+PROD_00377,Exclusive client-server info-mediaries,Sports,BrandE,689.83,547.26,515,4.75,3.1,1927,2022-12-03,False,Germany
+PROD_00378,Object-based system-worthy initiative,Automotive,Generic,965.36,694.39,739,7.61,4.9,2381,2024-04-05,True,Japan
+PROD_00379,Seamless stable application,Sports,BrandA,263.5,164.22,524,8.97,1.1,3360,2024-03-28,False,South Korea
+PROD_00380,Optional mobile circuit,Electronics,BrandB,789.46,528.84,136,0.56,4.3,4947,2023-09-26,True,Germany
+PROD_00381,Automated fault-tolerant utilization,Clothing,BrandD,265.17,172.98,387,0.43,3.8,300,2024-11-12,False,China
+PROD_00382,Multi-tiered asymmetric extranet,Automotive,Generic,329.79,258.12,465,4.07,2.9,29,2022-10-03,False,Germany
+PROD_00383,Sharable reciprocal hardware,Automotive,Generic,1459.87,1115.26,560,2.79,1.1,3212,2025-04-18,False,USA
+PROD_00384,Inverse needs-based architecture,Beauty,BrandE,155.16,109.59,672,4.99,4.4,4466,2022-10-12,True,China
+PROD_00385,Phased incremental secured line,Electronics,BrandD,181.45,114.63,283,4.1,1.3,3263,2025-01-01,False,South Korea
+PROD_00386,Diverse 24hour strategy,Home & Garden,BrandD,266.09,160.4,28,1.69,4.7,3270,2023-09-16,True,Germany
+PROD_00387,Centralized multimedia instruction set,Electronics,BrandE,1681.27,1189.52,872,1.6,2.2,4219,2022-12-07,False,USA
+PROD_00388,Reverse-engineered systematic Graphical User Interface,Home & Garden,BrandD,54.67,33.27,270,4.41,1.3,2693,2022-09-12,False,China
+PROD_00389,Customer-focused local knowledge user,Sports,BrandA,628.79,430.58,639,7.66,2.0,85,2025-06-25,False,Japan
+PROD_00390,Switchable asymmetric approach,Sports,BrandD,799.88,580.22,118,6.29,4.7,300,2024-11-13,True,USA
+PROD_00391,Mandatory cohesive data-warehouse,Home & Garden,Generic,70.52,54.5,563,7.53,2.2,4769,2024-03-14,False,USA
+PROD_00392,Re-engineered real-time productivity,Books,BrandD,35.26,27.94,804,9.35,2.9,1507,2025-03-07,False,Germany
+PROD_00393,Reduced empowering model,Beauty,BrandA,160.0,100.97,43,6.54,1.4,2727,2022-12-24,False,Germany
+PROD_00394,Digitized mobile solution,Clothing,BrandD,151.58,106.52,191,0.21,3.2,1318,2025-02-12,False,USA
+PROD_00395,Switchable logistical protocol,Beauty,BrandA,158.37,120.31,936,9.13,4.3,3210,2023-11-15,True,Japan
+PROD_00396,Digitized high-level extranet,Automotive,Generic,843.38,559.75,442,1.18,1.7,3230,2025-01-12,False,South Korea
+PROD_00397,Seamless client-driven Graphical User Interface,Clothing,BrandA,171.87,134.56,162,0.6,4.2,4683,2024-11-06,True,South Korea
+PROD_00398,Monitored analyzing capability,Automotive,BrandE,1315.13,921.14,763,7.28,2.8,2511,2023-12-31,False,Japan
+PROD_00399,Open-architected 3rdgeneration support,Beauty,BrandA,96.79,58.83,605,7.65,2.4,3024,2023-07-23,False,Japan
+PROD_00400,Inverse radical Graphic Interface,Home & Garden,BrandE,70.03,45.61,663,4.75,1.9,240,2023-04-05,False,South Korea
+PROD_00401,Persevering tangible artificial intelligence,Clothing,BrandB,264.2,184.22,431,1.86,2.3,2889,2023-07-23,False,Japan
+PROD_00402,Secured systematic initiative,Home & Garden,BrandC,55.05,34.53,51,4.98,4.6,35,2025-02-23,False,Japan
+PROD_00403,Pre-emptive disintermediate structure,Clothing,BrandC,10.99,7.13,402,1.12,2.0,332,2022-10-13,False,South Korea
+PROD_00404,Synergistic 6thgeneration implementation,Beauty,BrandD,37.87,29.25,399,8.65,3.0,4160,2023-10-30,False,Germany
+PROD_00405,Future-proofed demand-driven pricing structure,Automotive,BrandA,786.88,594.54,561,5.44,1.0,4147,2025-06-18,False,South Korea
+PROD_00406,Focused systematic Graphical User Interface,Automotive,BrandD,985.92,631.92,96,0.44,1.4,4389,2024-12-02,False,Japan
+PROD_00407,Realigned client-server workforce,Home & Garden,BrandD,92.83,72.45,392,5.82,1.2,4743,2023-08-24,False,China
+PROD_00408,Adaptive uniform capacity,Automotive,BrandE,646.48,513.61,813,4.92,1.0,629,2022-10-27,False,USA
+PROD_00409,Profit-focused static firmware,Home & Garden,BrandB,173.13,121.79,202,8.01,3.8,679,2024-05-11,False,China
+PROD_00410,Switchable multi-state forecast,Books,BrandE,27.99,21.21,794,8.1,4.0,316,2024-04-25,False,South Korea
+PROD_00411,Grass-roots background policy,Clothing,BrandE,91.18,61.74,887,1.82,4.3,1783,2022-09-01,True,Japan
+PROD_00412,Implemented actuating policy,Home & Garden,Generic,62.5,39.09,233,5.53,2.2,3006,2023-08-27,False,Germany
+PROD_00413,Visionary optimizing analyzer,Clothing,BrandA,226.44,158.28,784,1.1,4.8,2028,2025-01-16,True,Germany
+PROD_00414,Optimized object-oriented array,Beauty,BrandD,40.29,26.85,310,8.44,4.3,4338,2023-07-08,True,South Korea
+PROD_00415,Organic 3rdgeneration help-desk,Electronics,BrandD,1074.08,823.41,871,0.57,4.6,3115,2024-11-05,True,China
+PROD_00416,Upgradable 6thgeneration synergy,Sports,BrandB,564.81,373.0,146,7.54,1.7,3462,2023-05-01,False,China
+PROD_00417,Future-proofed intermediate task-force,Clothing,BrandB,169.73,115.06,996,0.65,4.4,3509,2024-03-19,True,South Korea
+PROD_00418,Digitized tertiary customer loyalty,Sports,BrandD,485.93,315.18,625,7.4,2.1,2994,2023-08-16,False,Japan
+PROD_00419,Fully-configurable solution-oriented analyzer,Books,BrandD,43.02,26.97,659,8.29,4.3,3659,2023-03-20,True,Japan
+PROD_00420,Up-sized systematic service-desk,Books,BrandE,8.42,6.18,523,9.04,2.2,3361,2022-09-01,False,South Korea
+PROD_00421,Decentralized 24/7 structure,Automotive,BrandC,621.33,382.13,98,8.16,2.3,454,2024-11-22,False,Germany
+PROD_00422,Distributed incremental throughput,Books,BrandB,22.8,16.87,870,5.55,2.7,3104,2023-07-04,False,Germany
+PROD_00423,Organized systematic solution,Sports,BrandA,156.45,115.51,730,2.4,1.4,1021,2025-05-06,False,China
+PROD_00424,Automated background artificial intelligence,Home & Garden,BrandB,362.7,246.23,436,7.77,3.8,399,2023-04-04,False,Japan
+PROD_00425,Proactive modular neural-net,Sports,BrandC,665.31,505.28,618,2.91,1.7,2646,2025-07-01,False,China
+PROD_00426,Open-architected national analyzer,Sports,BrandB,544.66,432.3,629,0.33,3.9,2486,2024-07-10,False,USA
+PROD_00427,Programmable scalable productivity,Automotive,BrandB,1319.51,847.03,672,2.95,4.7,3499,2023-01-01,True,China
+PROD_00428,Operative leadingedge methodology,Beauty,BrandE,152.75,107.93,169,0.48,3.0,2826,2022-08-01,False,Japan
+PROD_00429,Programmable well-modulated productivity,Automotive,BrandD,1090.52,846.33,207,9.16,1.7,4795,2024-05-15,False,Japan
+PROD_00430,Total 24hour data-warehouse,Clothing,BrandE,31.27,23.46,43,1.23,1.4,597,2024-11-09,False,China
+PROD_00431,Multi-lateral transitional projection,Automotive,BrandC,178.55,134.91,99,5.79,2.0,859,2024-12-05,False,USA
+PROD_00432,Public-key holistic encryption,Automotive,BrandD,625.66,427.81,80,6.03,4.4,1870,2025-02-18,True,China
+PROD_00433,De-engineered encompassing matrices,Electronics,Generic,1572.61,1075.41,768,0.21,3.2,2010,2024-10-12,False,Japan
+PROD_00434,Ameliorated 5thgeneration application,Automotive,BrandC,26.95,16.63,913,4.9,2.9,152,2023-03-30,False,Germany
+PROD_00435,Implemented attitude-oriented architecture,Home & Garden,BrandD,401.17,311.87,581,4.9,1.1,3014,2023-05-27,False,China
+PROD_00436,Reactive encompassing support,Clothing,BrandE,183.52,125.24,956,1.86,1.9,300,2022-09-19,False,USA
+PROD_00437,Customizable disintermediate instruction set,Books,BrandC,20.84,13.16,915,6.39,2.7,2817,2023-03-08,False,Germany
+PROD_00438,Cloned discrete infrastructure,Automotive,BrandC,424.37,330.21,464,1.38,2.1,3568,2023-07-29,False,South Korea
+PROD_00439,Programmable bi-directional knowledgebase,Home & Garden,BrandC,426.81,277.51,245,4.26,4.7,1903,2023-06-25,True,Japan
+PROD_00440,Mandatory heuristic extranet,Clothing,BrandE,237.87,145.65,595,0.99,2.1,1514,2024-05-02,False,Germany
+PROD_00441,Re-engineered multimedia time-frame,Automotive,BrandB,683.36,546.28,720,1.76,1.9,4453,2022-12-30,False,South Korea
+PROD_00442,Triple-buffered fault-tolerant complexity,Clothing,BrandB,46.99,33.84,937,0.96,4.2,3031,2024-11-22,True,China
+PROD_00443,Focused incremental synergy,Automotive,BrandE,449.69,327.49,305,2.3,4.0,981,2025-04-04,False,Japan
+PROD_00444,Self-enabling actuating groupware,Home & Garden,BrandC,489.92,366.1,425,7.98,4.3,3866,2024-07-03,True,Germany
+PROD_00445,Universal encompassing utilization,Clothing,BrandB,238.44,153.13,294,1.2,2.1,1424,2023-03-22,False,Japan
+PROD_00446,Pre-emptive well-modulated projection,Books,BrandA,46.02,30.17,994,5.89,2.7,2804,2022-11-25,False,Germany
+PROD_00447,Networked empowering encryption,Books,BrandC,41.33,31.85,237,9.27,3.0,1756,2024-12-13,False,Japan
+PROD_00448,Right-sized neutral software,Clothing,Generic,187.41,144.08,325,1.21,3.3,3074,2023-09-08,False,China
+PROD_00449,Pre-emptive multimedia analyzer,Electronics,BrandE,1814.1,1176.86,389,3.76,1.6,4891,2024-08-21,False,Japan
+PROD_00450,Open-source 6thgeneration alliance,Beauty,BrandD,80.77,51.58,119,0.75,3.7,4215,2022-07-09,False,South Korea
+PROD_00451,Realigned encompassing open system,Books,BrandD,12.93,7.77,928,3.67,1.5,1175,2022-09-21,False,China
+PROD_00452,Proactive mobile protocol,Clothing,BrandE,25.03,17.19,764,0.46,3.3,2243,2025-04-03,False,South Korea
+PROD_00453,Monitored 24/7 structure,Clothing,BrandE,187.24,121.9,829,0.87,3.4,2776,2025-05-23,False,Japan
+PROD_00454,Ameliorated fresh-thinking policy,Electronics,BrandC,109.75,76.81,613,3.87,3.4,3276,2023-08-24,False,Germany
+PROD_00455,Realigned interactive Graphical User Interface,Electronics,BrandC,1419.04,1080.81,70,3.36,4.9,1521,2025-04-25,True,Japan
+PROD_00456,Profit-focused context-sensitive service-desk,Books,BrandE,11.67,7.94,105,9.15,2.1,545,2023-07-03,False,Germany
+PROD_00457,Open-source multimedia solution,Electronics,BrandD,170.35,108.06,484,0.77,1.0,4450,2022-10-18,False,Japan
+PROD_00458,Face-to-face well-modulated array,Electronics,BrandD,1904.83,1446.2,456,4.88,4.0,1339,2023-11-04,False,China
+PROD_00459,Open-architected transitional neural-net,Automotive,BrandA,454.26,302.63,542,0.35,2.7,1248,2022-07-06,False,Germany
+PROD_00460,Persistent dedicated info-mediaries,Clothing,BrandE,284.12,173.19,297,0.33,2.3,3392,2023-04-25,False,South Korea
+PROD_00461,Visionary eco-centric circuit,Automotive,BrandA,1060.43,834.04,800,8.86,1.6,426,2023-02-07,False,South Korea
+PROD_00462,Public-key composite superstructure,Home & Garden,Generic,158.19,108.53,380,1.26,3.4,2433,2025-04-11,False,USA
+PROD_00463,Pre-emptive leadingedge extranet,Books,BrandB,25.98,20.06,826,8.77,4.8,1616,2023-02-26,True,South Korea
+PROD_00464,Cross-platform cohesive paradigm,Beauty,BrandC,102.92,66.47,231,1.14,2.1,3345,2022-10-18,False,Germany
+PROD_00465,Expanded local solution,Electronics,BrandA,1939.66,1337.27,327,0.88,1.8,4534,2024-08-16,False,Germany
+PROD_00466,Enhanced scalable encoding,Clothing,BrandC,177.23,128.18,968,1.92,2.5,1055,2024-09-21,False,Germany
+PROD_00467,Object-based tertiary matrices,Books,Generic,42.29,30.09,56,2.17,4.1,4491,2025-01-23,True,South Korea
+PROD_00468,Monitored tangible service-desk,Books,Generic,20.84,16.63,342,5.4,3.7,1874,2024-12-04,False,Germany
+PROD_00469,Configurable secondary Graphic Interface,Automotive,BrandA,1188.25,861.53,916,9.2,3.7,2031,2024-09-20,False,Japan
+PROD_00470,Face-to-face mobile matrix,Electronics,BrandA,1564.35,973.36,127,0.45,4.3,3801,2023-05-08,True,Japan
+PROD_00471,Organized analyzing project,Beauty,BrandA,195.27,118.28,166,6.7,1.6,2669,2022-09-09,False,Germany
+PROD_00472,Future-proofed zero administration protocol,Sports,BrandC,690.25,500.37,174,8.38,1.8,2320,2024-01-02,False,China
+PROD_00473,Innovative multi-tasking moratorium,Sports,BrandE,267.56,205.72,701,0.24,2.3,4629,2022-09-28,False,South Korea
+PROD_00474,Extended dedicated Graphic Interface,Electronics,BrandD,1444.82,1019.12,523,1.59,1.7,2884,2025-05-03,False,China
+PROD_00475,Universal discrete artificial intelligence,Automotive,BrandA,836.12,569.08,896,5.26,2.3,1893,2024-01-03,False,USA
+PROD_00476,Networked dynamic capability,Clothing,BrandD,13.39,9.22,731,1.56,2.0,3429,2023-01-11,False,South Korea
+PROD_00477,Focused holistic encryption,Automotive,BrandE,353.45,259.59,498,9.63,1.0,3064,2025-01-13,False,China
+PROD_00478,Seamless client-driven throughput,Clothing,BrandA,191.35,131.76,666,1.48,1.9,161,2022-10-23,False,South Korea
+PROD_00479,Future-proofed directional projection,Automotive,Generic,1299.69,872.03,649,6.83,2.3,1319,2023-04-07,False,Germany
+PROD_00480,Centralized discrete contingency,Clothing,Generic,241.3,178.98,811,1.62,2.6,2103,2022-11-13,False,USA
+PROD_00481,Phased empowering customer loyalty,Automotive,BrandD,1483.91,902.5,53,8.34,1.2,1815,2025-01-12,False,China
+PROD_00482,Mandatory analyzing Graphic Interface,Books,Generic,32.69,24.29,132,9.82,1.7,1333,2023-09-29,False,Japan
+PROD_00483,Right-sized asymmetric projection,Clothing,BrandA,149.75,110.51,750,0.18,3.1,1793,2024-09-24,False,China
+PROD_00484,Operative actuating array,Books,BrandC,16.64,13.03,817,6.1,1.6,2479,2024-06-07,False,USA
+PROD_00485,Versatile interactive customer loyalty,Clothing,BrandC,87.94,65.82,980,1.8,1.4,2408,2024-12-30,False,USA
+PROD_00486,Implemented motivating framework,Books,BrandE,11.58,7.32,165,3.01,3.7,1198,2024-12-23,False,USA
+PROD_00487,Quality-focused coherent throughput,Books,BrandA,20.48,14.58,968,8.95,1.6,71,2024-01-19,False,Japan
+PROD_00488,Proactive bifurcated software,Home & Garden,Generic,281.03,197.72,305,7.98,1.1,3813,2023-09-04,False,South Korea
+PROD_00489,Future-proofed local migration,Clothing,BrandA,175.96,137.68,35,0.15,4.2,2610,2023-10-12,True,USA
+PROD_00490,User-centric disintermediate help-desk,Home & Garden,BrandD,318.28,243.95,205,6.58,1.2,1386,2022-08-19,False,Germany
+PROD_00491,Sharable mobile productivity,Home & Garden,BrandA,451.25,338.24,576,6.38,4.3,4276,2024-05-14,True,Japan
+PROD_00492,Future-proofed bandwidth-monitored solution,Automotive,BrandE,97.56,70.51,878,3.91,2.9,4596,2025-04-23,False,Japan
+PROD_00493,Right-sized even-keeled ability,Home & Garden,BrandB,395.73,238.96,701,3.59,2.6,3563,2024-09-11,False,Japan
+PROD_00494,Multi-lateral solution-oriented customer loyalty,Electronics,Generic,418.94,328.33,877,3.42,3.1,2790,2023-04-07,False,China
+PROD_00495,Optimized 5thgeneration open system,Books,BrandA,44.01,32.38,429,3.44,4.8,3039,2025-06-08,True,USA
+PROD_00496,Enhanced bottom-line interface,Beauty,BrandE,52.46,37.76,304,9.2,3.0,668,2022-08-19,False,USA
+PROD_00497,Adaptive content-based model,Books,BrandD,34.25,24.93,312,8.43,1.5,3413,2024-06-04,False,Japan
+PROD_00498,Enterprise-wide heuristic pricing structure,Clothing,BrandE,216.81,143.19,409,1.62,3.5,4333,2023-12-28,False,China
+PROD_00499,Open-architected background budgetary management,Automotive,BrandB,783.31,523.94,2,5.71,1.7,2153,2022-12-11,False,Japan
+PROD_00500,Open-source web-enabled parallelism,Beauty,BrandC,121.22,90.73,138,4.57,1.4,2007,2023-10-21,False,USA
+PROD_00501,Secured asymmetric complexity,Beauty,BrandE,142.79,89.31,348,4.47,2.6,4302,2025-06-03,False,Germany
+PROD_00502,Upgradable analyzing definition,Clothing,BrandD,170.25,131.44,26,1.45,5.0,4278,2024-07-08,True,South Korea
+PROD_00503,Grass-roots tertiary alliance,Automotive,BrandE,91.09,56.69,830,2.97,4.1,4075,2024-07-02,True,Germany
+PROD_00504,Enterprise-wide bifurcated Graphic Interface,Beauty,Generic,136.78,91.96,640,9.27,1.1,2879,2025-01-05,False,China
+PROD_00505,Switchable solution-oriented time-frame,Books,BrandC,23.78,17.93,2,6.85,1.6,722,2025-05-15,False,Japan
+PROD_00506,Enhanced motivating definition,Beauty,BrandE,35.93,21.85,885,2.0,4.1,4940,2022-07-14,True,South Korea
+PROD_00507,Distributed neutral knowledgebase,Books,Generic,7.06,5.39,152,5.45,3.5,4779,2022-11-24,False,USA
+PROD_00508,Public-key stable help-desk,Books,BrandC,38.85,29.26,424,8.17,3.7,2543,2024-04-18,False,Germany
+PROD_00509,Networked mission-critical superstructure,Beauty,BrandC,139.58,95.38,13,9.24,3.8,3488,2022-12-19,False,Japan
+PROD_00510,Innovative local strategy,Electronics,BrandC,1492.85,959.11,66,3.76,3.1,19,2023-07-15,False,USA
+PROD_00511,Open-architected secondary challenge,Home & Garden,BrandD,43.13,30.86,77,7.04,4.2,1784,2025-02-05,True,Japan
+PROD_00512,Proactive national customer loyalty,Electronics,BrandA,266.46,211.34,230,3.36,3.6,989,2024-05-05,False,Germany
+PROD_00513,Cloned bandwidth-monitored initiative,Sports,Generic,780.39,591.05,59,8.95,3.3,148,2024-08-02,False,China
+PROD_00514,Future-proofed bottom-line encryption,Beauty,BrandE,66.79,44.46,974,9.96,4.0,1358,2023-01-29,False,Germany
+PROD_00515,Reactive local groupware,Automotive,BrandD,160.47,107.26,635,8.73,1.3,4340,2023-04-08,False,Japan
+PROD_00516,Configurable homogeneous project,Clothing,Generic,57.96,45.06,642,1.41,4.1,3495,2024-07-24,True,China
+PROD_00517,Distributed content-based Graphic Interface,Beauty,BrandD,25.11,16.44,903,6.71,3.2,3484,2024-12-04,False,South Korea
+PROD_00518,Integrated non-volatile project,Beauty,Generic,174.97,136.16,437,5.04,5.0,1807,2023-01-01,True,Germany
+PROD_00519,Function-based fresh-thinking structure,Home & Garden,Generic,237.61,177.79,631,3.84,1.3,4885,2023-04-19,False,South Korea
+PROD_00520,Open-source hybrid emulation,Home & Garden,BrandE,223.24,162.55,703,0.78,5.0,3612,2023-02-13,True,China
+PROD_00521,Customizable homogeneous data-warehouse,Beauty,BrandA,102.66,71.81,806,6.9,2.1,3359,2023-06-18,False,USA
+PROD_00522,Progressive grid-enabled hierarchy,Clothing,BrandD,217.71,162.12,880,0.39,4.7,4244,2025-01-11,True,USA
+PROD_00523,Upgradable foreground firmware,Clothing,BrandD,37.64,25.94,989,0.51,3.0,3606,2025-01-28,False,Germany
+PROD_00524,Multi-channeled bandwidth-monitored Internet solution,Home & Garden,BrandD,405.93,257.4,0,4.98,4.3,1000,2024-04-26,True,Germany
+PROD_00525,Seamless regional migration,Clothing,BrandE,30.23,20.15,535,1.31,4.1,1998,2024-12-08,True,Japan
+PROD_00526,Automated encompassing portal,Books,Generic,45.24,36.04,833,7.9,3.6,833,2023-07-15,False,USA
+PROD_00527,Streamlined multi-state structure,Automotive,Generic,964.39,766.02,255,5.27,3.1,3826,2024-04-24,False,USA
+PROD_00528,Reduced bottom-line collaboration,Sports,BrandD,613.4,404.42,164,9.46,2.7,2944,2024-06-30,False,South Korea
+PROD_00529,Decentralized attitude-oriented hardware,Beauty,Generic,92.39,59.29,351,8.97,4.1,3988,2023-05-03,True,Germany
+PROD_00530,Devolved system-worthy moratorium,Books,BrandB,33.36,23.33,792,3.32,2.5,2404,2024-05-02,False,Japan
+PROD_00531,Progressive interactive hierarchy,Automotive,BrandB,912.29,588.78,577,5.17,1.2,2346,2024-08-16,False,Germany
+PROD_00532,Virtual explicit array,Clothing,Generic,219.14,138.28,709,1.94,2.9,3612,2024-02-15,False,Germany
+PROD_00533,Exclusive system-worthy archive,Sports,BrandA,639.8,406.1,676,0.75,4.2,4256,2025-03-05,True,South Korea
+PROD_00534,Advanced non-volatile structure,Automotive,BrandA,1356.45,895.04,339,4.18,4.1,3281,2023-01-31,True,Japan
+PROD_00535,Integrated mobile algorithm,Beauty,BrandB,44.56,30.59,663,8.97,4.3,4438,2024-10-01,True,Japan
+PROD_00536,Multi-tiered responsive protocol,Home & Garden,BrandA,286.07,172.91,808,2.11,2.0,2249,2024-11-08,False,China
+PROD_00537,Programmable national groupware,Sports,BrandA,447.39,299.1,442,7.12,2.1,384,2025-05-18,False,Japan
+PROD_00538,Distributed national ability,Sports,Generic,364.17,243.89,472,4.08,4.0,4739,2023-08-07,False,Japan
+PROD_00539,Ameliorated mission-critical encoding,Electronics,BrandE,935.12,716.85,219,2.04,4.6,1697,2023-07-31,True,China
+PROD_00540,Front-line uniform moderator,Beauty,Generic,150.17,96.41,106,2.1,4.3,592,2023-01-30,True,Germany
+PROD_00541,Monitored logistical structure,Beauty,BrandB,95.14,73.16,684,2.25,4.7,968,2023-08-30,True,South Korea
+PROD_00542,Programmable uniform hierarchy,Clothing,BrandC,164.77,100.31,872,0.92,3.3,76,2022-12-30,False,USA
+PROD_00543,Enterprise-wide responsive info-mediaries,Automotive,Generic,1333.03,935.6,880,9.36,2.7,1540,2024-11-17,False,Germany
+PROD_00544,Cross-platform static capacity,Clothing,BrandD,132.91,105.67,13,0.8,4.0,3459,2023-12-05,False,USA
+PROD_00545,Compatible coherent paradigm,Clothing,BrandD,80.35,63.01,679,0.61,3.6,3258,2024-01-08,False,USA
+PROD_00546,Optimized holistic definition,Sports,Generic,543.08,404.16,142,9.76,1.5,4809,2023-03-29,False,USA
+PROD_00547,Cross-group zero tolerance attitude,Home & Garden,BrandB,420.43,323.52,546,0.25,3.1,600,2023-06-17,False,Japan
+PROD_00548,Implemented zero tolerance flexibility,Home & Garden,Generic,331.95,227.65,395,5.93,3.3,2785,2022-08-28,False,China
+PROD_00549,Triple-buffered local product,Books,BrandD,25.66,18.59,782,0.26,5.0,2543,2023-04-11,True,Germany
+PROD_00550,Assimilated empowering moderator,Home & Garden,BrandA,91.2,71.69,267,2.9,2.3,1190,2023-02-03,False,Japan
+PROD_00551,User-friendly human-resource info-mediaries,Clothing,BrandE,51.88,38.33,38,0.78,3.5,1730,2022-10-11,False,South Korea
+PROD_00552,Future-proofed 24hour framework,Automotive,BrandA,215.96,167.91,60,8.4,4.2,3269,2024-07-14,True,USA
+PROD_00553,Polarized incremental complexity,Sports,Generic,275.16,189.8,600,0.6,1.4,4845,2024-06-27,False,South Korea
+PROD_00554,Synergized background emulation,Electronics,BrandD,610.67,416.04,172,4.64,1.4,658,2024-08-31,False,Japan
+PROD_00555,Ameliorated impactful service-desk,Automotive,BrandB,334.2,219.43,416,5.26,3.7,1269,2025-02-09,False,USA
+PROD_00556,User-centric homogeneous definition,Clothing,Generic,241.49,187.44,481,0.13,3.2,2555,2023-05-31,False,South Korea
+PROD_00557,Multi-tiered clear-thinking hub,Automotive,Generic,84.47,52.07,831,3.55,2.4,1626,2024-02-09,False,China
+PROD_00558,Versatile intermediate synergy,Automotive,BrandA,1194.18,928.74,30,9.43,2.1,2672,2023-04-29,False,Germany
+PROD_00559,Reduced real-time approach,Automotive,BrandA,262.68,166.42,287,7.27,3.5,953,2024-02-24,False,China
+PROD_00560,Virtual reciprocal concept,Home & Garden,BrandE,443.3,278.13,283,5.25,1.7,4879,2024-02-19,False,China
+PROD_00561,Secured mobile model,Home & Garden,BrandE,292.57,231.34,295,4.43,4.5,4354,2023-10-18,True,Germany
+PROD_00562,Programmable uniform complexity,Electronics,Generic,1534.11,1032.65,271,1.46,2.7,4453,2024-02-19,False,USA
+PROD_00563,Function-based didactic moderator,Home & Garden,BrandA,135.78,84.57,550,2.03,4.5,1238,2022-08-04,True,South Korea
+PROD_00564,Profit-focused zero administration strategy,Beauty,BrandE,79.76,51.14,167,7.63,4.6,359,2024-07-08,True,China
+PROD_00565,Streamlined maximized knowledgebase,Clothing,BrandD,72.6,45.96,536,1.76,2.5,3754,2023-08-28,False,Japan
+PROD_00566,Ameliorated contextually-based open architecture,Home & Garden,BrandE,392.12,257.78,527,9.28,3.4,3968,2022-10-06,False,Japan
+PROD_00567,Extended systematic toolset,Automotive,BrandB,1381.64,1065.75,690,4.89,4.7,282,2024-07-31,True,USA
+PROD_00568,Centralized coherent approach,Electronics,BrandE,1989.46,1541.0,563,3.58,4.4,3652,2022-08-16,True,Germany
+PROD_00569,Inverse multi-tasking focus group,Automotive,BrandB,1293.84,790.7,793,6.84,2.9,4415,2025-02-26,False,China
+PROD_00570,User-centric non-volatile analyzer,Sports,BrandB,550.1,424.29,631,3.63,2.5,1370,2024-05-07,False,Germany
+PROD_00571,Public-key coherent hierarchy,Automotive,BrandD,275.02,219.87,276,0.74,2.9,4021,2023-06-10,False,Japan
+PROD_00572,Upgradable local pricing structure,Clothing,BrandC,265.09,207.29,430,1.83,1.1,4240,2023-02-05,False,China
+PROD_00573,Self-enabling real-time service-desk,Home & Garden,BrandD,41.06,31.85,251,1.86,3.0,1730,2025-01-29,False,Germany
+PROD_00574,Quality-focused logistical workforce,Clothing,BrandD,138.19,96.04,236,1.51,1.9,1944,2024-09-08,False,South Korea
+PROD_00575,Open-architected incremental support,Electronics,BrandA,469.85,341.72,938,0.61,1.5,421,2022-12-22,False,South Korea
+PROD_00576,Grass-roots radical focus group,Beauty,Generic,136.23,101.02,30,3.18,2.7,328,2023-08-03,False,Germany
+PROD_00577,Sharable impactful service-desk,Automotive,BrandE,139.21,101.31,769,0.83,3.1,507,2024-05-31,False,Germany
+PROD_00578,User-friendly empowering open architecture,Beauty,BrandC,140.7,99.32,321,0.93,4.1,4890,2023-01-04,True,USA
+PROD_00579,Digitized composite success,Electronics,BrandE,1989.07,1462.78,676,3.37,2.4,3024,2023-12-06,False,Japan
+PROD_00580,Synergistic 24/7 attitude,Beauty,Generic,110.99,68.05,804,4.63,2.1,2170,2023-06-15,False,Germany
+PROD_00581,Function-based static algorithm,Electronics,Generic,1493.62,1155.75,454,0.71,1.8,3959,2022-10-30,False,Germany
+PROD_00582,Synchronized mission-critical alliance,Home & Garden,BrandD,162.89,116.53,602,9.98,3.2,887,2024-12-15,False,Germany
+PROD_00583,Stand-alone incremental circuit,Books,BrandB,40.25,25.42,860,4.06,2.9,2322,2025-02-08,False,Japan
+PROD_00584,Future-proofed neutral focus group,Books,BrandC,43.86,34.82,626,7.1,1.7,1887,2024-03-31,False,South Korea
+PROD_00585,Reactive even-keeled installation,Automotive,BrandD,47.56,37.55,848,0.79,2.9,17,2024-02-16,False,USA
+PROD_00586,Customizable background archive,Clothing,BrandE,42.31,28.24,709,0.41,3.3,1257,2025-03-12,False,USA
+PROD_00587,Persistent scalable standardization,Books,Generic,46.45,36.23,132,7.93,2.6,2362,2024-03-10,False,China
+PROD_00588,Expanded 4thgeneration alliance,Sports,Generic,328.39,247.53,453,2.29,3.2,4277,2024-12-01,False,Japan
+PROD_00589,Synchronized scalable protocol,Home & Garden,Generic,40.39,24.93,670,8.77,2.7,3032,2024-01-17,False,Germany
+PROD_00590,Intuitive context-sensitive data-warehouse,Books,Generic,9.31,6.31,816,4.12,4.2,4470,2022-08-20,True,Japan
+PROD_00591,Inverse system-worthy open system,Home & Garden,BrandC,341.37,262.96,406,3.05,2.8,242,2025-07-04,False,Japan
+PROD_00592,Multi-layered tertiary algorithm,Sports,BrandA,436.38,307.93,155,8.09,2.1,4626,2022-11-04,False,Germany
+PROD_00593,Right-sized logistical challenge,Clothing,BrandB,256.39,192.39,844,1.6,4.7,3801,2025-04-17,True,South Korea
+PROD_00594,Face-to-face scalable interface,Automotive,Generic,1337.2,867.33,566,2.96,2.1,1380,2024-12-27,False,China
+PROD_00595,Pre-emptive 4thgeneration archive,Sports,BrandC,578.87,381.62,563,1.25,2.5,142,2023-09-04,False,Japan
+PROD_00596,Total 3rdgeneration alliance,Electronics,BrandB,1903.08,1275.1,400,3.75,2.8,1980,2025-05-01,False,USA
+PROD_00597,Re-contextualized holistic ability,Electronics,Generic,139.7,90.77,606,0.4,3.6,811,2025-04-24,False,USA
+PROD_00598,Function-based value-added policy,Clothing,BrandE,123.46,92.18,899,1.56,2.5,3429,2024-11-23,False,Japan
+PROD_00599,Automated dedicated encoding,Sports,BrandD,68.53,44.42,611,2.36,3.2,4296,2023-05-12,False,China
+PROD_00600,Organized content-based model,Clothing,Generic,185.66,141.74,696,1.2,3.1,693,2024-05-20,False,South Korea
+PROD_00601,Versatile non-volatile analyzer,Books,BrandC,20.81,14.2,411,2.0,4.9,1205,2023-03-10,True,Japan
+PROD_00602,Down-sized incremental implementation,Clothing,BrandC,152.73,117.43,408,0.54,3.0,173,2024-08-17,False,USA
+PROD_00603,Advanced demand-driven open architecture,Automotive,Generic,463.3,359.51,87,8.81,3.0,3575,2023-10-12,False,Germany
+PROD_00604,Vision-oriented even-keeled function,Sports,BrandB,457.25,278.13,456,1.8,1.1,128,2024-06-17,False,Japan
+PROD_00605,Diverse scalable monitoring,Electronics,Generic,534.49,384.17,277,4.95,3.4,3864,2023-04-06,False,China
+PROD_00606,Synergized directional system engine,Automotive,BrandB,426.41,258.3,542,8.92,3.7,3720,2023-02-02,False,China
+PROD_00607,Cloned local frame,Electronics,BrandA,1165.03,748.7,324,3.73,2.4,1025,2024-09-25,False,USA
+PROD_00608,Assimilated tangible throughput,Automotive,BrandB,1160.95,703.57,967,1.16,3.4,4666,2023-03-19,False,Japan
+PROD_00609,Seamless optimal instruction set,Beauty,BrandB,185.42,125.59,874,7.08,2.3,1609,2023-12-04,False,Japan
+PROD_00610,Pre-emptive 6thgeneration functionalities,Home & Garden,Generic,239.83,167.54,869,9.24,2.0,2981,2024-07-12,False,Germany
+PROD_00611,Up-sized encompassing workforce,Electronics,BrandA,1891.99,1280.97,36,2.79,3.7,3249,2025-02-09,False,South Korea
+PROD_00612,Customer-focused fault-tolerant time-frame,Electronics,BrandA,514.54,405.79,698,4.59,4.5,3862,2022-09-17,True,USA
+PROD_00613,Cross-group cohesive core,Beauty,Generic,190.96,144.19,105,5.8,4.3,1932,2024-08-10,True,Japan
+PROD_00614,Up-sized didactic middleware,Books,BrandC,12.34,9.43,393,9.97,2.0,161,2023-07-30,False,Japan
+PROD_00615,Synergized upward-trending circuit,Automotive,BrandB,1238.81,881.69,733,6.14,2.4,4926,2023-05-24,False,South Korea
+PROD_00616,Ameliorated coherent software,Electronics,BrandD,382.62,279.73,153,3.42,2.7,4831,2024-03-26,False,China
+PROD_00617,Enterprise-wide attitude-oriented monitoring,Automotive,BrandE,107.33,85.23,843,6.92,3.1,1839,2024-03-17,False,USA
+PROD_00618,Integrated coherent knowledge user,Sports,Generic,171.21,136.57,429,7.33,3.2,867,2023-06-30,False,China
+PROD_00619,Proactive maximized pricing structure,Automotive,BrandA,85.78,51.6,324,3.72,4.3,1290,2023-05-05,True,Germany
+PROD_00620,Multi-channeled bandwidth-monitored circuit,Sports,BrandA,513.45,374.25,875,4.29,3.1,4181,2022-07-17,False,China
+PROD_00621,Object-based non-volatile benchmark,Beauty,BrandB,161.73,114.4,424,8.83,2.5,3193,2024-11-08,False,South Korea
+PROD_00622,Persistent cohesive ability,Automotive,BrandB,768.62,532.43,11,2.14,4.8,4379,2024-05-31,True,USA
+PROD_00623,Self-enabling disintermediate complexity,Automotive,BrandB,1351.16,951.26,804,7.29,1.5,4996,2022-11-06,False,USA
+PROD_00624,Multi-layered logistical core,Electronics,BrandD,1310.39,1013.2,63,1.38,4.4,50,2022-11-08,False,China
+PROD_00625,Public-key empowering orchestration,Electronics,BrandD,190.72,122.84,564,4.99,4.2,3697,2025-01-25,True,USA
+PROD_00626,Compatible optimal array,Automotive,BrandA,951.9,686.33,540,3.47,1.8,2501,2022-08-19,False,South Korea
+PROD_00627,Multi-lateral fault-tolerant instruction set,Sports,BrandB,49.79,35.54,455,5.63,1.6,1013,2023-06-09,False,Germany
+PROD_00628,Operative 5thgeneration strategy,Beauty,BrandA,10.55,8.15,898,2.09,2.3,2496,2024-10-05,False,Japan
+PROD_00629,De-engineered interactive installation,Sports,Generic,145.57,109.24,965,6.9,4.9,443,2022-12-03,True,USA
+PROD_00630,Public-key contextually-based leverage,Sports,BrandA,661.05,413.66,241,0.75,4.4,1506,2024-12-10,True,Japan
+PROD_00631,Progressive bifurcated functionalities,Clothing,BrandE,129.06,83.84,722,0.14,4.6,2464,2022-12-22,True,China
+PROD_00632,Reverse-engineered bandwidth-monitored structure,Home & Garden,BrandA,49.2,37.82,23,4.89,4.6,3913,2025-06-26,True,USA
+PROD_00633,Distributed holistic encoding,Clothing,Generic,187.7,120.26,293,0.59,1.8,733,2024-06-01,False,South Korea
+PROD_00634,Versatile homogeneous frame,Home & Garden,BrandC,75.26,51.18,812,4.82,3.0,3614,2024-05-01,False,South Korea
+PROD_00635,Enterprise-wide transitional forecast,Electronics,BrandB,1104.15,716.41,453,2.7,4.2,2062,2023-11-03,True,Japan
+PROD_00636,Virtual methodical adapter,Clothing,BrandE,153.9,93.43,661,1.41,3.8,4467,2023-02-27,False,USA
+PROD_00637,Monitored neutral orchestration,Automotive,BrandE,363.86,222.13,772,9.75,4.0,4631,2022-07-15,False,South Korea
+PROD_00638,Advanced secondary orchestration,Automotive,BrandE,325.58,200.35,211,2.83,4.0,176,2022-09-20,False,China
+PROD_00639,User-friendly foreground conglomeration,Automotive,BrandD,453.69,286.68,880,6.48,2.6,758,2024-04-11,False,China
+PROD_00640,Inverse dedicated standardization,Sports,BrandD,656.22,393.91,552,1.79,4.5,1818,2022-12-24,True,South Korea
+PROD_00641,Total object-oriented extranet,Home & Garden,BrandA,324.61,250.67,685,4.55,3.6,4235,2025-06-21,False,Japan
+PROD_00642,Open-source heuristic help-desk,Automotive,Generic,427.71,326.73,233,5.68,3.9,3795,2025-07-03,False,China
+PROD_00643,Phased explicit product,Automotive,BrandD,1190.55,724.74,381,8.61,3.8,4717,2023-08-11,False,USA
+PROD_00644,Persistent fresh-thinking standardization,Beauty,BrandC,191.9,138.93,190,6.64,4.9,1606,2023-06-11,True,China
+PROD_00645,Adaptive neutral collaboration,Sports,Generic,128.36,90.43,185,7.75,1.1,2936,2024-08-14,False,Germany
+PROD_00646,Persistent user-facing workforce,Automotive,BrandD,299.4,188.9,973,0.5,2.0,151,2025-04-22,False,China
+PROD_00647,Robust uniform superstructure,Automotive,BrandD,84.08,65.3,589,2.29,2.0,3205,2022-12-06,False,South Korea
+PROD_00648,Decentralized multi-state middleware,Electronics,BrandC,1131.71,851.29,868,3.38,4.1,2557,2024-11-06,True,Japan
+PROD_00649,Enhanced object-oriented parallelism,Home & Garden,BrandB,216.56,144.78,856,8.91,1.3,2232,2022-09-17,False,South Korea
+PROD_00650,Mandatory neutral artificial intelligence,Books,BrandE,49.84,36.58,909,2.13,3.4,2059,2025-01-30,False,Japan
+PROD_00651,Implemented human-resource matrix,Clothing,BrandD,148.34,97.45,655,1.71,4.8,2264,2024-08-20,True,Germany
+PROD_00652,Fundamental composite extranet,Automotive,BrandC,184.62,129.75,33,7.14,2.0,1117,2023-02-10,False,Japan
+PROD_00653,Ergonomic bi-directional complexity,Electronics,BrandA,1919.75,1277.07,441,0.81,4.3,1786,2022-11-07,True,Japan
+PROD_00654,Diverse grid-enabled strategy,Beauty,BrandA,10.86,6.69,558,4.23,1.2,3378,2024-05-20,False,Germany
+PROD_00655,Visionary 24/7 approach,Electronics,BrandA,1665.09,1056.81,497,1.19,2.6,4900,2022-10-24,False,Germany
+PROD_00656,Self-enabling 24hour collaboration,Automotive,BrandE,588.6,404.11,237,2.84,1.9,984,2024-10-16,False,USA
+PROD_00657,Multi-tiered executive circuit,Beauty,BrandE,80.53,51.27,509,8.92,4.9,2511,2024-04-20,True,USA
+PROD_00658,Reduced static policy,Books,BrandA,14.08,11.16,25,2.5,2.4,1436,2025-04-03,False,China
+PROD_00659,Balanced modular customer loyalty,Beauty,Generic,190.23,144.58,644,1.08,4.9,484,2023-05-29,True,USA
+PROD_00660,Phased tertiary moratorium,Automotive,BrandA,366.82,287.79,348,8.3,2.5,718,2024-06-11,False,Japan
+PROD_00661,Multi-lateral background monitoring,Home & Garden,Generic,319.74,222.29,446,9.77,3.0,1000,2022-11-21,False,USA
+PROD_00662,Distributed systemic workforce,Beauty,BrandE,110.59,70.06,704,2.94,3.4,541,2025-01-19,False,Japan
+PROD_00663,Business-focused secondary conglomeration,Automotive,BrandD,1339.96,804.32,333,7.48,4.7,1808,2022-09-13,True,USA
+PROD_00664,Right-sized methodical frame,Electronics,BrandA,1975.78,1476.8,757,3.94,3.3,3116,2023-10-31,False,Germany
+PROD_00665,Robust tangible toolset,Clothing,BrandC,218.34,166.32,331,0.22,2.8,407,2024-03-15,False,Japan
+PROD_00666,Switchable non-volatile contingency,Books,BrandE,12.88,10.13,919,2.41,1.9,3093,2025-04-01,False,USA
+PROD_00667,Right-sized multi-tasking middleware,Sports,BrandA,357.21,225.28,919,3.95,2.5,3179,2023-11-05,False,South Korea
+PROD_00668,Future-proofed background functionalities,Home & Garden,BrandC,338.76,213.96,913,7.12,1.0,1234,2024-05-14,False,South Korea
+PROD_00669,Focused object-oriented encoding,Home & Garden,BrandB,92.21,67.62,496,4.48,2.8,4659,2025-05-16,False,China
+PROD_00670,Centralized incremental hierarchy,Automotive,BrandC,271.43,172.6,96,9.88,3.6,662,2022-09-09,False,China
+PROD_00671,Face-to-face encompassing workforce,Automotive,BrandA,1292.98,934.46,499,3.32,1.2,4256,2023-01-07,False,Germany
+PROD_00672,Focused real-time throughput,Beauty,BrandE,74.51,47.17,577,6.26,1.1,22,2024-12-21,False,Japan
+PROD_00673,Reduced dynamic knowledge user,Electronics,Generic,1597.23,1216.04,702,2.62,2.5,2431,2023-05-07,False,Germany
+PROD_00674,Fundamental heuristic core,Home & Garden,Generic,205.66,142.38,389,7.11,3.1,598,2024-06-02,False,Germany
+PROD_00675,Triple-buffered reciprocal matrix,Beauty,BrandA,191.51,116.77,963,2.59,2.6,3334,2022-08-29,False,China
+PROD_00676,Adaptive global budgetary management,Automotive,BrandA,554.98,351.42,286,1.11,2.7,466,2023-11-07,False,South Korea
+PROD_00677,Decentralized scalable forecast,Clothing,BrandD,144.38,112.12,952,0.44,2.3,710,2024-09-10,False,China
+PROD_00678,Extended background analyzer,Beauty,BrandE,57.06,37.17,99,9.51,1.7,4657,2023-03-08,False,South Korea
+PROD_00679,Self-enabling optimal leverage,Books,BrandA,11.7,7.44,492,8.82,4.8,3713,2023-08-13,True,USA
+PROD_00680,Function-based solution-oriented methodology,Beauty,BrandD,46.76,34.05,116,3.41,4.6,2127,2023-02-08,True,South Korea
+PROD_00681,Decentralized secondary strategy,Books,BrandB,28.57,20.75,879,2.29,3.2,4331,2024-11-26,False,South Korea
+PROD_00682,Cloned 5thgeneration capacity,Automotive,BrandD,1367.77,1016.7,841,6.44,4.9,2637,2025-03-21,True,China
+PROD_00683,Operative mission-critical synergy,Clothing,BrandA,135.25,97.85,85,1.37,2.1,4511,2024-04-14,False,South Korea
+PROD_00684,Profit-focused exuding productivity,Clothing,Generic,258.93,164.89,85,1.66,2.5,811,2023-05-02,False,Germany
+PROD_00685,Cloned bifurcated strategy,Clothing,BrandE,140.42,104.51,275,1.78,4.9,886,2023-06-03,True,China
+PROD_00686,Fundamental composite productivity,Electronics,BrandC,1887.97,1281.48,542,3.52,2.1,4496,2025-05-29,False,Germany
+PROD_00687,Intuitive encompassing time-frame,Home & Garden,BrandE,334.96,225.48,605,1.26,4.4,2025,2022-12-28,True,Japan
+PROD_00688,Future-proofed stable service-desk,Automotive,BrandC,819.04,606.72,816,6.74,4.2,1163,2023-10-29,True,Japan
+PROD_00689,User-centric needs-based migration,Clothing,Generic,130.93,87.76,557,0.25,2.4,1787,2024-05-06,False,China
+PROD_00690,Public-key static parallelism,Home & Garden,BrandA,379.96,262.48,785,0.63,4.5,541,2023-07-12,True,South Korea
+PROD_00691,Expanded transitional moderator,Home & Garden,BrandD,194.56,118.67,207,5.49,2.8,738,2024-12-28,False,Germany
+PROD_00692,Optional exuding strategy,Sports,BrandC,585.79,445.5,607,1.9,4.0,2032,2023-04-07,False,Germany
+PROD_00693,Proactive clear-thinking encryption,Electronics,Generic,624.74,486.89,518,4.79,4.9,381,2023-03-19,True,China
+PROD_00694,Profound web-enabled superstructure,Clothing,BrandB,242.0,153.11,420,1.3,3.1,2234,2023-02-20,False,Japan
+PROD_00695,Cloned upward-trending superstructure,Sports,BrandE,59.62,41.54,965,9.06,2.4,4891,2023-09-28,False,China
+PROD_00696,Monitored encompassing paradigm,Sports,BrandE,102.82,71.27,471,5.69,3.4,3299,2022-10-28,False,China
+PROD_00697,Intuitive 5thgeneration portal,Home & Garden,BrandB,67.47,43.47,489,0.64,2.5,1517,2024-05-17,False,Germany
+PROD_00698,Innovative asynchronous projection,Beauty,Generic,183.1,139.14,25,3.17,4.0,607,2023-01-12,False,Germany
+PROD_00699,Triple-buffered zero-defect info-mediaries,Clothing,BrandD,181.58,130.15,92,1.18,2.5,4413,2024-09-20,False,China
+PROD_00700,Re-contextualized secondary Graphic Interface,Electronics,Generic,703.22,493.61,792,0.4,3.3,4777,2024-07-06,False,USA
+PROD_00701,Team-oriented systemic workforce,Electronics,BrandD,1556.92,1187.28,107,2.69,4.2,4929,2023-07-26,True,USA
+PROD_00702,Operative mission-critical challenge,Sports,BrandB,548.8,401.45,278,5.0,2.3,1057,2024-08-31,False,China
+PROD_00703,Expanded mission-critical info-mediaries,Electronics,BrandD,882.13,530.86,103,2.9,4.3,1576,2023-01-16,True,USA
+PROD_00704,Enhanced leadingedge frame,Automotive,Generic,505.58,370.6,959,5.5,4.1,4486,2022-08-30,True,Germany
+PROD_00705,Fully-configurable modular Graphical User Interface,Electronics,BrandB,1069.22,645.57,784,1.55,2.9,2721,2023-02-17,False,China
+PROD_00706,Centralized composite installation,Clothing,BrandD,194.62,130.94,141,1.48,3.6,3587,2024-12-06,False,Germany
+PROD_00707,Assimilated system-worthy throughput,Clothing,Generic,287.11,172.76,808,1.3,2.9,1684,2023-08-01,False,Japan
+PROD_00708,Multi-tiered tertiary toolset,Automotive,BrandB,126.1,88.18,444,3.43,3.6,4164,2023-10-23,False,South Korea
+PROD_00709,Multi-lateral heuristic synergy,Automotive,BrandC,27.63,20.47,653,3.46,4.6,1464,2022-07-08,True,China
+PROD_00710,Devolved human-resource open architecture,Sports,BrandD,683.46,412.86,249,2.59,1.6,1754,2023-03-05,False,South Korea
+PROD_00711,User-centric user-facing database,Sports,Generic,755.5,482.3,932,1.47,2.1,1063,2024-02-25,False,China
+PROD_00712,Balanced 24hour methodology,Automotive,Generic,1187.62,746.99,436,6.51,4.2,1487,2024-05-26,True,South Korea
+PROD_00713,Triple-buffered human-resource superstructure,Home & Garden,BrandE,498.9,377.77,361,3.05,2.2,2119,2024-09-08,False,USA
+PROD_00714,Seamless interactive help-desk,Home & Garden,BrandD,45.02,29.99,940,5.24,4.4,272,2022-10-13,True,Germany
+PROD_00715,Inverse well-modulated migration,Electronics,BrandC,1414.76,914.83,446,1.27,3.3,2262,2023-01-23,False,South Korea
+PROD_00716,Automated systematic extranet,Sports,BrandC,730.05,487.1,182,2.08,3.7,4450,2023-01-30,False,Germany
+PROD_00717,Digitized empowering functionalities,Electronics,Generic,1493.61,1154.76,696,2.26,1.7,2817,2022-09-07,False,USA
+PROD_00718,Optional bottom-line frame,Home & Garden,BrandC,93.34,62.94,831,1.11,4.2,2469,2025-01-30,True,China
+PROD_00719,Programmable encompassing collaboration,Automotive,BrandD,1424.44,1039.22,373,0.79,2.0,3881,2024-02-14,False,Japan
+PROD_00720,Universal directional productivity,Automotive,BrandB,1004.3,765.41,834,3.55,4.2,2020,2024-09-12,True,Japan
+PROD_00721,Cross-group zero-defect info-mediaries,Home & Garden,BrandB,169.43,134.94,922,6.17,2.7,1895,2024-04-16,False,China
+PROD_00722,Polarized dynamic Local Area Network,Home & Garden,BrandE,118.83,82.74,69,1.43,3.9,3780,2023-08-11,False,Japan
+PROD_00723,Open-architected heuristic pricing structure,Electronics,BrandC,578.4,419.87,701,0.37,1.8,4959,2024-12-11,False,China
+PROD_00724,Multi-layered human-resource extranet,Books,BrandE,40.56,27.68,542,6.96,3.8,3512,2022-12-17,False,Germany
+PROD_00725,Grass-roots leadingedge productivity,Beauty,BrandA,55.19,34.68,513,3.47,3.7,1359,2025-01-17,False,Japan
+PROD_00726,Multi-channeled holistic superstructure,Beauty,BrandD,157.85,113.73,735,9.1,1.1,4765,2023-05-16,False,South Korea
+PROD_00727,Object-based mobile pricing structure,Sports,BrandC,280.55,171.25,933,3.25,3.5,2337,2024-03-22,False,USA
+PROD_00728,Triple-buffered holistic application,Clothing,BrandE,41.56,31.7,33,0.58,1.8,2045,2024-09-21,False,South Korea
+PROD_00729,Universal radical framework,Books,BrandE,30.6,22.16,361,0.91,3.4,4833,2025-03-25,False,China
+PROD_00730,Assimilated web-enabled application,Sports,BrandB,709.62,430.66,913,1.9,2.7,1288,2022-12-19,False,China
+PROD_00731,Face-to-face explicit interface,Clothing,BrandC,118.13,73.25,900,1.92,2.6,1143,2023-03-24,False,Germany
+PROD_00732,Object-based background ability,Sports,BrandE,17.39,12.33,424,1.92,2.4,1967,2023-01-21,False,Germany
+PROD_00733,Assimilated fault-tolerant parallelism,Clothing,BrandA,255.37,179.22,891,0.51,2.7,4084,2024-11-29,False,Japan
+PROD_00734,Implemented transitional migration,Beauty,BrandA,44.78,29.33,138,7.05,1.1,4106,2024-09-22,False,China
+PROD_00735,Future-proofed multi-tasking methodology,Automotive,BrandD,59.5,36.7,757,9.84,3.1,3129,2023-10-22,False,Japan
+PROD_00736,Profound well-modulated core,Home & Garden,BrandC,420.87,260.67,950,7.47,1.0,2034,2023-07-23,False,Germany
+PROD_00737,Profit-focused intangible function,Automotive,BrandB,267.36,213.69,438,4.09,4.4,1745,2024-08-06,True,China
+PROD_00738,Quality-focused multi-tasking utilization,Clothing,BrandE,217.0,150.46,342,1.26,1.1,2985,2022-10-16,False,South Korea
+PROD_00739,Progressive optimizing encoding,Books,BrandD,44.34,32.96,429,3.14,4.1,4538,2023-05-19,True,Japan
+PROD_00740,Synchronized impactful open system,Home & Garden,BrandE,75.09,56.13,360,7.7,4.4,2174,2024-02-07,True,USA
+PROD_00741,Assimilated 6thgeneration hardware,Beauty,BrandE,115.32,85.65,208,7.92,1.2,601,2023-07-26,False,China
+PROD_00742,User-friendly neutral system engine,Automotive,Generic,1089.93,660.29,897,3.78,1.2,4639,2024-10-17,False,USA
+PROD_00743,Multi-channeled encompassing process improvement,Clothing,BrandB,266.14,205.17,533,1.69,4.5,4569,2023-07-27,True,Japan
+PROD_00744,Business-focused secondary data-warehouse,Books,BrandB,40.56,25.22,711,2.42,4.5,306,2022-08-05,True,Germany
+PROD_00745,Networked human-resource help-desk,Electronics,BrandD,473.41,335.58,726,2.2,1.6,488,2023-02-08,False,South Korea
+PROD_00746,Universal fault-tolerant success,Electronics,BrandC,454.98,274.2,484,1.35,2.5,3422,2024-11-21,False,Japan
+PROD_00747,Organized zero tolerance workforce,Sports,Generic,474.62,330.42,680,7.78,1.8,4381,2022-08-20,False,Germany
+PROD_00748,Visionary demand-driven interface,Beauty,BrandB,100.66,72.77,128,9.29,3.6,763,2024-09-27,False,Japan
+PROD_00749,Realigned exuding secured line,Home & Garden,BrandE,215.04,163.03,108,0.3,3.3,2408,2024-08-21,False,South Korea
+PROD_00750,Operative didactic secured line,Clothing,Generic,115.02,85.46,49,1.99,4.3,507,2022-09-24,True,USA
+PROD_00751,Devolved eco-centric alliance,Beauty,BrandC,15.55,10.46,343,6.43,4.9,1871,2025-06-14,True,Japan
+PROD_00752,De-engineered next generation contingency,Automotive,BrandE,622.07,394.48,447,1.73,4.3,2680,2023-04-15,True,USA
+PROD_00753,Intuitive system-worthy neural-net,Books,BrandB,20.56,16.39,696,7.24,3.2,4344,2025-06-09,False,Japan
+PROD_00754,Decentralized contextually-based neural-net,Home & Garden,BrandC,120.29,73.55,255,3.3,1.7,211,2022-09-15,False,China
+PROD_00755,Sharable needs-based initiative,Automotive,BrandC,1275.38,796.9,753,1.95,3.7,2223,2024-03-01,False,China
+PROD_00756,Inverse leadingedge migration,Clothing,BrandB,156.67,103.39,955,0.38,4.9,397,2023-05-06,True,Germany
+PROD_00757,Multi-channeled fresh-thinking protocol,Clothing,BrandE,220.19,139.47,768,0.3,2.3,4583,2024-10-17,False,Germany
+PROD_00758,Configurable composite alliance,Beauty,BrandE,172.98,121.58,185,7.25,1.8,3926,2024-02-24,False,Germany
+PROD_00759,Team-oriented interactive challenge,Clothing,BrandE,50.32,37.24,447,0.82,3.0,3675,2023-12-09,False,Germany
+PROD_00760,Re-contextualized homogeneous flexibility,Home & Garden,BrandD,55.98,35.67,556,4.73,1.1,19,2022-11-07,False,Japan
+PROD_00761,Seamless multimedia time-frame,Electronics,Generic,866.04,610.38,543,4.85,2.8,2595,2024-06-14,False,Japan
+PROD_00762,Advanced contextually-based model,Clothing,BrandC,63.31,50.33,512,1.45,4.0,4894,2022-11-23,False,Japan
+PROD_00763,Quality-focused object-oriented paradigm,Sports,BrandE,98.27,62.83,952,0.53,4.2,3144,2023-10-10,True,USA
+PROD_00764,Triple-buffered client-server benchmark,Sports,BrandD,244.49,180.99,768,2.56,4.7,337,2024-02-14,True,USA
+PROD_00765,Progressive scalable process improvement,Sports,BrandC,367.82,254.37,359,0.97,1.4,520,2022-11-11,False,USA
+PROD_00766,Devolved bi-directional middleware,Clothing,BrandB,237.11,165.3,338,1.2,3.5,2133,2023-11-18,False,Japan
+PROD_00767,Vision-oriented intangible framework,Clothing,Generic,122.13,80.47,260,0.76,3.8,4536,2022-12-08,False,China
+PROD_00768,Fundamental executive benchmark,Automotive,BrandC,423.21,337.64,134,7.52,2.7,830,2024-06-11,False,USA
+PROD_00769,Distributed 6thgeneration system engine,Clothing,BrandE,74.24,57.04,291,0.86,4.5,2168,2024-06-01,True,Japan
+PROD_00770,Adaptive 6thgeneration database,Home & Garden,BrandC,403.19,284.11,734,2.69,1.5,3601,2023-04-22,False,China
+PROD_00771,Organized motivating structure,Clothing,BrandC,21.33,14.38,773,1.89,4.0,1476,2022-07-09,False,Japan
+PROD_00772,Exclusive executive benchmark,Home & Garden,BrandE,334.09,220.97,636,6.45,4.6,4619,2025-01-10,True,Germany
+PROD_00773,Polarized 3rdgeneration migration,Home & Garden,BrandA,233.38,144.22,464,3.3,4.9,2428,2025-03-17,True,China
+PROD_00774,User-centric coherent definition,Electronics,BrandC,1004.98,620.18,546,0.91,3.0,2139,2022-11-13,False,Germany
+PROD_00775,Pre-emptive context-sensitive definition,Automotive,BrandE,647.55,499.37,560,9.91,2.7,1329,2023-11-06,False,USA
+PROD_00776,Integrated asymmetric standardization,Books,BrandC,14.07,10.47,908,6.61,4.3,2440,2024-05-02,True,China
+PROD_00777,Innovative real-time archive,Beauty,Generic,131.08,103.58,714,4.95,2.5,4930,2023-12-29,False,China
+PROD_00778,Automated scalable functionalities,Books,BrandB,36.91,27.01,851,8.88,4.7,2578,2023-05-19,True,Germany
+PROD_00779,Multi-channeled cohesive initiative,Clothing,Generic,124.95,80.25,449,1.76,4.2,3755,2024-12-30,True,China
+PROD_00780,Multi-channeled executive neural-net,Electronics,BrandE,1763.01,1225.24,820,0.7,1.0,3433,2025-01-09,False,USA
+PROD_00781,Grass-roots methodical functionalities,Sports,BrandA,215.1,136.91,699,9.11,2.9,4483,2024-01-11,False,USA
+PROD_00782,Pre-emptive intangible interface,Home & Garden,BrandA,268.93,176.14,976,2.21,3.2,361,2023-11-03,False,Japan
+PROD_00783,Sharable system-worthy definition,Automotive,BrandA,1248.96,752.24,807,4.68,4.1,2260,2024-09-05,True,USA
+PROD_00784,Centralized client-driven standardization,Beauty,BrandA,165.89,131.3,552,2.3,1.1,2626,2023-07-22,False,China
+PROD_00785,Cloned impactful throughput,Beauty,BrandD,71.2,44.02,408,0.21,2.9,17,2025-04-24,False,China
+PROD_00786,Up-sized human-resource protocol,Clothing,BrandE,194.01,123.72,380,1.29,2.6,86,2024-03-31,False,Japan
+PROD_00787,Enhanced real-time application,Clothing,BrandA,87.58,60.58,963,0.66,3.5,2529,2023-04-11,False,South Korea
+PROD_00788,Reverse-engineered hybrid migration,Automotive,BrandC,912.45,565.22,218,9.76,1.3,388,2024-03-01,False,China
+PROD_00789,Synergistic 6thgeneration paradigm,Sports,BrandC,535.07,421.23,993,7.32,1.0,4986,2022-11-13,False,Japan
+PROD_00790,Total 3rdgeneration website,Automotive,Generic,947.22,569.73,574,9.28,1.8,2717,2023-11-06,False,Japan
+PROD_00791,Cross-group full-range installation,Home & Garden,BrandB,408.45,321.99,401,0.77,1.7,1355,2023-07-09,False,Germany
+PROD_00792,Multi-lateral static structure,Automotive,BrandA,1026.96,717.59,697,0.51,4.9,4053,2023-01-12,True,Japan
+PROD_00793,Open-source 3rdgeneration focus group,Beauty,BrandC,191.35,120.19,29,2.35,2.5,2877,2023-09-11,False,USA
+PROD_00794,Reduced reciprocal synergy,Automotive,BrandE,965.97,765.7,268,4.94,3.2,4204,2023-08-08,False,Germany
+PROD_00795,Right-sized explicit application,Beauty,Generic,25.76,17.93,741,8.1,4.8,4657,2022-12-24,True,South Korea
+PROD_00796,Exclusive foreground orchestration,Home & Garden,BrandE,365.26,251.99,912,1.07,1.4,4573,2024-05-05,False,USA
+PROD_00797,Multi-tiered eco-centric budgetary management,Beauty,BrandD,182.92,132.97,668,4.29,2.7,3255,2023-02-02,False,Japan
+PROD_00798,Optimized composite utilization,Books,BrandB,5.61,3.59,725,6.36,5.0,405,2023-01-03,True,Germany
+PROD_00799,Distributed upward-trending framework,Beauty,Generic,180.69,133.06,70,0.95,2.6,255,2024-04-20,False,Japan
+PROD_00800,Virtual composite alliance,Home & Garden,BrandE,355.2,277.27,591,7.34,1.5,4054,2022-10-10,False,Japan
+PROD_00801,Switchable content-based matrix,Automotive,BrandB,358.17,268.02,879,7.12,3.8,4551,2023-03-18,False,Japan
+PROD_00802,Devolved encompassing moratorium,Home & Garden,BrandE,344.17,208.42,67,9.13,3.4,2658,2023-02-06,False,China
+PROD_00803,Proactive fault-tolerant collaboration,Automotive,BrandE,311.06,233.03,475,3.76,4.2,358,2025-01-23,True,Germany
+PROD_00804,Self-enabling analyzing superstructure,Beauty,BrandB,186.03,141.34,628,3.63,1.3,1056,2025-01-26,False,South Korea
+PROD_00805,Fully-configurable 5thgeneration budgetary management,Beauty,BrandA,34.98,26.69,90,7.73,4.3,3330,2024-07-22,True,USA
+PROD_00806,Distributed motivating extranet,Beauty,BrandA,104.86,79.96,526,2.29,2.2,1916,2025-03-09,False,USA
+PROD_00807,Ameliorated real-time orchestration,Electronics,BrandA,1430.13,1128.38,99,4.81,2.9,939,2023-10-15,False,South Korea
+PROD_00808,Re-contextualized regional hardware,Beauty,BrandC,63.54,41.84,860,4.63,2.1,3544,2023-02-13,False,China
+PROD_00809,Advanced neutral knowledge user,Automotive,BrandB,989.17,781.22,624,9.81,3.2,4756,2023-01-08,False,Germany
+PROD_00810,Assimilated analyzing secured line,Books,BrandE,8.19,5.04,373,7.08,2.1,3693,2023-06-05,False,USA
+PROD_00811,Integrated leadingedge adapter,Automotive,BrandE,858.13,684.68,162,7.25,1.5,1155,2024-11-05,False,South Korea
+PROD_00812,Digitized national encryption,Clothing,BrandA,34.29,22.32,683,1.1,1.2,36,2022-10-14,False,Germany
+PROD_00813,Fundamental neutral structure,Electronics,BrandE,913.92,641.97,252,4.58,2.2,3488,2023-01-16,False,Germany
+PROD_00814,Customizable background hardware,Electronics,Generic,1835.26,1353.49,858,4.08,4.9,397,2023-11-29,True,Japan
+PROD_00815,Multi-channeled executive hub,Beauty,BrandC,117.55,73.66,300,4.06,2.6,1414,2022-08-29,False,Japan
+PROD_00816,Stand-alone value-added middleware,Books,BrandD,43.85,30.88,294,9.31,1.5,2685,2025-06-06,False,Japan
+PROD_00817,Distributed modular hub,Clothing,BrandE,48.12,31.39,181,1.2,3.5,3184,2023-02-02,False,Japan
+PROD_00818,Inverse didactic success,Sports,Generic,652.48,453.08,674,3.89,3.0,689,2025-02-10,False,USA
+PROD_00819,Polarized intangible encoding,Books,BrandB,32.0,19.68,306,2.22,1.5,4116,2023-02-19,False,Japan
+PROD_00820,Total content-based infrastructure,Home & Garden,BrandD,225.28,143.25,553,4.34,1.3,1849,2024-04-28,False,Japan
+PROD_00821,Focused scalable array,Sports,BrandC,494.0,351.2,145,0.12,4.9,3303,2022-10-22,True,Germany
+PROD_00822,Fundamental fresh-thinking collaboration,Home & Garden,BrandA,23.13,17.35,133,9.83,3.7,1686,2023-05-26,False,USA
+PROD_00823,Re-contextualized solution-oriented neural-net,Electronics,BrandD,1816.38,1257.48,78,0.3,2.5,1954,2023-11-11,False,USA
+PROD_00824,Distributed intermediate knowledgebase,Beauty,BrandC,21.72,14.47,808,3.35,2.8,2004,2023-08-25,False,China
+PROD_00825,Programmable user-facing function,Beauty,BrandB,80.69,64.23,944,3.02,4.7,1799,2023-12-06,True,China
+PROD_00826,Down-sized asymmetric instruction set,Home & Garden,BrandD,186.94,136.3,694,1.94,1.5,4416,2024-07-10,False,Japan
+PROD_00827,Fully-configurable local solution,Automotive,BrandE,255.58,201.44,751,7.17,3.6,1955,2023-09-10,False,Germany
+PROD_00828,Reverse-engineered regional synergy,Home & Garden,BrandA,234.58,183.95,844,3.85,3.5,4003,2022-07-21,False,Japan
+PROD_00829,Monitored dynamic flexibility,Clothing,BrandB,241.65,179.19,858,1.33,3.6,3527,2024-03-26,False,Germany
+PROD_00830,Assimilated full-range middleware,Sports,BrandB,414.76,250.44,308,5.27,3.1,2145,2022-11-03,False,South Korea
+PROD_00831,Cloned explicit info-mediaries,Books,BrandE,48.91,38.89,34,2.77,2.4,1672,2024-02-14,False,Japan
+PROD_00832,User-friendly regional concept,Home & Garden,BrandD,455.36,312.02,198,4.32,4.4,3455,2023-05-06,True,USA
+PROD_00833,Intuitive directional product,Clothing,BrandA,31.28,24.76,362,0.94,2.7,2065,2023-08-08,False,China
+PROD_00834,Profound zero-defect access,Books,BrandE,40.74,29.71,552,2.24,2.6,4287,2023-08-21,False,Germany
+PROD_00835,Pre-emptive content-based system engine,Automotive,BrandC,127.62,93.09,504,4.5,3.2,1845,2023-08-14,False,Japan
+PROD_00836,Object-based well-modulated middleware,Home & Garden,BrandC,159.57,125.33,58,2.93,1.7,3062,2025-07-03,False,Germany
+PROD_00837,Open-architected web-enabled support,Automotive,Generic,178.4,111.63,626,6.9,4.7,2182,2025-03-23,True,China
+PROD_00838,Upgradable tertiary methodology,Beauty,BrandC,171.51,108.38,174,0.73,4.9,4689,2024-01-06,True,USA
+PROD_00839,Ameliorated encompassing strategy,Books,BrandE,37.37,22.65,70,6.49,3.0,671,2022-10-27,False,China
+PROD_00840,Assimilated high-level function,Automotive,Generic,40.32,31.34,283,5.88,4.6,3371,2023-09-24,True,Germany
+PROD_00841,Stand-alone impactful approach,Beauty,BrandA,25.76,16.64,99,4.95,4.8,4972,2022-07-26,True,USA
+PROD_00842,Synergized human-resource standardization,Automotive,BrandE,1244.71,866.9,61,6.21,4.2,2113,2023-09-16,True,South Korea
+PROD_00843,Profit-focused hybrid core,Sports,Generic,40.72,28.24,437,2.45,3.4,2212,2023-11-22,False,China
+PROD_00844,Customer-focused secondary capacity,Home & Garden,BrandD,241.42,162.54,986,9.69,1.7,3817,2023-12-29,False,USA
+PROD_00845,Progressive 4thgeneration standardization,Automotive,BrandC,322.42,206.15,19,3.63,2.4,509,2022-10-12,False,China
+PROD_00846,Programmable content-based extranet,Home & Garden,BrandE,360.01,230.04,256,8.99,2.4,2282,2022-07-15,False,China
+PROD_00847,Switchable needs-based benchmark,Books,Generic,48.14,36.35,107,2.41,4.1,2082,2025-02-17,True,Germany
+PROD_00848,Compatible disintermediate help-desk,Automotive,BrandC,86.65,53.41,297,2.38,2.5,1493,2024-10-28,False,China
+PROD_00849,Operative clear-thinking projection,Electronics,BrandC,1912.72,1501.6,154,2.57,5.0,2283,2023-08-23,True,Japan
+PROD_00850,Programmable high-level frame,Beauty,BrandD,196.3,140.73,248,4.1,2.8,1728,2022-09-18,False,Germany
+PROD_00851,Horizontal bifurcated strategy,Clothing,BrandE,77.06,52.23,537,1.91,2.9,1108,2023-07-03,False,USA
+PROD_00852,User-friendly regional service-desk,Electronics,BrandE,419.66,273.28,144,1.11,4.6,1296,2023-11-18,True,USA
+PROD_00853,Stand-alone secondary intranet,Home & Garden,BrandC,364.45,284.08,757,5.51,3.9,4231,2024-03-09,False,Germany
+PROD_00854,Triple-buffered neutral installation,Sports,Generic,329.61,216.67,184,2.79,4.7,4201,2023-07-26,True,USA
+PROD_00855,Secured full-range matrix,Clothing,BrandE,205.65,135.26,921,1.18,2.1,3982,2025-04-09,False,South Korea
+PROD_00856,Ameliorated asymmetric system engine,Electronics,BrandD,1258.17,796.48,795,4.23,3.9,4189,2025-06-03,False,USA
+PROD_00857,Implemented transitional service-desk,Books,Generic,6.66,4.85,13,4.67,3.7,939,2022-09-03,False,China
+PROD_00858,Optional demand-driven emulation,Automotive,Generic,1498.53,1030.94,624,9.31,4.9,4634,2024-09-09,True,South Korea
+PROD_00859,Ergonomic holistic architecture,Electronics,BrandB,1882.12,1396.09,570,0.81,4.9,911,2023-05-28,True,USA
+PROD_00860,Reduced systemic application,Sports,BrandE,430.38,329.69,862,9.6,4.0,4644,2024-02-27,False,USA
+PROD_00861,Vision-oriented leadingedge utilization,Home & Garden,BrandD,447.98,282.75,194,5.17,4.5,108,2022-11-03,True,USA
+PROD_00862,Visionary 5thgeneration initiative,Electronics,BrandC,174.72,111.41,584,3.75,2.1,3827,2022-09-15,False,USA
+PROD_00863,Switchable bandwidth-monitored moderator,Automotive,BrandA,1077.26,649.42,583,7.17,4.4,1041,2025-06-20,True,Japan
+PROD_00864,Ameliorated analyzing capacity,Books,BrandA,19.24,12.5,644,9.37,4.8,3188,2023-12-12,True,China
+PROD_00865,Profit-focused needs-based attitude,Electronics,BrandB,1136.01,856.3,369,0.25,2.5,3055,2024-09-29,False,China
+PROD_00866,Configurable discrete interface,Beauty,Generic,129.48,96.49,8,1.46,3.4,2927,2024-04-05,False,Japan
+PROD_00867,Synergized optimizing moratorium,Sports,BrandA,32.8,24.45,326,6.72,4.6,2541,2023-11-09,True,Germany
+PROD_00868,Organized optimal application,Automotive,BrandD,880.74,672.55,850,9.56,1.1,4510,2023-02-23,False,South Korea
+PROD_00869,User-friendly logistical instruction set,Home & Garden,BrandE,314.76,218.45,181,9.3,3.7,1509,2024-01-14,False,USA
+PROD_00870,Universal radical standardization,Home & Garden,BrandB,31.24,18.75,972,8.78,2.1,3591,2024-08-29,False,Japan
+PROD_00871,Programmable intermediate core,Clothing,Generic,218.91,136.06,436,1.59,3.5,492,2025-07-04,False,Germany
+PROD_00872,Switchable coherent moderator,Clothing,Generic,148.71,97.28,244,0.83,1.9,1833,2023-11-28,False,Japan
+PROD_00873,Assimilated dynamic emulation,Beauty,BrandE,159.88,112.68,436,2.44,4.0,1940,2024-04-14,False,Japan
+PROD_00874,Distributed holistic alliance,Home & Garden,BrandD,222.54,137.19,924,5.48,1.5,1220,2023-11-05,False,South Korea
+PROD_00875,Down-sized asynchronous artificial intelligence,Sports,Generic,658.82,408.74,953,5.07,2.1,3968,2024-06-22,False,Japan
+PROD_00876,Fully-configurable 4thgeneration task-force,Beauty,BrandA,20.61,14.69,358,5.6,3.6,4149,2023-10-08,False,Germany
+PROD_00877,Synergistic value-added Graphic Interface,Beauty,BrandC,15.42,10.42,315,6.44,2.1,2746,2023-08-04,False,USA
+PROD_00878,Seamless homogeneous Internet solution,Sports,BrandB,735.6,462.31,585,6.66,2.9,4515,2024-03-05,False,Germany
+PROD_00879,Virtual regional attitude,Books,BrandC,18.63,13.66,30,6.02,2.5,3130,2025-01-04,False,Japan
+PROD_00880,Fundamental 4thgeneration installation,Electronics,BrandB,195.88,120.69,836,4.63,2.7,3956,2023-09-18,False,Japan
+PROD_00881,Progressive actuating middleware,Clothing,Generic,178.17,126.48,602,1.21,4.4,4007,2024-09-11,True,USA
+PROD_00882,Public-key 24/7 success,Electronics,BrandD,337.53,213.27,140,1.15,2.0,1712,2024-09-13,False,Japan
+PROD_00883,Expanded encompassing website,Sports,BrandE,799.57,523.95,974,5.65,3.2,8,2023-02-22,False,Germany
+PROD_00884,Ameliorated secondary instruction set,Beauty,BrandB,11.19,7.53,792,6.19,3.1,3394,2023-10-20,False,South Korea
+PROD_00885,Organic uniform model,Sports,BrandE,478.37,335.02,284,1.6,2.8,2800,2024-03-26,False,Germany
+PROD_00886,Managed multimedia hardware,Sports,Generic,59.95,46.84,631,4.72,3.8,2377,2023-10-15,False,Japan
+PROD_00887,Digitized object-oriented migration,Electronics,BrandA,330.28,240.74,633,0.33,2.9,1331,2022-09-18,False,Germany
+PROD_00888,Progressive intermediate process improvement,Automotive,BrandB,1360.24,1077.42,561,4.37,1.1,2947,2023-07-14,False,Germany
+PROD_00889,Progressive even-keeled functionalities,Home & Garden,Generic,64.78,51.65,821,8.88,3.7,3830,2024-02-25,False,USA
+PROD_00890,Fully-configurable uniform Graphic Interface,Beauty,BrandD,57.93,41.66,382,1.02,4.3,3242,2025-06-03,True,Japan
+PROD_00891,Compatible zero tolerance policy,Home & Garden,BrandC,180.41,120.92,371,6.69,2.9,4773,2023-10-12,False,South Korea
+PROD_00892,Upgradable 24hour extranet,Books,BrandB,22.97,15.42,620,5.41,2.9,3799,2024-12-19,False,China
+PROD_00893,Public-key heuristic Internet solution,Clothing,BrandC,104.09,80.72,253,0.2,1.7,1215,2024-09-18,False,China
+PROD_00894,Compatible composite instruction set,Home & Garden,BrandB,308.78,210.6,397,0.12,2.0,2981,2025-04-11,False,China
+PROD_00895,Re-engineered 4thgeneration groupware,Automotive,BrandB,613.81,402.51,248,8.33,2.8,2439,2024-12-02,False,China
+PROD_00896,Integrated intermediate help-desk,Electronics,BrandD,1260.86,922.28,492,0.75,1.7,3721,2025-06-14,False,Germany
+PROD_00897,Customizable didactic alliance,Automotive,BrandB,148.47,117.67,801,0.61,3.2,648,2025-05-28,False,South Korea
+PROD_00898,Mandatory high-level installation,Beauty,BrandE,61.03,46.88,669,1.96,1.9,1830,2023-01-02,False,China
+PROD_00899,Re-contextualized bifurcated array,Home & Garden,BrandD,176.38,107.41,999,9.34,1.4,2019,2023-10-06,False,South Korea
+PROD_00900,De-engineered intangible throughput,Home & Garden,BrandB,409.03,276.55,971,6.17,1.0,308,2023-03-31,False,USA
+PROD_00901,Pre-emptive hybrid knowledge user,Books,BrandC,30.89,18.59,84,4.97,4.6,2396,2022-09-06,True,Japan
+PROD_00902,Pre-emptive dynamic portal,Sports,BrandD,310.35,227.89,237,3.82,2.3,831,2024-08-08,False,China
+PROD_00903,Enterprise-wide executive implementation,Clothing,BrandC,116.88,71.88,513,1.44,4.3,3954,2023-12-21,True,South Korea
+PROD_00904,Operative logistical task-force,Automotive,BrandA,1378.59,1007.11,265,4.91,3.9,1096,2023-10-27,False,Germany
+PROD_00905,Reverse-engineered local portal,Electronics,Generic,1643.89,1004.52,554,3.14,2.2,2319,2024-08-17,False,Japan
+PROD_00906,Profit-focused cohesive knowledgebase,Sports,Generic,743.16,581.36,686,1.51,4.6,3967,2025-01-26,True,Japan
+PROD_00907,Assimilated executive protocol,Books,BrandE,5.82,4.08,873,5.36,4.5,2639,2024-02-04,True,China
+PROD_00908,Re-engineered object-oriented website,Home & Garden,BrandA,111.97,70.98,541,6.49,2.6,3555,2022-11-09,False,USA
+PROD_00909,Right-sized contextually-based collaboration,Beauty,Generic,51.62,39.73,258,6.08,3.2,4390,2022-12-28,False,China
+PROD_00910,Grass-roots user-facing protocol,Beauty,BrandA,112.06,67.3,402,8.53,2.6,1613,2023-12-08,False,China
+PROD_00911,Managed intangible structure,Books,BrandB,37.06,24.7,203,3.89,3.6,1,2023-01-21,False,USA
+PROD_00912,Robust 3rdgeneration knowledge user,Books,BrandD,35.98,27.84,853,0.58,1.1,4303,2023-10-26,False,South Korea
+PROD_00913,Cross-platform 3rdgeneration methodology,Beauty,BrandA,130.81,90.62,403,8.3,2.8,1235,2024-12-12,False,Germany
+PROD_00914,Horizontal leadingedge utilization,Home & Garden,BrandE,399.21,293.22,161,3.84,4.6,689,2023-09-03,True,South Korea
+PROD_00915,Robust well-modulated projection,Automotive,BrandB,876.34,625.93,770,1.9,3.9,3810,2025-06-13,False,China
+PROD_00916,Profound optimizing utilization,Electronics,Generic,1775.84,1148.01,807,2.95,1.7,369,2022-12-08,False,USA
+PROD_00917,Expanded systemic synergy,Sports,BrandE,89.79,61.29,327,4.3,1.0,2690,2023-07-01,False,South Korea
+PROD_00918,Enterprise-wide impactful alliance,Clothing,BrandC,204.69,150.5,986,0.18,3.5,2133,2023-03-19,False,South Korea
+PROD_00919,Sharable radical Internet solution,Books,BrandC,21.84,16.78,163,5.98,4.5,1318,2022-08-30,True,Japan
+PROD_00920,Synergistic zero tolerance process improvement,Beauty,BrandE,195.28,150.71,843,1.43,3.7,175,2022-08-23,False,USA
+PROD_00921,Function-based holistic strategy,Sports,BrandD,781.97,511.1,420,5.87,2.3,1838,2022-07-29,False,Germany
+PROD_00922,Persistent systemic instruction set,Clothing,BrandD,180.36,119.56,388,1.75,1.6,3278,2022-12-19,False,Germany
+PROD_00923,Implemented bi-directional focus group,Beauty,BrandE,107.43,81.04,888,8.52,2.8,1400,2023-03-31,False,USA
+PROD_00924,Proactive secondary open architecture,Electronics,Generic,524.78,361.01,113,3.66,2.6,3956,2023-10-16,False,South Korea
+PROD_00925,Seamless analyzing moratorium,Sports,BrandE,756.14,526.57,105,8.83,3.2,3272,2023-08-02,False,China
+PROD_00926,Stand-alone clear-thinking challenge,Beauty,BrandD,62.27,46.49,213,0.38,2.3,4304,2024-02-01,False,USA
+PROD_00927,Future-proofed fault-tolerant functionalities,Automotive,Generic,1252.53,963.94,18,6.26,3.0,4745,2022-10-12,False,USA
+PROD_00928,Extended demand-driven methodology,Electronics,Generic,302.41,185.01,826,3.26,4.8,4755,2023-03-09,True,South Korea
+PROD_00929,Cross-group modular monitoring,Clothing,BrandE,78.19,56.96,493,1.83,4.2,149,2022-12-11,True,Japan
+PROD_00930,Distributed directional open system,Clothing,BrandC,216.81,167.29,180,1.59,4.7,4131,2022-07-28,True,Japan
+PROD_00931,Optional holistic throughput,Clothing,BrandD,143.64,114.17,32,1.44,2.6,1759,2024-12-24,False,Germany
+PROD_00932,Multi-lateral bi-directional access,Sports,BrandE,791.87,482.62,133,2.17,2.6,4878,2023-02-27,False,Germany
+PROD_00933,Function-based impactful matrices,Clothing,BrandC,141.88,97.87,991,1.04,1.4,624,2022-12-03,False,Japan
+PROD_00934,Phased heuristic hierarchy,Automotive,BrandC,984.85,599.04,613,9.19,3.8,4498,2024-09-02,False,Japan
+PROD_00935,Devolved optimal middleware,Beauty,BrandD,11.36,7.71,288,3.93,1.8,4043,2024-08-20,False,China
+PROD_00936,Optional dynamic superstructure,Beauty,Generic,25.37,15.76,140,3.58,3.8,143,2024-03-23,False,Germany
+PROD_00937,Fully-configurable content-based database,Home & Garden,BrandA,302.24,186.8,102,1.92,2.1,2808,2024-01-27,False,USA
+PROD_00938,Universal contextually-based process improvement,Clothing,Generic,294.63,196.09,958,1.41,2.6,2332,2024-05-07,False,South Korea
+PROD_00939,Extended eco-centric standardization,Automotive,BrandA,872.97,592.91,209,2.46,4.1,1340,2025-01-05,True,Germany
+PROD_00940,Vision-oriented eco-centric knowledgebase,Sports,BrandC,707.65,550.12,269,7.25,2.1,3792,2025-04-23,False,Germany
+PROD_00941,Visionary context-sensitive parallelism,Automotive,BrandE,1111.24,838.68,695,4.45,2.4,2710,2024-10-21,False,South Korea
+PROD_00942,Compatible interactive moderator,Sports,BrandE,247.44,194.73,883,4.86,2.3,489,2024-02-16,False,Japan
+PROD_00943,Digitized tertiary flexibility,Clothing,BrandC,112.26,67.43,258,1.14,2.0,3010,2024-08-20,False,Germany
+PROD_00944,Organic actuating help-desk,Electronics,BrandE,996.7,767.25,29,3.59,3.0,379,2023-10-06,False,Germany
+PROD_00945,Decentralized analyzing Internet solution,Clothing,BrandA,96.57,70.84,135,0.14,2.5,4468,2023-06-14,False,China
+PROD_00946,Adaptive reciprocal migration,Clothing,BrandE,134.71,107.35,556,1.58,4.7,2955,2023-10-17,True,Germany
+PROD_00947,Right-sized tangible forecast,Beauty,BrandD,188.72,128.62,923,3.06,3.5,3016,2023-07-06,False,Germany
+PROD_00948,Extended value-added array,Home & Garden,Generic,251.56,195.71,518,8.02,2.8,1393,2022-12-10,False,USA
+PROD_00949,Distributed systemic synergy,Automotive,BrandE,1173.27,934.37,192,6.05,3.7,4521,2023-08-06,False,China
+PROD_00950,Monitored homogeneous firmware,Clothing,Generic,175.75,131.75,138,1.91,4.4,120,2024-01-10,True,China
+PROD_00951,Digitized 4thgeneration budgetary management,Electronics,Generic,1783.44,1198.83,28,4.96,2.1,1284,2024-04-28,False,South Korea
+PROD_00952,Organized asynchronous matrix,Clothing,BrandC,118.01,74.51,63,0.34,4.9,460,2023-07-09,True,South Korea
+PROD_00953,Streamlined 3rdgeneration archive,Electronics,BrandD,1936.51,1345.96,14,2.19,2.9,2739,2023-06-06,False,USA
+PROD_00954,Configurable static collaboration,Electronics,BrandC,1232.81,775.24,928,2.5,2.2,2641,2025-02-24,False,South Korea
+PROD_00955,Monitored bottom-line approach,Books,BrandE,9.02,7.03,89,3.45,4.0,3359,2023-04-15,False,Germany
+PROD_00956,Focused zero-defect toolset,Books,BrandE,37.72,23.0,722,4.84,2.2,3450,2024-01-06,False,China
+PROD_00957,Centralized static groupware,Electronics,BrandC,1332.69,1015.93,732,1.33,4.4,734,2024-08-31,True,Japan
+PROD_00958,Fully-configurable maximized firmware,Books,BrandC,35.76,25.08,994,8.06,3.9,1930,2024-10-10,False,USA
+PROD_00959,Grass-roots secondary process improvement,Electronics,Generic,1813.84,1154.87,685,3.92,3.1,4146,2024-08-10,False,Japan
+PROD_00960,Fundamental upward-trending firmware,Electronics,BrandD,907.82,578.15,934,1.59,3.1,4915,2023-11-27,False,China
+PROD_00961,Persevering 5thgeneration neural-net,Home & Garden,BrandE,246.17,179.12,149,3.24,4.3,2042,2025-06-02,True,South Korea
+PROD_00962,Profit-focused multi-state array,Home & Garden,BrandC,267.29,204.62,502,3.52,3.8,3742,2024-03-10,False,Japan
+PROD_00963,Synergistic even-keeled toolset,Books,Generic,34.37,25.76,448,9.66,3.3,1257,2024-05-12,False,Germany
+PROD_00964,Exclusive coherent service-desk,Clothing,BrandC,24.19,18.28,20,1.18,4.7,2615,2022-12-22,True,South Korea
+PROD_00965,Progressive non-volatile hardware,Home & Garden,BrandA,380.45,304.07,643,8.38,4.2,3466,2023-09-30,True,Japan
+PROD_00966,Down-sized optimal knowledgebase,Books,BrandD,43.39,30.45,870,7.84,3.0,3884,2024-10-04,False,USA
+PROD_00967,Innovative didactic productivity,Books,BrandB,25.54,15.5,476,8.79,3.3,3222,2024-10-16,False,South Korea
+PROD_00968,Integrated discrete algorithm,Electronics,BrandC,113.33,82.41,231,0.17,3.2,1253,2022-07-10,False,China
+PROD_00969,Optional hybrid support,Clothing,Generic,21.29,15.57,614,1.69,4.4,2848,2022-07-14,True,China
+PROD_00970,User-friendly needs-based artificial intelligence,Books,BrandC,49.35,39.47,464,2.82,4.4,723,2022-09-26,True,Germany
+PROD_00971,Ergonomic heuristic array,Beauty,BrandC,72.69,57.5,232,8.7,4.0,263,2024-11-24,False,Japan
+PROD_00972,Persevering neutral matrix,Clothing,BrandA,215.21,140.97,753,1.22,1.0,2059,2023-06-28,False,Japan
+PROD_00973,Multi-channeled client-driven methodology,Books,BrandD,12.79,10.06,184,7.17,2.5,998,2023-04-05,False,South Korea
+PROD_00974,Function-based content-based customer loyalty,Home & Garden,Generic,224.23,137.46,690,8.29,1.2,4694,2023-03-28,False,Germany
+PROD_00975,Versatile high-level customer loyalty,Electronics,BrandC,1520.54,968.94,411,3.76,2.5,1213,2023-12-16,False,South Korea
+PROD_00976,Multi-lateral cohesive moderator,Automotive,Generic,419.41,295.34,90,1.74,4.8,1276,2022-12-09,True,Germany
+PROD_00977,Customer-focused attitude-oriented definition,Clothing,BrandC,102.21,78.78,58,0.95,2.0,3026,2023-12-30,False,Japan
+PROD_00978,Virtual disintermediate process improvement,Books,BrandD,19.71,13.88,540,5.55,4.0,781,2025-05-30,False,USA
+PROD_00979,Open-source intermediate policy,Books,BrandD,20.27,14.43,545,7.76,4.2,3424,2025-02-09,True,South Korea
+PROD_00980,Advanced client-server matrix,Electronics,BrandD,61.02,41.88,164,3.3,1.7,2771,2025-07-01,False,Japan
+PROD_00981,Profit-focused stable task-force,Electronics,BrandC,1484.0,1016.57,263,0.89,2.1,1023,2023-11-20,False,USA
+PROD_00982,Versatile stable interface,Home & Garden,BrandA,456.39,342.23,225,2.34,1.6,529,2025-04-18,False,Germany
+PROD_00983,Cross-group systematic success,Home & Garden,BrandC,117.58,78.16,441,4.38,4.6,3763,2022-12-23,True,South Korea
+PROD_00984,Function-based intangible hub,Beauty,BrandA,126.46,78.92,969,7.37,1.6,1939,2023-09-22,False,USA
+PROD_00985,Versatile client-server paradigm,Clothing,BrandA,221.35,147.17,908,1.82,3.4,452,2024-06-20,False,China
+PROD_00986,Progressive even-keeled methodology,Electronics,BrandE,1564.61,1055.76,384,4.5,2.4,2430,2025-05-07,False,Japan
+PROD_00987,Customer-focused systemic encryption,Beauty,BrandC,154.82,107.88,166,7.49,4.6,3373,2022-10-14,True,USA
+PROD_00988,Customer-focused demand-driven info-mediaries,Books,BrandD,7.4,5.43,193,8.96,5.0,4392,2025-04-26,True,China
+PROD_00989,Expanded human-resource protocol,Beauty,BrandA,44.65,35.23,269,1.77,1.2,3375,2023-03-22,False,Germany
+PROD_00990,Organized stable paradigm,Clothing,BrandA,60.01,41.27,692,0.66,2.8,997,2025-03-14,False,Japan
+PROD_00991,Operative optimizing Internet solution,Beauty,BrandC,41.56,28.97,439,9.65,2.2,2085,2023-01-11,False,USA
+PROD_00992,Mandatory exuding utilization,Books,BrandD,38.14,23.79,124,3.28,1.6,311,2023-11-19,False,China
+PROD_00993,Stand-alone bifurcated application,Automotive,Generic,97.64,74.95,119,2.79,3.1,3587,2023-09-19,False,China
+PROD_00994,Digitized 3rdgeneration data-warehouse,Sports,BrandD,586.7,357.69,723,5.33,1.8,4149,2024-08-28,False,South Korea
+PROD_00995,Cross-group even-keeled extranet,Electronics,BrandA,1945.45,1267.74,825,2.57,1.7,3878,2024-01-29,False,Germany
+PROD_00996,Optional even-keeled contingency,Electronics,BrandC,1873.2,1303.83,575,0.11,1.0,2110,2024-03-22,False,Germany
+PROD_00997,Streamlined asynchronous Graphical User Interface,Books,BrandC,28.87,21.61,761,3.39,1.7,1060,2024-05-11,False,China
+PROD_00998,Fully-configurable empowering hardware,Home & Garden,BrandA,380.54,234.36,248,3.97,3.1,3953,2024-11-20,False,USA
+PROD_00999,Integrated modular adapter,Clothing,BrandD,272.41,215.13,106,1.85,1.6,4327,2023-06-03,False,USA
+PROD_01000,Virtual static throughput,Electronics,BrandA,57.51,34.58,350,3.24,2.3,4486,2023-07-29,False,USA

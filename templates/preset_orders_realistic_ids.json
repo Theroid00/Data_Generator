@@ -1,0 +1,50 @@
+{
+  "name": "Orders with Realistic IDs",
+  "description": "E-commerce orders with practical ID formats",
+  "columns": [
+    {
+      "name": "order_id",
+      "data_type": "uuid",
+      "uuid_format": "readable",
+      "uuid_prefix": "ORD",
+      "description": "Human-readable order ID"
+    },
+    {
+      "name": "user_id",
+      "data_type": "uuid",
+      "uuid_format": "readable",
+      "uuid_prefix": "USR",
+      "description": "Customer user ID"
+    },
+    {
+      "name": "product_code",
+      "data_type": "uuid",
+      "uuid_format": "medium",
+      "description": "Product code"
+    },
+    {
+      "name": "transaction_id",
+      "data_type": "uuid",
+      "uuid_format": "short",
+      "description": "Short transaction ID"
+    },
+    {
+      "name": "name",
+      "data_type": "name",
+      "description": "Full name"
+    },
+    {
+      "name": "email",
+      "data_type": "email",
+      "description": "Email address"
+    },
+    {
+      "name": "age",
+      "data_type": "integer",
+      "min_value": 18,
+      "max_value": 65,
+      "description": "Age"
+    }
+  ],
+  "relationships": []
+}

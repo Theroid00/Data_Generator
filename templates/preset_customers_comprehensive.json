@@ -1,0 +1,181 @@
+{
+  "name": "preset_customers_comprehensive",
+  "description": "Template based on customers_comprehensive dataset",
+  "source_dataset": "customers_comprehensive",
+  "created_at": "2025-07-05T00:40:52.345995",
+  "quality_score": 50.0,
+  "columns": [
+    {
+      "name": "customer_id",
+      "data_type": "text",
+      "required": "True",
+      "description": "Auto-generated from customers_comprehensive"
+    },
+    {
+      "name": "full_name",
+      "data_type": "name",
+      "required": "True",
+      "description": "Auto-generated from customers_comprehensive"
+    },
+    {
+      "name": "email",
+      "data_type": "email",
+      "required": "True",
+      "description": "Auto-generated from customers_comprehensive"
+    },
+    {
+      "name": "phone",
+      "data_type": "phone",
+      "required": "True",
+      "description": "Auto-generated from customers_comprehensive"
+    },
+    {
+      "name": "age",
+      "data_type": "integer",
+      "required": "True",
+      "description": "Auto-generated from customers_comprehensive",
+      "min_value": 18.0,
+      "max_value": 80.0,
+      "distribution": "normal"
+    },
+    {
+      "name": "gender",
+      "data_type": "categorical",
+      "required": "True",
+      "description": "Auto-generated from customers_comprehensive",
+      "categories": [
+        "Male",
+        "Female",
+        "Other"
+      ]
+    },
+    {
+      "name": "registration_date",
+      "data_type": "text",
+      "required": "True",
+      "description": "Auto-generated from customers_comprehensive"
+    },
+    {
+      "name": "last_purchase_date",
+      "data_type": "text",
+      "required": "True",
+      "description": "Auto-generated from customers_comprehensive"
+    },
+    {
+      "name": "total_spent",
+      "data_type": "float",
+      "required": "True",
+      "description": "Auto-generated from customers_comprehensive",
+      "min_value": 34.62,
+      "max_value": 19982.26,
+      "distribution": "normal"
+    },
+    {
+      "name": "purchase_frequency",
+      "data_type": "categorical",
+      "required": "True",
+      "description": "Auto-generated from customers_comprehensive",
+      "categories": [
+        "Quarterly",
+        "Monthly",
+        "Weekly",
+        "Rarely"
+      ]
+    },
+    {
+      "name": "preferred_category",
+      "data_type": "categorical",
+      "required": "True",
+      "description": "Auto-generated from customers_comprehensive",
+      "categories": [
+        "Books",
+        "Electronics",
+        "Sports",
+        "Home",
+        "Clothing"
+      ]
+    },
+    {
+      "name": "loyalty_tier",
+      "data_type": "categorical",
+      "required": "True",
+      "description": "Auto-generated from customers_comprehensive",
+      "categories": [
+        "Platinum",
+        "Silver",
+        "Gold",
+        "Bronze"
+      ]
+    },
+    {
+      "name": "country",
+      "data_type": "categorical",
+      "required": "True",
+      "description": "Auto-generated from customers_comprehensive",
+      "categories": [
+        "UK",
+        "Australia",
+        "Germany",
+        "Canada",
+        "USA"
+      ]
+    },
+    {
+      "name": "city",
+      "data_type": "categorical",
+      "required": "True",
+      "description": "Auto-generated from customers_comprehensive",
+      "categories": [
+        "Hamburg",
+        "Glasgow",
+        "Montreal",
+        "Leeds",
+        "Sydney",
+        "Berlin",
+        "Manchester",
+        "New York",
+        "Perth",
+        "Los Angeles",
+        "Birmingham",
+        "Houston",
+        "Toronto",
+        "Melbourne",
+        "Brisbane",
+        "Chicago",
+        "Vancouver",
+        "Munich",
+        "Ottawa",
+        "Calgary"
+      ]
+    },
+    {
+      "name": "subscription_status",
+      "data_type": "categorical",
+      "required": "True",
+      "description": "Auto-generated from customers_comprehensive",
+      "categories": [
+        "Active",
+        "Inactive",
+        "Churned"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "type": "date_sequence",
+      "columns": [
+        "registration_date",
+        "last_purchase_date"
+      ],
+      "description": "Date columns should maintain chronological order"
+    },
+    {
+      "type": "geographic",
+      "columns": [
+        "country",
+        "city"
+      ],
+      "description": "Country and city should be geographically consistent"
+    }
+  ]
+}

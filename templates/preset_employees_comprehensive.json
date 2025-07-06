@@ -1,0 +1,134 @@
+{
+  "name": "preset_employees_comprehensive",
+  "description": "Template based on employees_comprehensive dataset",
+  "source_dataset": "employees_comprehensive",
+  "created_at": "2025-07-05T00:40:52.335678",
+  "quality_score": 65.0,
+  "columns": [
+    {
+      "name": "employee_id",
+      "data_type": "integer",
+      "required": "True",
+      "description": "Auto-generated from employees_comprehensive",
+      "min_value": 1000.0,
+      "max_value": 2999.0,
+      "distribution": "normal"
+    },
+    {
+      "name": "first_name",
+      "data_type": "name",
+      "required": "True",
+      "description": "Auto-generated from employees_comprehensive"
+    },
+    {
+      "name": "last_name",
+      "data_type": "name",
+      "required": "True",
+      "description": "Auto-generated from employees_comprehensive"
+    },
+    {
+      "name": "email",
+      "data_type": "email",
+      "required": "True",
+      "description": "Auto-generated from employees_comprehensive"
+    },
+    {
+      "name": "department",
+      "data_type": "categorical",
+      "required": "True",
+      "description": "Auto-generated from employees_comprehensive",
+      "categories": [
+        "Sales",
+        "Legal",
+        "Design",
+        "Engineering",
+        "HR",
+        "Operations",
+        "Marketing",
+        "Finance"
+      ]
+    },
+    {
+      "name": "job_level",
+      "data_type": "categorical",
+      "required": "True",
+      "description": "Auto-generated from employees_comprehensive",
+      "categories": [
+        "Manager",
+        "Lead",
+        "Junior",
+        "Director",
+        "VP",
+        "Senior"
+      ]
+    },
+    {
+      "name": "salary",
+      "data_type": "integer",
+      "required": "True",
+      "description": "Auto-generated from employees_comprehensive",
+      "min_value": 35000.0,
+      "max_value": 260514.0,
+      "distribution": "normal"
+    },
+    {
+      "name": "hire_date",
+      "data_type": "text",
+      "required": "True",
+      "description": "Auto-generated from employees_comprehensive"
+    },
+    {
+      "name": "age",
+      "data_type": "integer",
+      "required": "True",
+      "description": "Auto-generated from employees_comprehensive",
+      "min_value": 22.0,
+      "max_value": 65.0,
+      "distribution": "normal"
+    },
+    {
+      "name": "performance_rating",
+      "data_type": "categorical",
+      "required": "True",
+      "description": "Auto-generated from employees_comprehensive",
+      "categories": [
+        "Good",
+        "Satisfactory",
+        "Excellent",
+        "Needs Improvement"
+      ]
+    },
+    {
+      "name": "remote_work",
+      "data_type": "float",
+      "required": "True",
+      "description": "Auto-generated from employees_comprehensive",
+      "min_value": 0.0,
+      "max_value": 1.0,
+      "distribution": "normal"
+    },
+    {
+      "name": "country",
+      "data_type": "categorical",
+      "required": "True",
+      "description": "Auto-generated from employees_comprehensive",
+      "categories": [
+        "USA",
+        "Australia",
+        "Canada",
+        "Germany",
+        "UK"
+      ]
+    },
+    {
+      "name": "years_experience",
+      "data_type": "integer",
+      "required": "True",
+      "description": "Auto-generated from employees_comprehensive",
+      "min_value": 0.0,
+      "max_value": 45.0,
+      "distribution": "normal"
+    }
+  ],
+  "relationships": []
+}

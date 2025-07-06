@@ -1,0 +1,801 @@
+student_id,first_name,last_name,age,grade_level,gpa,major,enrollment_date,expected_graduation,tuition_fee,scholarship_amount,attendance_rate,extracurricular_activities,dormitory_resident,home_state
+STU_00001,Marcia,Sanford,16,Freshman,3.87,Computer Science,2023-03-05,2027-03-05,45000.0,9712,0.74,0,True,MI
+STU_00002,Lauren,Rogers,23,Senior,3.57,Business,2025-03-26,2026-03-26,40000.0,3173,0.85,1,True,GA
+STU_00003,Tabitha,Lawrence,24,Senior,3.36,Engineering,2022-09-06,2023-09-06,43000.0,1024,0.8,3,True,PA
+STU_00004,Mark,Gray,17,Freshman,4.0,Business,2021-11-17,2025-11-17,40000.0,7298,0.99,6,True,IL
+STU_00005,Karen,Jones,19,Sophomore,3.82,Business,2024-05-24,2027-05-24,48000.0,7797,0.98,5,True,CA
+STU_00006,David,Shah,18,Freshman,3.6,English,2024-07-22,2028-07-22,36000.0,4758,0.79,5,True,CA
+STU_00007,Andrew,Rivera,19,Sophomore,4.0,Mathematics,2024-07-02,2027-07-02,35000.0,14130,0.94,0,True,FL
+STU_00008,Troy,Marshall,17,Freshman,4.0,History,2022-07-05,2026-07-05,28000.0,13236,0.9,3,True,FL
+STU_00009,Matthew,Delgado,22,Junior,3.28,Engineering,2022-01-28,2024-01-28,51600.0,2727,0.87,2,True,CA
+STU_00010,Jennifer,Wright,23,Senior,4.0,Business,2021-10-20,2022-10-20,48000.0,11305,0.92,6,False,CA
+STU_00011,Valerie,Perry,18,Freshman,3.86,History,2025-02-26,2029-02-26,33600.0,6653,0.89,3,False,NY
+STU_00012,Gavin,Graham,21,Junior,3.99,Biology,2022-10-15,2024-10-15,38000.0,6971,0.94,2,True,OH
+STU_00013,Stephanie,Davis,22,Junior,3.86,Mathematics,2021-09-07,2023-09-07,42000.0,13919,0.87,2,True,CA
+STU_00014,Andrew,Beltran,16,Freshman,3.83,Engineering,2023-06-03,2027-06-03,43000.0,6934,0.84,4,False,MI
+STU_00015,Robert,Calhoun,21,Junior,4.0,English,2025-02-09,2027-02-09,30000.0,5641,0.89,5,True,NC
+STU_00016,Thomas,Hines,22,Junior,3.73,Engineering,2022-10-10,2024-10-10,43000.0,7413,0.83,7,True,MI
+STU_00017,Megan,Brady,17,Freshman,3.35,Biology,2023-05-10,2027-05-10,38000.0,2028,0.72,4,True,PA
+STU_00018,Steven,Jones,16,Freshman,4.0,Computer Science,2023-05-07,2027-05-07,45000.0,5313,0.92,0,True,MI
+STU_00019,Carol,Elliott,23,Senior,3.95,Engineering,2025-01-26,2026-01-26,43000.0,9980,0.83,0,True,PA
+STU_00020,David,Hale,22,Junior,4.0,English,2022-02-21,2024-02-21,30000.0,9347,0.88,1,True,NC
+STU_00021,Charles,Wolf,23,Senior,4.0,Psychology,2025-04-24,2026-04-24,33000.0,7730,0.98,0,True,MI
+STU_00022,Stephanie,Torres,22,Junior,4.0,Psychology,2025-05-19,2027-05-19,33000.0,12987,0.77,2,True,MI
+STU_00023,Charles,Rogers,17,Freshman,4.0,Psychology,2023-11-11,2027-11-11,33000.0,14890,0.91,7,True,GA
+STU_00024,Terri,Hill,20,Sophomore,4.0,Mathematics,2022-11-28,2025-11-28,42000.0,13524,0.99,7,True,NY
+STU_00025,Dennis,Williams,17,Freshman,3.92,History,2023-05-19,2027-05-19,28000.0,6516,0.87,7,True,PA
+STU_00026,Hector,Schultz,22,Junior,4.0,Business,2022-08-06,2024-08-06,48000.0,10787,0.95,1,True,CA
+STU_00027,Timothy,Barry,19,Sophomore,3.85,Engineering,2025-01-08,2028-01-08,43000.0,13028,0.93,1,True,OH
+STU_00028,Rebecca,Taylor,20,Sophomore,3.29,Mathematics,2025-04-21,2028-04-21,42000.0,1542,0.73,7,False,TX
+STU_00029,Lisa,Smith,24,Senior,3.47,English,2022-09-26,2023-09-26,30000.0,1524,0.75,0,True,OH
+STU_00030,Jason,Shepherd,20,Sophomore,3.75,English,2025-02-06,2028-02-06,30000.0,5516,0.95,4,False,GA
+STU_00031,Jeffery,Walsh,20,Sophomore,3.6,Psychology,2024-03-01,2027-03-01,39600.0,4789,0.78,6,False,CA
+STU_00032,Mark,Jones,16,Freshman,4.0,English,2025-06-24,2029-06-24,30000.0,14872,0.82,3,True,MI
+STU_00033,Donna,Steele,18,Freshman,3.61,Engineering,2025-05-25,2029-05-25,43000.0,2082,0.93,2,True,NC
+STU_00034,Sharon,Barker,24,Senior,3.95,Mathematics,2023-06-10,2024-06-10,35000.0,13686,0.88,2,True,PA
+STU_00035,David,Boone,21,Junior,3.35,English,2022-02-05,2024-02-05,30000.0,1324,0.92,3,True,PA
+STU_00036,Brandon,Montgomery,24,Senior,3.38,Mathematics,2022-01-21,2023-01-21,35000.0,741,0.83,5,False,IL
+STU_00037,Toni,Holland,21,Junior,3.69,Business,2021-09-17,2023-09-17,40000.0,5139,0.99,0,False,GA
+STU_00038,William,Medina,24,Senior,4.0,Computer Science,2025-04-10,2026-04-10,45000.0,12100,0.9,3,True,MI
+STU_00039,Anna,Jones,22,Junior,3.15,Business,2024-03-19,2026-03-19,40000.0,957,0.86,6,False,FL
+STU_00040,Jonathan,Guzman,19,Sophomore,3.84,Mathematics,2024-10-28,2027-10-28,35000.0,14350,0.7,7,True,OH
+STU_00041,Alexander,Byrd,16,Freshman,3.78,English,2023-04-21,2027-04-21,36000.0,5916,0.81,6,False,NY
+STU_00042,Jeremy,Gregory,21,Junior,2.96,Biology,2023-02-01,2025-02-01,38000.0,0,0.73,0,False,PA
+STU_00043,Amanda,Cooper,19,Sophomore,4.0,English,2023-08-09,2026-08-09,36000.0,8385,0.93,7,True,TX
+STU_00044,Jeanne,Gill,20,Sophomore,3.62,Computer Science,2024-12-21,2027-12-21,45000.0,2264,0.72,2,False,IL
+STU_00045,Charles,Paul,20,Sophomore,3.48,History,2025-03-30,2028-03-30,28000.0,2849,0.76,3,False,PA
+STU_00046,Sherry,Brown,17,Freshman,3.68,Biology,2024-10-30,2028-10-30,38000.0,5668,0.71,3,False,OH
+STU_00047,Miguel,Black,18,Freshman,3.65,History,2023-08-10,2027-08-10,33600.0,7836,0.91,5,True,TX
+STU_00048,Andrew,Lewis,20,Sophomore,3.32,Biology,2022-04-09,2025-04-09,45600.0,1031,0.88,0,True,CA
+STU_00049,Kathleen,Jensen,17,Freshman,3.55,Mathematics,2025-01-31,2029-01-31,35000.0,5115,0.76,4,False,PA
+STU_00050,David,Smith,23,Senior,2.94,English,2021-07-27,2022-07-27,36000.0,0,0.72,1,True,NY
+STU_00051,Dawn,Garcia,21,Junior,4.0,Computer Science,2021-11-20,2023-11-20,45000.0,13040,0.94,2,True,GA
+STU_00052,Dawn,Pope,24,Senior,3.95,Biology,2021-09-21,2022-09-21,38000.0,7512,0.84,5,True,OH
+STU_00053,Isaac,Black,16,Freshman,4.0,Computer Science,2024-01-25,2028-01-25,54000.0,14234,0.97,6,False,TX
+STU_00054,Destiny,Escobar,19,Sophomore,3.76,English,2021-12-17,2024-12-17,30000.0,5644,0.77,1,True,IL
+STU_00055,Thomas,Graham,19,Sophomore,3.69,Mathematics,2023-11-19,2026-11-19,35000.0,2255,0.99,6,True,PA
+STU_00056,Virginia,Coleman,18,Freshman,3.8,Mathematics,2022-05-30,2026-05-30,42000.0,4413,0.78,0,True,NY
+STU_00057,Randall,Cortez,24,Senior,4.0,Computer Science,2021-10-08,2022-10-08,45000.0,12887,0.88,3,True,IL
+STU_00058,Rebecca,Tapia,20,Sophomore,3.93,Biology,2024-09-28,2027-09-28,38000.0,14098,0.86,6,False,GA
+STU_00059,John,Robles,16,Freshman,3.35,Mathematics,2024-05-19,2028-05-19,35000.0,2231,0.75,3,True,IL
+STU_00060,Jacob,Thompson,24,Senior,3.89,Computer Science,2022-01-23,2023-01-23,54000.0,6639,0.95,2,False,CA
+STU_00061,Jenna,Parker,20,Sophomore,3.82,Biology,2023-11-25,2026-11-25,45600.0,11755,0.98,4,True,NY
+STU_00062,Nathaniel,Flores,22,Junior,3.89,Psychology,2022-04-15,2024-04-15,39600.0,8648,0.98,1,True,NY
+STU_00063,Robert,Williams,17,Freshman,3.32,Biology,2024-02-09,2028-02-09,38000.0,2359,0.81,7,False,FL
+STU_00064,Gabrielle,Berry,20,Sophomore,4.0,Mathematics,2024-02-12,2027-02-12,35000.0,14097,0.75,0,True,PA
+STU_00065,Stacy,Wolfe,17,Freshman,4.0,English,2023-04-15,2027-04-15,30000.0,8616,0.85,2,False,NC
+STU_00066,Travis,Reeves,23,Senior,3.63,Psychology,2024-01-10,2025-01-10,33000.0,3584,0.72,4,True,PA
+STU_00067,Melanie,Williams,19,Sophomore,3.55,Psychology,2024-01-20,2027-01-20,39600.0,6073,0.87,7,True,TX
+STU_00068,Theresa,Cooper,19,Sophomore,3.86,History,2024-02-24,2027-02-24,28000.0,5431,0.94,2,False,MI
+STU_00069,Christopher,Fuentes,17,Freshman,3.8,Mathematics,2024-10-06,2028-10-06,35000.0,8629,0.89,1,True,IL
+STU_00070,Robert,Lewis,18,Freshman,3.58,Biology,2022-06-13,2026-06-13,38000.0,6322,0.75,4,False,NC
+STU_00071,Kevin,Henry,16,Freshman,3.05,Computer Science,2023-07-22,2027-07-22,54000.0,1,0.75,7,True,NY
+STU_00072,Lisa,Johnson,20,Sophomore,3.74,Engineering,2025-01-04,2028-01-04,43000.0,2575,0.78,6,True,FL
+STU_00073,Eric,Edwards,22,Junior,3.95,Biology,2024-07-04,2026-07-04,38000.0,11479,0.72,3,True,IL
+STU_00074,Phillip,Hanson,18,Freshman,3.82,Biology,2022-10-01,2026-10-01,38000.0,6644,0.86,2,False,PA
+STU_00075,Annette,Camacho,24,Senior,3.61,History,2024-10-15,2025-10-15,28000.0,6410,0.85,2,False,NC
+STU_00076,Thomas,Lee,17,Freshman,3.66,Biology,2022-04-13,2026-04-13,38000.0,7577,0.91,1,False,IL
+STU_00077,Jose,Beltran,16,Freshman,3.49,Mathematics,2024-07-16,2028-07-16,35000.0,1683,0.82,2,True,MI
+STU_00078,Katie,Hull,23,Senior,3.96,English,2024-02-02,2025-02-02,36000.0,5279,0.84,1,False,CA
+STU_00079,Aaron,Woods,23,Senior,3.98,History,2024-07-10,2025-07-10,28000.0,14853,0.99,1,True,OH
+STU_00080,Christopher,Palmer,23,Senior,3.9,Mathematics,2025-04-30,2026-04-30,42000.0,14850,0.87,4,False,CA
+STU_00081,Shannon,Brown,19,Sophomore,3.11,English,2023-04-22,2026-04-22,30000.0,603,0.7,5,False,FL
+STU_00082,Melissa,Jackson,16,Freshman,3.51,Biology,2022-03-29,2026-03-29,38000.0,4629,0.84,5,True,NC
+STU_00083,Andrew,Rice,17,Freshman,4.0,Business,2024-11-03,2028-11-03,40000.0,9272,0.99,0,True,PA
+STU_00084,Edward,Jarvis,17,Freshman,3.97,Biology,2022-07-04,2026-07-04,38000.0,13494,0.9,7,True,OH
+STU_00085,Amber,Hernandez,21,Junior,3.7,English,2024-06-20,2026-06-20,30000.0,4582,0.82,0,False,PA
+STU_00086,Michael,Fry,23,Senior,3.8,Psychology,2022-05-08,2023-05-08,33000.0,5196,0.84,6,True,PA
+STU_00087,Patrick,Weeks,19,Sophomore,4.0,Mathematics,2022-11-12,2025-11-12,42000.0,7752,0.98,4,False,CA
+STU_00088,Emily,Moody,24,Senior,4.0,History,2021-07-13,2022-07-13,28000.0,14632,0.99,6,True,NC
+STU_00089,Trevor,Foster,16,Freshman,3.91,Computer Science,2023-02-10,2027-02-10,54000.0,6662,0.93,2,True,NY
+STU_00090,Sarah,Duran,17,Freshman,4.0,Computer Science,2025-03-19,2029-03-19,54000.0,6008,0.93,5,True,TX
+STU_00091,Steven,Flores,22,Junior,3.52,Engineering,2021-10-17,2023-10-17,51600.0,3928,0.85,3,False,CA
+STU_00092,John,Harvey,16,Freshman,3.59,History,2025-05-14,2029-05-14,28000.0,3849,0.73,7,True,NC
+STU_00093,David,Mejia,23,Senior,3.8,Computer Science,2023-06-26,2024-06-26,54000.0,7605,0.72,5,False,NY
+STU_00094,Kaitlin,Walker,22,Junior,3.96,History,2024-09-23,2026-09-23,28000.0,7603,0.98,1,False,OH
+STU_00095,Victor,Moore,22,Junior,3.49,Mathematics,2021-09-05,2023-09-05,35000.0,382,0.8,4,True,FL
+STU_00096,Melissa,Bradley,17,Freshman,3.43,Psychology,2025-06-07,2029-06-07,39600.0,1662,0.78,6,False,TX
+STU_00097,Stephen,Harrington,16,Freshman,3.66,Biology,2022-12-08,2026-12-08,45600.0,2512,0.95,1,True,TX
+STU_00098,Sonia,Young,20,Sophomore,3.52,Psychology,2023-05-30,2026-05-30,33000.0,3529,0.75,7,True,MI
+STU_00099,Jessica,Robertson,20,Sophomore,3.69,Engineering,2024-11-12,2027-11-12,43000.0,2581,0.83,7,True,PA
+STU_00100,Whitney,Jenkins,18,Freshman,3.9,English,2023-06-18,2027-06-18,36000.0,7902,0.93,1,False,NY
+STU_00101,Anthony,Fisher,24,Senior,3.71,Psychology,2024-10-23,2025-10-23,33000.0,7494,1.0,2,True,GA
+STU_00102,April,Freeman,24,Senior,3.71,Computer Science,2022-07-24,2023-07-24,45000.0,6810,0.83,2,False,FL
+STU_00103,Cassandra,Weber,19,Sophomore,3.13,Business,2025-06-27,2028-06-27,40000.0,668,0.98,2,True,FL
+STU_00104,Emily,Leblanc,21,Junior,3.93,Biology,2024-04-24,2026-04-24,38000.0,12073,0.87,5,False,FL
+STU_00105,Julie,Harrington,21,Junior,3.66,Business,2022-05-23,2024-05-23,40000.0,6057,0.82,5,True,OH
+STU_00106,Denise,Schmidt,24,Senior,4.0,English,2022-03-02,2023-03-02,30000.0,6434,0.97,3,False,FL
+STU_00107,Vincent,Smith,21,Junior,3.82,English,2024-10-09,2026-10-09,30000.0,8237,0.96,7,True,MI
+STU_00108,Kimberly,Hill,18,Freshman,3.56,Mathematics,2022-03-10,2026-03-10,42000.0,5820,0.7,4,True,TX
+STU_00109,Stephanie,Owen,21,Junior,4.0,Biology,2022-05-23,2024-05-23,38000.0,6359,0.91,0,True,PA
+STU_00110,Heather,Bond,23,Senior,3.27,Biology,2024-10-08,2025-10-08,45600.0,854,0.76,7,True,CA
+STU_00111,Cassandra,Gordon,16,Freshman,3.66,English,2021-07-22,2025-07-22,30000.0,2385,0.84,7,False,MI
+STU_00112,Amy,Griffith,20,Sophomore,3.83,English,2024-05-24,2027-05-24,30000.0,11945,0.82,2,True,FL
+STU_00113,Kenneth,Griffin,19,Sophomore,3.57,English,2021-07-07,2024-07-07,36000.0,2241,0.77,4,True,CA
+STU_00114,Derek,Peterson,16,Freshman,4.0,History,2023-09-19,2027-09-19,33600.0,8306,0.96,5,False,CA
+STU_00115,Phillip,Wilcox,16,Freshman,3.68,Psychology,2024-02-28,2028-02-28,33000.0,5793,0.82,4,False,NC
+STU_00116,Ryan,Hurley,21,Junior,3.73,Biology,2022-09-04,2024-09-04,38000.0,4000,0.8,4,True,OH
+STU_00117,Jesse,Pollard,18,Freshman,3.74,English,2025-04-22,2029-04-22,30000.0,4462,0.85,6,True,MI
+STU_00118,Brandon,Merritt,16,Freshman,3.13,English,2023-01-31,2027-01-31,36000.0,1098,0.73,4,True,NY
+STU_00119,Amanda,Orozco,18,Freshman,4.0,Business,2024-11-06,2028-11-06,48000.0,14614,0.79,4,True,TX
+STU_00120,Christina,Mcguire,21,Junior,3.79,Psychology,2023-03-02,2025-03-02,33000.0,2787,0.92,4,False,IL
+STU_00121,David,Acevedo,17,Freshman,4.0,Computer Science,2022-12-18,2026-12-18,54000.0,7142,0.89,2,False,CA
+STU_00122,Jasmin,Robbins,21,Junior,4.0,English,2022-09-03,2024-09-03,30000.0,14896,0.85,3,False,GA
+STU_00123,Sarah,Craig,16,Freshman,3.51,Engineering,2022-02-03,2026-02-03,43000.0,4510,0.77,7,False,NC
+STU_00124,Diana,Hicks,23,Senior,4.0,Biology,2024-09-01,2025-09-01,38000.0,10387,0.86,0,True,IL
+STU_00125,Christopher,Evans,24,Senior,4.0,Business,2025-02-03,2026-02-03,40000.0,13499,0.98,5,True,GA
+STU_00126,Sarah,Mendez,20,Sophomore,3.89,Mathematics,2024-08-06,2027-08-06,42000.0,7565,0.85,7,True,NY
+STU_00127,Jeffrey,Vega,24,Senior,3.82,Business,2025-06-25,2026-06-25,48000.0,7952,1.0,5,True,CA
+STU_00128,Diane,Cooper,19,Sophomore,3.63,Mathematics,2023-05-03,2026-05-03,35000.0,5097,0.72,3,True,PA
+STU_00129,Ashley,Wang,20,Sophomore,3.26,Engineering,2022-01-04,2025-01-04,43000.0,1871,0.83,0,False,GA
+STU_00130,Stephen,Brown,18,Freshman,3.6,Computer Science,2021-08-28,2025-08-28,45000.0,5651,0.84,7,True,NC
+STU_00131,James,Joyce,22,Junior,3.4,Psychology,2025-06-27,2027-06-27,39600.0,1945,0.99,1,False,CA
+STU_00132,Jessica,Hunt,24,Senior,3.52,English,2021-11-07,2022-11-07,30000.0,3215,0.88,3,False,OH
+STU_00133,Dustin,Williams,23,Senior,3.72,Business,2023-05-03,2024-05-03,40000.0,4725,0.93,5,True,MI
+STU_00134,Debbie,Bell,18,Freshman,4.0,History,2021-07-15,2025-07-15,28000.0,13724,0.76,1,True,OH
+STU_00135,Sharon,Bautista,16,Freshman,3.97,Business,2021-10-30,2025-10-30,40000.0,7013,0.89,0,False,PA
+STU_00136,John,Neal,20,Sophomore,4.0,Business,2024-09-03,2027-09-03,40000.0,8633,0.98,0,True,GA
+STU_00137,Andrea,Hernandez,21,Junior,4.0,Psychology,2024-04-09,2026-04-09,33000.0,5394,0.89,0,True,GA
+STU_00138,Sherry,Lane,16,Freshman,3.25,Psychology,2023-09-11,2027-09-11,33000.0,704,0.83,6,False,GA
+STU_00139,Charlotte,Edwards,21,Junior,3.85,Psychology,2022-11-06,2024-11-06,33000.0,8665,0.88,5,True,IL
+STU_00140,Abigail,Sullivan,24,Senior,4.0,Business,2022-03-04,2023-03-04,40000.0,11828,0.96,1,True,GA
+STU_00141,Benjamin,Richards,19,Sophomore,4.0,Engineering,2022-11-01,2025-11-01,51600.0,9893,0.96,3,False,NY
+STU_00142,Ana,Davis,23,Senior,3.46,Computer Science,2022-08-06,2023-08-06,45000.0,1479,0.87,3,False,NC
+STU_00143,John,Scott,19,Sophomore,3.82,Psychology,2022-01-01,2025-01-01,39600.0,8133,0.75,4,True,TX
+STU_00144,Joseph,Lee,21,Junior,3.93,History,2025-05-15,2027-05-15,33600.0,8804,0.74,2,True,NY
+STU_00145,Sherry,White,24,Senior,4.0,English,2023-04-07,2024-04-07,30000.0,5878,0.96,3,True,GA
+STU_00146,Debbie,Boyer,22,Junior,3.17,Mathematics,2022-08-25,2024-08-25,35000.0,553,0.74,5,True,OH
+STU_00147,Elizabeth,Flores,22,Junior,3.09,History,2024-02-19,2026-02-19,28000.0,75,0.86,2,True,GA
+STU_00148,Karina,Burke,22,Junior,3.42,Psychology,2022-04-13,2024-04-13,33000.0,2749,0.87,2,False,OH
+STU_00149,Laura,Walters,17,Freshman,3.6,Mathematics,2022-12-02,2026-12-02,35000.0,4697,0.8,6,False,GA
+STU_00150,Barbara,Armstrong,23,Senior,3.83,English,2021-12-01,2022-12-01,30000.0,9073,0.96,3,True,IL
+STU_00151,Mary,Bartlett,19,Sophomore,3.57,English,2021-08-06,2024-08-06,30000.0,6680,0.78,1,True,NC
+STU_00152,Ryan,Edwards,23,Senior,3.71,Engineering,2022-01-24,2023-01-24,43000.0,3180,0.96,7,False,OH
+STU_00153,Steve,Evans,21,Junior,3.18,Business,2024-08-04,2026-08-04,48000.0,311,0.7,2,True,CA
+STU_00154,Zachary,Lindsey,18,Freshman,3.62,Psychology,2025-06-06,2029-06-06,33000.0,5305,0.85,6,True,IL
+STU_00155,Troy,Garza,20,Sophomore,3.28,Mathematics,2023-09-21,2026-09-21,42000.0,824,0.72,5,True,TX
+STU_00156,Brenda,Washington,24,Senior,3.64,Computer Science,2023-06-26,2024-06-26,54000.0,6815,0.74,6,True,NY
+STU_00157,Michael,Anderson,21,Junior,3.76,Biology,2024-10-04,2026-10-04,38000.0,6051,0.74,4,False,FL
+STU_00158,Joseph,Banks,19,Sophomore,4.0,English,2024-12-17,2027-12-17,30000.0,14747,0.98,4,True,NC
+STU_00159,John,Dyer,23,Senior,3.86,Psychology,2025-04-03,2026-04-03,33000.0,10448,0.83,1,False,PA
+STU_00160,Tammy,Wang,23,Senior,4.0,Mathematics,2024-04-08,2025-04-08,35000.0,10076,0.93,7,False,GA
+STU_00161,Samantha,Johnson,23,Senior,3.39,Computer Science,2025-02-17,2026-02-17,45000.0,1991,0.91,3,True,IL
+STU_00162,Carla,Perry,21,Junior,4.0,History,2023-11-10,2025-11-10,28000.0,8319,0.93,0,True,GA
+STU_00163,Thomas,Davis,18,Freshman,3.4,Biology,2024-02-24,2028-02-24,38000.0,2084,0.82,5,True,NC
+STU_00164,Jeremy,Rodriguez,22,Junior,2.81,History,2023-09-30,2025-09-30,28000.0,0,0.73,6,True,NC
+STU_00165,Tiffany,Carter,22,Junior,4.0,English,2021-09-06,2023-09-06,30000.0,12916,0.9,4,True,IL
+STU_00166,Jimmy,Dixon,23,Senior,3.68,Psychology,2023-02-23,2024-02-23,33000.0,4211,0.86,4,True,PA
+STU_00167,Luis,Conley,17,Freshman,3.53,History,2024-08-09,2028-08-09,33600.0,4060,0.74,3,True,TX
+STU_00168,Deanna,Stokes,21,Junior,4.0,History,2022-04-18,2024-04-18,28000.0,13567,0.96,7,True,GA
+STU_00169,Sandra,King,19,Sophomore,4.0,History,2025-04-07,2028-04-07,28000.0,6091,0.9,1,False,FL
+STU_00170,Allison,King,16,Freshman,4.0,Business,2022-10-19,2026-10-19,40000.0,12065,0.9,3,False,OH
+STU_00171,Amy,Sullivan,21,Junior,4.0,History,2024-02-14,2026-02-14,33600.0,14494,0.93,6,True,NY
+STU_00172,Michael,Powell,24,Senior,3.24,Computer Science,2021-11-24,2022-11-24,45000.0,1504,0.75,0,True,PA
+STU_00173,Joel,Randall,18,Freshman,3.56,Computer Science,2021-10-04,2025-10-04,54000.0,6340,0.78,6,True,TX
+STU_00174,Kenneth,Franklin,23,Senior,3.84,Mathematics,2025-03-03,2026-03-03,35000.0,11469,0.91,3,True,FL
+STU_00175,Jennifer,Mooney,20,Sophomore,3.53,Business,2024-03-04,2027-03-04,48000.0,2278,0.71,5,False,NY
+STU_00176,Ian,Allen,23,Senior,3.63,Mathematics,2022-09-03,2023-09-03,42000.0,5079,0.8,6,False,CA
+STU_00177,Terri,Fischer,24,Senior,3.74,History,2023-05-06,2024-05-06,28000.0,5942,0.87,6,True,FL
+STU_00178,Allison,Wilson,17,Freshman,3.35,Mathematics,2024-08-09,2028-08-09,35000.0,1165,0.76,4,False,PA
+STU_00179,Dylan,Richards,20,Sophomore,4.0,Business,2024-01-26,2027-01-26,40000.0,11721,0.9,3,False,FL
+STU_00180,Victoria,Davis,21,Junior,3.11,English,2024-09-07,2026-09-07,30000.0,2749,0.81,4,False,OH
+STU_00181,Jasmine,Lester,24,Senior,3.77,Business,2024-03-06,2025-03-06,40000.0,4495,0.83,3,True,OH
+STU_00182,Anthony,Garcia,16,Freshman,3.95,Computer Science,2021-10-19,2025-10-19,45000.0,10791,0.98,2,True,NC
+STU_00183,Jeffrey,Juarez,21,Junior,4.0,Business,2023-05-21,2025-05-21,48000.0,13063,0.95,0,False,TX
+STU_00184,Elizabeth,Santos,16,Freshman,4.0,Computer Science,2023-12-02,2027-12-02,45000.0,10881,1.0,7,True,FL
+STU_00185,April,Roberson,22,Junior,4.0,Engineering,2024-08-29,2026-08-29,51600.0,6427,0.95,5,True,CA
+STU_00186,Jonathan,Perez,17,Freshman,3.32,English,2023-06-05,2027-06-05,30000.0,1419,0.96,7,False,GA
+STU_00187,Jennifer,Thomas,17,Freshman,3.88,History,2022-12-09,2026-12-09,28000.0,9630,0.9,4,False,IL
+STU_00188,Melissa,Peterson,16,Freshman,3.92,Engineering,2023-07-03,2027-07-03,43000.0,5372,0.75,3,True,MI
+STU_00189,Eric,Simon,20,Sophomore,3.97,Mathematics,2021-12-26,2024-12-26,42000.0,11957,0.95,4,True,NY
+STU_00190,Patrick,Lawrence,18,Freshman,3.44,English,2022-11-22,2026-11-22,30000.0,1125,0.92,1,True,OH
+STU_00191,Jerry,James,24,Senior,3.71,Engineering,2024-09-05,2025-09-05,43000.0,7573,0.84,0,False,MI
+STU_00192,Jacob,Morales,20,Sophomore,4.0,Biology,2023-04-26,2026-04-26,38000.0,5966,0.84,6,True,OH
+STU_00193,Jeremy,Wallace,16,Freshman,3.64,Biology,2021-12-11,2025-12-11,38000.0,5513,0.94,7,True,FL
+STU_00194,Danny,Gonzalez,21,Junior,3.52,English,2024-03-07,2026-03-07,30000.0,5282,0.75,3,False,OH
+STU_00195,Albert,Ayala,24,Senior,3.34,English,2023-01-29,2024-01-29,36000.0,1329,0.76,0,True,NY
+STU_00196,Collin,Palmer,22,Junior,3.94,Engineering,2023-10-17,2025-10-17,43000.0,8514,0.88,1,False,GA
+STU_00197,Joshua,Thompson,18,Freshman,3.31,History,2025-02-14,2029-02-14,28000.0,461,0.81,3,False,GA
+STU_00198,Nicole,Leach,20,Sophomore,3.98,Business,2024-03-13,2027-03-13,40000.0,9839,0.9,4,False,PA
+STU_00199,Colton,Mitchell,23,Senior,3.58,Business,2021-12-15,2022-12-15,40000.0,3427,0.87,1,True,GA
+STU_00200,Kyle,Brewer,19,Sophomore,3.5,Biology,2022-11-14,2025-11-14,45600.0,7417,0.71,6,True,CA
+STU_00201,Carol,Cooper,23,Senior,3.96,Mathematics,2022-11-02,2023-11-02,42000.0,11477,0.72,5,True,CA
+STU_00202,Rachael,Dennis,19,Sophomore,4.0,Mathematics,2023-06-21,2026-06-21,42000.0,8748,0.95,1,True,CA
+STU_00203,Ronald,Cruz,23,Senior,4.0,History,2024-01-21,2025-01-21,28000.0,13153,0.91,0,True,NC
+STU_00204,Thomas,Reid,16,Freshman,3.71,Engineering,2025-05-28,2029-05-28,43000.0,7536,0.86,0,False,FL
+STU_00205,Amy,Wright,22,Junior,4.0,Mathematics,2024-03-05,2026-03-05,35000.0,6087,0.9,5,False,FL
+STU_00206,Jennifer,Phillips,19,Sophomore,4.0,Mathematics,2024-12-27,2027-12-27,42000.0,9246,0.86,4,False,TX
+STU_00207,Brittany,Mendoza,19,Sophomore,3.56,Mathematics,2021-09-18,2024-09-18,42000.0,2621,0.99,6,False,NY
+STU_00208,Teresa,Koch,19,Sophomore,4.0,Mathematics,2021-11-22,2024-11-22,35000.0,8730,0.98,3,True,MI
+STU_00209,Kimberly,Walters,19,Sophomore,3.62,Mathematics,2022-01-09,2025-01-09,42000.0,5073,0.97,0,True,NY
+STU_00210,Kayla,Medina,17,Freshman,4.0,Psychology,2023-02-23,2027-02-23,33000.0,11686,0.94,3,True,FL
+STU_00211,Dennis,Patel,16,Freshman,4.0,English,2023-11-26,2027-11-26,30000.0,12012,0.76,1,True,OH
+STU_00212,Ralph,Choi,24,Senior,3.52,Computer Science,2025-06-30,2026-06-30,54000.0,2992,0.86,6,False,NY
+STU_00213,Amanda,Day,19,Sophomore,4.0,English,2024-10-28,2027-10-28,30000.0,6694,0.83,1,False,FL
+STU_00214,Jesse,Cantu,19,Sophomore,3.75,Psychology,2022-08-15,2025-08-15,33000.0,4242,0.87,5,False,NC
+STU_00215,Christopher,Evans,22,Junior,3.64,Biology,2024-04-12,2026-04-12,38000.0,3186,0.86,4,False,MI
+STU_00216,Robert,Rogers,19,Sophomore,3.68,History,2023-01-10,2026-01-10,33600.0,2631,0.71,3,False,TX
+STU_00217,Haley,Mann,23,Senior,3.95,History,2022-08-13,2023-08-13,28000.0,13706,0.79,7,True,GA
+STU_00218,Gabriel,Roth,20,Sophomore,3.77,Psychology,2025-01-15,2028-01-15,33000.0,7313,0.89,0,True,IL
+STU_00219,Yvonne,Harvey,23,Senior,4.0,History,2023-05-30,2024-05-30,28000.0,6489,0.77,4,True,PA
+STU_00220,Matthew,Smith,18,Freshman,3.37,Computer Science,2021-09-20,2025-09-20,45000.0,1672,0.75,0,True,NC
+STU_00221,Stephanie,Taylor,23,Senior,3.93,History,2023-03-10,2024-03-10,33600.0,14301,0.98,0,True,NY
+STU_00222,Brian,Smith,23,Senior,3.3,Biology,2023-06-15,2024-06-15,45600.0,266,1.0,3,True,CA
+STU_00223,Grant,Melendez,17,Freshman,3.56,English,2024-12-17,2028-12-17,30000.0,3539,0.73,6,True,GA
+STU_00224,Samantha,Johnson,23,Senior,4.0,History,2022-03-30,2023-03-30,28000.0,10578,0.91,6,True,MI
+STU_00225,Jennifer,Goodwin,24,Senior,3.7,English,2023-10-11,2024-10-11,30000.0,4741,0.72,5,True,FL
+STU_00226,Dominique,Spencer,20,Sophomore,3.99,Engineering,2021-09-24,2024-09-24,43000.0,11121,0.93,2,True,PA
+STU_00227,Tracey,Jones,21,Junior,3.4,Computer Science,2022-10-13,2024-10-13,54000.0,705,0.76,7,True,NY
+STU_00228,Lisa,Murray,23,Senior,4.0,English,2022-06-11,2023-06-11,30000.0,11734,0.98,3,False,NC
+STU_00229,Sheri,Wilson,19,Sophomore,3.44,Biology,2024-07-04,2027-07-04,45600.0,177,0.88,2,True,CA
+STU_00230,Ian,Johnson,24,Senior,3.56,History,2024-02-21,2025-02-21,28000.0,6944,0.94,4,True,PA
+STU_00231,Arthur,Kent,22,Junior,3.74,History,2021-08-31,2023-08-31,28000.0,6507,0.97,7,False,GA
+STU_00232,Robert,Miller,18,Freshman,3.66,Business,2021-12-30,2025-12-30,48000.0,5392,0.87,2,True,NY
+STU_00233,Christopher,Nguyen,21,Junior,4.0,Biology,2025-06-26,2027-06-26,45600.0,5240,0.95,2,True,TX
+STU_00234,Jack,Powers,22,Junior,4.0,Psychology,2023-06-04,2025-06-04,39600.0,9998,0.95,4,True,CA
+STU_00235,Danielle,Farmer,23,Senior,3.84,Biology,2024-01-30,2025-01-30,38000.0,5938,0.9,5,True,IL
+STU_00236,Thomas,Garrett,16,Freshman,4.0,Business,2021-08-23,2025-08-23,48000.0,6968,0.99,5,True,NY
+STU_00237,Robert,Pope,18,Freshman,4.0,Computer Science,2022-02-08,2026-02-08,45000.0,5410,0.98,0,True,NC
+STU_00238,Brittney,Adams,24,Senior,3.9,English,2022-08-10,2023-08-10,30000.0,8974,0.86,5,True,GA
+STU_00239,Johnny,Gilmore,21,Junior,3.86,Mathematics,2022-03-26,2024-03-26,35000.0,5034,0.76,0,True,MI
+STU_00240,Daniel,Wall,22,Junior,3.59,English,2022-12-01,2024-12-01,30000.0,2886,0.82,5,False,OH
+STU_00241,Michael,Berger,23,Senior,4.0,History,2024-12-06,2025-12-06,33600.0,11395,0.96,4,True,CA
+STU_00242,Charles,Sanchez,22,Junior,3.86,English,2024-06-14,2026-06-14,30000.0,8363,0.79,0,True,OH
+STU_00243,Stephanie,Gordon,19,Sophomore,4.0,Mathematics,2022-07-04,2025-07-04,42000.0,5706,0.92,5,True,TX
+STU_00244,Crystal,Smith,22,Junior,3.62,Engineering,2024-11-27,2026-11-27,51600.0,7558,0.86,7,True,TX
+STU_00245,Dakota,Martinez,24,Senior,3.68,Biology,2023-08-11,2024-08-11,45600.0,4015,0.97,0,True,CA
+STU_00246,Lori,Robbins,23,Senior,4.0,Engineering,2025-01-22,2026-01-22,43000.0,13212,0.72,3,False,NC
+STU_00247,Carl,Walker,23,Senior,3.64,History,2024-07-25,2025-07-25,33600.0,5089,0.93,7,True,CA
+STU_00248,Katie,Cross,17,Freshman,4.0,Engineering,2025-02-22,2029-02-22,51600.0,6207,0.82,0,True,NY
+STU_00249,Jack,Wilson,20,Sophomore,4.0,English,2024-01-15,2027-01-15,36000.0,11877,0.87,3,True,TX
+STU_00250,Elizabeth,Montgomery,17,Freshman,4.0,English,2025-03-21,2029-03-21,30000.0,7391,0.86,2,False,MI
+STU_00251,Heather,Reese,20,Sophomore,3.42,Engineering,2025-03-16,2028-03-16,43000.0,1048,0.75,4,False,PA
+STU_00252,Christopher,Anderson,17,Freshman,3.42,Computer Science,2025-01-27,2029-01-27,45000.0,2960,0.97,4,False,OH
+STU_00253,Courtney,Wilcox,18,Freshman,3.24,Mathematics,2023-10-10,2027-10-10,35000.0,1084,0.79,7,True,FL
+STU_00254,Catherine,Delgado,23,Senior,4.0,History,2024-06-11,2025-06-11,28000.0,5793,0.86,3,False,GA
+STU_00255,Gregory,Lopez,21,Junior,3.12,History,2024-10-16,2026-10-16,33600.0,525,0.74,4,True,TX
+STU_00256,Ryan,Delgado,20,Sophomore,3.69,Computer Science,2022-01-09,2025-01-09,45000.0,6589,0.8,5,False,GA
+STU_00257,Jacob,Oconnor,22,Junior,3.56,History,2023-11-24,2025-11-24,28000.0,5835,0.75,1,False,FL
+STU_00258,Sarah,Jones,20,Sophomore,4.0,English,2024-11-02,2027-11-02,36000.0,10330,0.88,6,True,CA
+STU_00259,Lindsay,Smith,16,Freshman,3.93,English,2024-06-09,2028-06-09,36000.0,7682,0.85,2,True,TX
+STU_00260,Jamie,Lee,21,Junior,3.59,Engineering,2024-01-30,2026-01-30,43000.0,4198,0.83,1,True,PA
+STU_00261,Adrian,Spence,16,Freshman,4.0,Biology,2024-06-18,2028-06-18,45600.0,7949,0.83,3,True,CA
+STU_00262,Crystal,Nelson,21,Junior,3.55,English,2022-05-19,2024-05-19,30000.0,5624,0.72,7,True,MI
+STU_00263,Jeffrey,Cox,22,Junior,3.65,Mathematics,2022-10-07,2024-10-07,42000.0,2698,0.76,6,True,TX
+STU_00264,Brian,Cooper,23,Senior,3.61,Psychology,2023-07-22,2024-07-22,33000.0,3815,0.72,7,True,NC
+STU_00265,Edward,Rush,21,Junior,3.84,Mathematics,2023-08-18,2025-08-18,35000.0,10906,0.75,3,True,GA
+STU_00266,Christopher,Kelly,22,Junior,4.0,Business,2024-05-08,2026-05-08,48000.0,9394,0.83,7,True,NY
+STU_00267,Cassidy,Mcclain,21,Junior,3.25,Computer Science,2021-10-18,2023-10-18,45000.0,958,0.77,1,False,PA
+STU_00268,Travis,Davis,20,Sophomore,3.68,Computer Science,2023-07-10,2026-07-10,54000.0,2054,0.76,0,False,NY
+STU_00269,Melissa,Miller,19,Sophomore,3.11,Mathematics,2024-09-26,2027-09-26,42000.0,2149,0.84,0,False,TX
+STU_00270,Natalie,Morris,20,Sophomore,3.53,Computer Science,2022-07-16,2025-07-16,45000.0,7590,0.92,0,False,MI
+STU_00271,Victoria,Shaw,17,Freshman,3.26,History,2022-02-11,2026-02-11,33600.0,1124,0.88,3,True,NY
+STU_00272,Erik,Torres,22,Junior,3.79,English,2025-03-27,2027-03-27,30000.0,5753,0.8,2,True,PA
+STU_00273,Nicole,Johnson,21,Junior,4.0,Computer Science,2023-12-11,2025-12-11,45000.0,14423,0.88,1,True,FL
+STU_00274,Audrey,Young,17,Freshman,3.39,Biology,2024-08-22,2028-08-22,45600.0,2736,0.76,1,True,CA
+STU_00275,Larry,George,24,Senior,3.78,History,2024-12-21,2025-12-21,28000.0,4829,0.9,3,True,FL
+STU_00276,Joshua,Johnson,20,Sophomore,3.84,English,2023-12-27,2026-12-27,30000.0,5309,0.82,6,False,PA
+STU_00277,Kathleen,Sanders,19,Sophomore,3.66,English,2022-01-05,2025-01-05,30000.0,7369,0.79,5,False,OH
+STU_00278,Jonathan,Williams,17,Freshman,4.0,Engineering,2024-05-28,2028-05-28,51600.0,9751,0.86,5,False,CA
+STU_00279,Steven,Wood,22,Junior,3.6,Computer Science,2022-06-05,2024-06-05,54000.0,2555,0.97,2,True,CA
+STU_00280,Jessica,Thompson,24,Senior,4.0,Engineering,2025-01-12,2026-01-12,51600.0,13756,0.77,7,True,NY
+STU_00281,Kirk,Horton,22,Junior,4.0,Biology,2024-04-22,2026-04-22,45600.0,11304,0.99,7,False,CA
+STU_00282,James,Marquez,20,Sophomore,2.81,Mathematics,2023-10-16,2026-10-16,35000.0,0,0.76,4,False,FL
+STU_00283,Nicholas,Nielsen,22,Junior,4.0,Computer Science,2025-03-09,2027-03-09,45000.0,5124,0.95,6,True,OH
+STU_00284,Pamela,Griffin,17,Freshman,4.0,Business,2021-09-17,2025-09-17,48000.0,6252,0.98,6,True,TX
+STU_00285,Raven,Davis,20,Sophomore,3.96,Psychology,2025-05-19,2028-05-19,33000.0,14203,0.72,4,True,FL
+STU_00286,Joy,Hines,23,Senior,3.66,Business,2023-01-05,2024-01-05,48000.0,6125,0.88,3,True,CA
+STU_00287,Kathryn,Carr,22,Junior,3.28,Mathematics,2024-08-31,2026-08-31,35000.0,1053,0.72,4,True,PA
+STU_00288,Tracey,Garcia,24,Senior,3.64,Biology,2024-05-21,2025-05-21,45600.0,5745,0.86,5,False,CA
+STU_00289,Kerri,Allison,23,Senior,3.82,Engineering,2023-07-15,2024-07-15,51600.0,5495,0.73,2,True,TX
+STU_00290,Carolyn,Williams,22,Junior,3.83,English,2024-09-03,2026-09-03,30000.0,8937,0.8,5,False,MI
+STU_00291,Cindy,Rivera,20,Sophomore,3.77,Biology,2025-02-24,2028-02-24,38000.0,4439,0.99,5,False,IL
+STU_00292,Brian,Harper,20,Sophomore,3.17,English,2025-05-31,2028-05-31,30000.0,255,0.79,7,False,OH
+STU_00293,Michael,Wilkerson,23,Senior,3.9,Biology,2022-03-03,2023-03-03,38000.0,14041,1.0,0,True,PA
+STU_00294,Julie,Crosby,22,Junior,4.0,Business,2024-09-13,2026-09-13,40000.0,10400,0.81,2,True,OH
+STU_00295,April,Johnston,18,Freshman,3.82,History,2021-12-04,2025-12-04,33600.0,7569,0.82,7,True,CA
+STU_00296,Paul,Skinner,22,Junior,3.75,Business,2025-05-30,2027-05-30,40000.0,6584,0.99,7,False,NC
+STU_00297,Carrie,Flores,23,Senior,4.0,Psychology,2025-04-04,2026-04-04,33000.0,12982,0.84,3,True,IL
+STU_00298,Carlos,Cooper,22,Junior,4.0,History,2024-06-26,2026-06-26,28000.0,13871,0.82,1,True,OH
+STU_00299,Ashley,Green,20,Sophomore,3.95,Business,2023-04-22,2026-04-22,48000.0,7427,0.83,4,False,NY
+STU_00300,Robert,Schultz,19,Sophomore,3.44,English,2022-01-19,2025-01-19,30000.0,45,0.88,3,False,FL
+STU_00301,Shelly,Marsh,21,Junior,3.98,History,2025-01-30,2027-01-30,33600.0,9476,0.74,1,True,CA
+STU_00302,Jeanette,Garcia,22,Junior,4.0,History,2021-12-16,2023-12-16,33600.0,8895,0.81,5,False,TX
+STU_00303,Stephanie,Frazier,18,Freshman,3.82,Biology,2023-07-07,2027-07-07,45600.0,9296,0.73,0,False,TX
+STU_00304,Caitlyn,Benitez,23,Senior,4.0,Business,2022-01-16,2023-01-16,40000.0,6655,0.95,4,True,GA
+STU_00305,Patrick,Edwards,19,Sophomore,3.51,Psychology,2025-03-10,2028-03-10,33000.0,4731,0.73,0,True,MI
+STU_00306,Whitney,Russo,23,Senior,3.35,Engineering,2023-02-12,2024-02-12,51600.0,1960,0.87,0,False,CA
+STU_00307,Beth,Acevedo,17,Freshman,3.75,Biology,2022-12-12,2026-12-12,38000.0,3180,0.75,0,True,IL
+STU_00308,Janet,Romero,22,Junior,3.78,Engineering,2025-04-11,2027-04-11,43000.0,4488,0.81,4,False,IL
+STU_00309,Timothy,Hurley,21,Junior,3.69,English,2025-03-19,2027-03-19,30000.0,6266,0.92,7,False,OH
+STU_00310,Tiffany,Hernandez,17,Freshman,4.0,Computer Science,2023-03-26,2027-03-26,45000.0,7426,0.97,5,True,IL
+STU_00311,Jason,Roberts,18,Freshman,3.81,Psychology,2023-11-29,2027-11-29,39600.0,5767,0.99,5,False,CA
+STU_00312,Lisa,Hester,24,Senior,3.88,Biology,2025-05-07,2026-05-07,45600.0,9077,0.91,5,True,NY
+STU_00313,Juan,Wilson,21,Junior,3.86,History,2023-01-10,2025-01-10,28000.0,11719,0.92,5,False,FL
+STU_00314,Michelle,Peterson,22,Junior,3.76,Mathematics,2023-01-16,2025-01-16,35000.0,7209,0.87,2,True,NC
+STU_00315,Michael,Morton,16,Freshman,3.87,Engineering,2023-11-18,2027-11-18,51600.0,7337,0.75,0,False,CA
+STU_00316,Casey,Paul,16,Freshman,3.69,Psychology,2024-08-10,2028-08-10,33000.0,3733,0.78,6,True,MI
+STU_00317,Emma,Haynes,24,Senior,3.6,Psychology,2023-07-12,2024-07-12,33000.0,2069,0.73,2,True,IL
+STU_00318,Daniel,Rivas,20,Sophomore,3.98,Computer Science,2021-07-20,2024-07-20,45000.0,9355,0.98,7,False,PA
+STU_00319,Gina,Zimmerman,20,Sophomore,4.0,Mathematics,2022-11-15,2025-11-15,35000.0,8504,0.89,7,True,IL
+STU_00320,Anthony,Lowe,23,Senior,3.52,English,2025-01-15,2026-01-15,30000.0,5212,0.8,7,True,PA
+STU_00321,Randy,Montgomery,19,Sophomore,3.46,Engineering,2021-08-23,2024-08-23,51600.0,1631,0.81,3,True,TX
+STU_00322,Caitlin,Murphy,21,Junior,4.0,English,2024-09-20,2026-09-20,30000.0,12237,0.71,7,True,MI
+STU_00323,Jose,Mccarthy,18,Freshman,3.97,Engineering,2024-03-31,2028-03-31,51600.0,5639,0.93,6,True,TX
+STU_00324,Amanda,Combs,17,Freshman,3.44,Psychology,2024-10-21,2028-10-21,33000.0,2984,0.87,3,True,NC
+STU_00325,Mark,Allen,17,Freshman,3.54,English,2023-03-27,2027-03-27,36000.0,2387,0.89,3,False,TX
+STU_00326,Paul,Nguyen,19,Sophomore,3.36,Business,2022-08-30,2025-08-30,48000.0,1711,0.81,4,True,CA
+STU_00327,Bryce,Hooper,21,Junior,3.23,Psychology,2023-05-02,2025-05-02,39600.0,475,0.75,6,True,NY
+STU_00328,Jerry,Porter,20,Sophomore,3.77,Engineering,2023-06-02,2026-06-02,51600.0,7150,0.99,0,True,TX
+STU_00329,Jenna,Davis,21,Junior,3.88,English,2022-05-07,2024-05-07,36000.0,14438,0.97,7,False,NY
+STU_00330,Madeline,Howard,17,Freshman,3.63,Psychology,2024-10-22,2028-10-22,39600.0,2645,0.73,5,False,CA
+STU_00331,Diane,Hartman,23,Senior,3.33,Business,2024-11-08,2025-11-08,40000.0,561,0.7,1,True,NC
+STU_00332,Brenda,Decker,18,Freshman,3.89,English,2023-05-03,2027-05-03,30000.0,13207,0.86,6,True,OH
+STU_00333,Rebecca,Griffin,21,Junior,3.52,Business,2024-05-17,2026-05-17,48000.0,4335,0.79,2,True,TX
+STU_00334,Elizabeth,White,23,Senior,3.71,History,2022-10-14,2023-10-14,28000.0,6908,0.99,1,True,OH
+STU_00335,Diana,Chapman,17,Freshman,3.74,Business,2025-02-10,2029-02-10,48000.0,3681,0.84,4,False,CA
+STU_00336,Stacy,Rich,17,Freshman,4.0,History,2022-09-14,2026-09-14,33600.0,7476,1.0,1,True,TX
+STU_00337,Pamela,Martin,24,Senior,3.55,Business,2024-10-12,2025-10-12,40000.0,5876,0.78,1,True,IL
+STU_00338,Michele,Vaughan,22,Junior,3.6,Psychology,2022-04-20,2024-04-20,39600.0,2497,0.86,7,False,CA
+STU_00339,Shaun,Wood,22,Junior,4.0,Psychology,2022-04-04,2024-04-04,33000.0,12932,0.97,5,True,PA
+STU_00340,Justin,Orr,17,Freshman,3.77,Biology,2022-09-01,2026-09-01,38000.0,5568,0.78,2,False,FL
+STU_00341,Alexis,Sanders,24,Senior,3.53,Biology,2023-09-03,2024-09-03,38000.0,7061,0.86,6,False,NC
+STU_00342,Christie,Obrien,16,Freshman,3.6,Psychology,2023-01-25,2027-01-25,33000.0,3704,0.74,5,False,IL
+STU_00343,Virginia,Coleman,23,Senior,3.32,Biology,2024-04-11,2025-04-11,38000.0,568,0.7,4,False,NC
+STU_00344,Carol,Hale,16,Freshman,3.8,English,2025-03-29,2029-03-29,36000.0,3208,0.77,4,True,CA
+STU_00345,Kathleen,Scott,21,Junior,3.44,Computer Science,2024-01-10,2026-01-10,45000.0,2957,0.7,7,False,GA
+STU_00346,Michele,Johnson,24,Senior,4.0,Computer Science,2025-01-25,2026-01-25,45000.0,7785,0.95,4,False,NC
+STU_00347,Brandi,Turner,20,Sophomore,4.0,Psychology,2022-06-28,2025-06-28,33000.0,6485,0.98,5,False,PA
+STU_00348,Amy,Taylor,17,Freshman,3.71,English,2024-10-07,2028-10-07,36000.0,2676,0.74,2,False,TX
+STU_00349,Joseph,Martinez,22,Junior,3.31,Mathematics,2023-06-02,2025-06-02,35000.0,895,0.8,3,False,OH
+STU_00350,Ashley,Barnes,16,Freshman,4.0,Engineering,2021-10-06,2025-10-06,51600.0,6159,1.0,2,True,CA
+STU_00351,Margaret,Gonzalez,17,Freshman,3.58,Biology,2022-12-08,2026-12-08,38000.0,6931,0.81,1,True,PA
+STU_00352,Patricia,Guerrero,22,Junior,3.37,Psychology,2021-12-29,2023-12-29,33000.0,1067,0.87,0,False,PA
+STU_00353,Adam,Smith,24,Senior,3.28,Psychology,2022-03-15,2023-03-15,33000.0,2932,0.91,4,False,PA
+STU_00354,Jon,Smith,19,Sophomore,4.0,English,2023-11-18,2026-11-18,36000.0,7519,0.86,6,True,NY
+STU_00355,Jennifer,Krueger,17,Freshman,3.83,Biology,2022-03-18,2026-03-18,38000.0,13552,0.98,3,False,PA
+STU_00356,Amanda,Mccormick,20,Sophomore,3.5,Business,2023-12-14,2026-12-14,40000.0,664,0.7,1,False,FL
+STU_00357,Samantha,Graham,23,Senior,3.37,Business,2025-01-27,2026-01-27,48000.0,795,0.79,6,False,TX
+STU_00358,Christopher,Arias,21,Junior,3.53,Psychology,2023-11-24,2025-11-24,33000.0,6795,0.88,5,True,IL
+STU_00359,Lindsey,Gordon,18,Freshman,3.67,Psychology,2023-11-12,2027-11-12,33000.0,4540,0.94,7,True,MI
+STU_00360,Jose,Abbott,24,Senior,3.69,Business,2021-10-08,2022-10-08,40000.0,7378,0.98,1,False,IL
+STU_00361,Alexandra,Grimes,24,Senior,4.0,Computer Science,2025-05-12,2026-05-12,45000.0,11053,1.0,7,True,NC
+STU_00362,Kathryn,Garcia,17,Freshman,3.89,Psychology,2022-07-24,2026-07-24,33000.0,14613,0.88,6,True,PA
+STU_00363,Scott,Finley,23,Senior,3.36,Engineering,2021-08-30,2022-08-30,51600.0,736,0.77,4,False,TX
+STU_00364,Crystal,Anderson,23,Senior,3.71,Computer Science,2023-02-08,2024-02-08,45000.0,6054,0.89,5,True,NC
+STU_00365,Evelyn,Grant,23,Senior,3.55,Mathematics,2025-07-03,2026-07-03,42000.0,3164,0.75,6,True,CA
+STU_00366,Lisa,Simmons,19,Sophomore,3.81,Business,2023-02-15,2026-02-15,40000.0,12368,0.78,7,False,OH
+STU_00367,John,Brown,18,Freshman,3.61,Biology,2023-03-19,2027-03-19,38000.0,6280,0.9,5,False,GA
+STU_00368,Joseph,Evans,24,Senior,4.0,English,2021-08-07,2022-08-07,30000.0,6481,0.9,3,True,IL
+STU_00369,Wendy,Houston,17,Freshman,3.61,Computer Science,2023-09-15,2027-09-15,45000.0,6268,0.81,4,True,MI
+STU_00370,Laurie,Jimenez,18,Freshman,4.0,Engineering,2024-05-22,2028-05-22,51600.0,10076,0.86,7,True,NY
+STU_00371,Tina,Williams,17,Freshman,3.81,History,2022-03-21,2026-03-21,28000.0,13278,0.71,0,True,PA
+STU_00372,Christopher,Horton,19,Sophomore,3.28,Business,2022-09-11,2025-09-11,40000.0,521,0.8,7,True,PA
+STU_00373,Crystal,Wood,17,Freshman,4.0,Biology,2022-05-15,2026-05-15,45600.0,12379,0.88,1,True,NY
+STU_00374,David,Valdez,21,Junior,3.82,Business,2025-05-25,2027-05-25,48000.0,5337,0.79,6,False,TX
+STU_00375,Jennifer,Jones,24,Senior,3.65,Business,2023-03-02,2024-03-02,48000.0,4307,0.73,3,False,TX
+STU_00376,Susan,Hansen,17,Freshman,3.31,Engineering,2022-05-15,2026-05-15,43000.0,265,0.72,2,False,IL
+STU_00377,Emily,Patel,21,Junior,3.6,Biology,2021-08-16,2023-08-16,45600.0,2799,0.94,2,False,NY
+STU_00378,Lauren,Wolf,23,Senior,3.13,Business,2023-10-05,2024-10-05,48000.0,2672,0.71,2,False,CA
+STU_00379,Alicia,King,24,Senior,2.84,History,2021-08-01,2022-08-01,28000.0,0,0.78,3,True,NC
+STU_00380,Amy,Ross,16,Freshman,3.54,History,2021-10-21,2025-10-21,28000.0,6972,0.82,5,True,NC
+STU_00381,Briana,Woods,23,Senior,3.16,Mathematics,2022-11-27,2023-11-27,35000.0,2351,0.88,1,True,PA
+STU_00382,David,Patton,22,Junior,3.91,Engineering,2022-03-15,2024-03-15,43000.0,11159,0.74,4,False,NC
+STU_00383,Dana,Hammond,24,Senior,3.62,English,2024-02-18,2025-02-18,30000.0,7316,0.7,0,False,MI
+STU_00384,Kathy,Peck,22,Junior,3.99,Engineering,2023-10-08,2025-10-08,43000.0,14608,0.74,1,True,MI
+STU_00385,David,Juarez,24,Senior,4.0,English,2024-03-23,2025-03-23,36000.0,11145,0.79,1,False,TX
+STU_00386,Paul,Roberts,19,Sophomore,3.66,Engineering,2021-07-28,2024-07-28,43000.0,6713,0.86,2,True,IL
+STU_00387,Elizabeth,Harper,17,Freshman,3.58,Biology,2024-08-11,2028-08-11,38000.0,5046,0.97,0,False,FL
+STU_00388,Tammy,Larson,18,Freshman,3.84,Mathematics,2023-07-05,2027-07-05,35000.0,10192,0.72,5,True,PA
+STU_00389,Zachary,Hoover,18,Freshman,3.52,Mathematics,2021-09-07,2025-09-07,35000.0,7395,0.7,2,True,NC
+STU_00390,Robert,Cole,17,Freshman,3.8,English,2022-10-02,2026-10-02,36000.0,7426,0.92,5,True,CA
+STU_00391,Bruce,Mcfarland,16,Freshman,3.29,English,2024-06-24,2028-06-24,30000.0,1106,0.94,2,False,MI
+STU_00392,Sarah,Reid,21,Junior,3.74,Business,2021-12-15,2023-12-15,40000.0,3333,0.73,7,True,IL
+STU_00393,Wendy,Rosario,20,Sophomore,3.68,Mathematics,2022-02-10,2025-02-10,35000.0,2792,0.93,2,False,NC
+STU_00394,Vicki,Johnson,16,Freshman,4.0,Psychology,2024-05-31,2028-05-31,33000.0,12219,0.92,3,True,OH
+STU_00395,Breanna,Simmons,23,Senior,3.37,Mathematics,2022-05-23,2023-05-23,42000.0,680,0.71,7,False,TX
+STU_00396,Kevin,Robinson,18,Freshman,3.57,Psychology,2022-10-31,2026-10-31,33000.0,3239,0.8,3,False,OH
+STU_00397,Corey,Mitchell,21,Junior,4.0,Biology,2023-07-17,2025-07-17,38000.0,11605,1.0,3,True,FL
+STU_00398,Christine,Kim,19,Sophomore,3.27,English,2023-08-22,2026-08-22,30000.0,1644,0.77,1,True,FL
+STU_00399,Michael,Perez,24,Senior,3.75,Psychology,2022-03-17,2023-03-17,39600.0,3219,0.71,1,False,TX
+STU_00400,Pamela,Sanchez,17,Freshman,3.62,English,2024-10-30,2028-10-30,36000.0,3025,0.97,3,False,NY
+STU_00401,Norma,Dyer,24,Senior,3.95,Computer Science,2022-09-14,2023-09-14,54000.0,10251,0.98,5,False,NY
+STU_00402,William,Simpson,23,Senior,3.99,Engineering,2024-06-26,2025-06-26,51600.0,7797,0.92,2,False,TX
+STU_00403,Melanie,Cooper,19,Sophomore,3.91,Computer Science,2023-06-10,2026-06-10,54000.0,6071,0.71,5,True,NY
+STU_00404,Benjamin,Diaz,22,Junior,3.39,English,2023-10-20,2025-10-20,30000.0,175,0.73,0,False,IL
+STU_00405,Kathryn,Wilkins,23,Senior,3.6,English,2023-04-15,2024-04-15,30000.0,6047,0.74,6,False,FL
+STU_00406,Victoria,Ryan,22,Junior,4.0,English,2025-06-04,2027-06-04,36000.0,5520,0.84,5,True,NY
+STU_00407,Leonard,Terry,17,Freshman,4.0,Engineering,2024-04-07,2028-04-07,51600.0,10951,0.99,7,True,NY
+STU_00408,Mark,Murphy,21,Junior,3.89,History,2022-04-14,2024-04-14,28000.0,11984,0.77,5,False,IL
+STU_00409,Teresa,Austin,19,Sophomore,3.61,Business,2025-05-27,2028-05-27,40000.0,3311,0.84,6,True,FL
+STU_00410,Matthew,Hill,22,Junior,3.86,Psychology,2024-07-06,2026-07-06,39600.0,11911,0.91,4,True,NY
+STU_00411,Sabrina,King,20,Sophomore,3.57,Engineering,2024-08-06,2027-08-06,43000.0,7438,0.86,3,True,IL
+STU_00412,David,Jones,22,Junior,3.51,Computer Science,2021-12-12,2023-12-12,45000.0,7481,0.81,2,True,IL
+STU_00413,Christopher,Haynes,24,Senior,3.34,Business,2023-05-11,2024-05-11,40000.0,1569,0.83,0,True,MI
+STU_00414,Sean,Pitts,17,Freshman,3.1,Computer Science,2022-02-10,2026-02-10,45000.0,1206,0.8,3,True,MI
+STU_00415,Daniel,Lee,19,Sophomore,3.2,Psychology,2023-10-04,2026-10-04,39600.0,2837,0.72,7,True,NY
+STU_00416,Donald,Grant,16,Freshman,3.73,English,2022-05-17,2026-05-17,30000.0,6463,0.91,2,False,GA
+STU_00417,Michelle,Calhoun,18,Freshman,3.72,Computer Science,2023-09-13,2027-09-13,45000.0,7817,0.93,5,True,PA
+STU_00418,Anthony,Avila,22,Junior,3.21,Computer Science,2023-04-16,2025-04-16,45000.0,2993,0.75,3,True,GA
+STU_00419,Jenny,Larson,22,Junior,3.51,Psychology,2021-08-27,2023-08-27,39600.0,7415,0.73,7,False,CA
+STU_00420,Marie,Johnson,19,Sophomore,3.84,Computer Science,2024-11-05,2027-11-05,54000.0,11572,0.8,6,True,NY
+STU_00421,Harry,Smith,23,Senior,4.0,English,2021-07-19,2022-07-19,30000.0,10755,0.97,2,False,GA
+STU_00422,Rachel,Hill,16,Freshman,4.0,Psychology,2023-03-12,2027-03-12,33000.0,14010,0.77,1,True,OH
+STU_00423,Joseph,Brown,18,Freshman,3.56,English,2022-03-26,2026-03-26,36000.0,5921,0.91,0,True,CA
+STU_00424,Michael,Juarez,23,Senior,4.0,English,2023-06-29,2024-06-29,30000.0,13228,0.85,0,True,OH
+STU_00425,Eric,Gonzalez,21,Junior,3.75,History,2022-05-11,2024-05-11,33600.0,7558,0.91,5,True,TX
+STU_00426,Paula,Hansen,19,Sophomore,3.84,English,2023-02-14,2026-02-14,36000.0,13702,0.86,5,False,NY
+STU_00427,Emily,Navarro,24,Senior,3.61,Computer Science,2023-11-09,2024-11-09,45000.0,5501,0.87,5,False,OH
+STU_00428,Michael,Williams,20,Sophomore,3.58,Biology,2023-01-09,2026-01-09,45600.0,5893,0.92,2,True,CA
+STU_00429,Amy,Hernandez,20,Sophomore,3.21,Business,2021-09-11,2024-09-11,48000.0,849,0.72,4,True,NY
+STU_00430,Cynthia,Holder,21,Junior,3.47,Mathematics,2021-12-29,2023-12-29,35000.0,1587,0.84,1,True,PA
+STU_00431,Matthew,Hunt,22,Junior,4.0,Engineering,2024-11-11,2026-11-11,43000.0,9006,0.92,7,False,FL
+STU_00432,Jennifer,Brown,16,Freshman,4.0,Mathematics,2023-11-28,2027-11-28,35000.0,11506,0.88,6,True,OH
+STU_00433,Susan,Duncan,17,Freshman,4.0,History,2024-10-20,2028-10-20,28000.0,9908,0.97,7,True,OH
+STU_00434,Julia,Davis,18,Freshman,3.85,Engineering,2023-07-16,2027-07-16,43000.0,8007,0.84,4,False,GA
+STU_00435,Crystal,Holland,24,Senior,4.0,Computer Science,2023-01-21,2024-01-21,45000.0,7036,0.96,3,False,MI
+STU_00436,Jennifer,Young,24,Senior,3.38,English,2025-05-17,2026-05-17,30000.0,2782,0.73,7,False,IL
+STU_00437,Hayden,Chan,17,Freshman,3.43,History,2022-11-01,2026-11-01,28000.0,1544,0.86,6,False,MI
+STU_00438,Peter,Walker,17,Freshman,3.61,Biology,2022-10-27,2026-10-27,45600.0,2557,0.86,5,True,NY
+STU_00439,Brett,Chen,21,Junior,3.74,Computer Science,2022-09-15,2024-09-15,54000.0,6074,0.9,5,False,CA
+STU_00440,Michael,Kaufman,23,Senior,3.65,Computer Science,2024-07-16,2025-07-16,45000.0,6431,0.95,0,False,PA
+STU_00441,Melissa,Mathews,20,Sophomore,3.72,Computer Science,2022-10-16,2025-10-16,45000.0,6446,0.75,5,True,OH
+STU_00442,John,Parker,20,Sophomore,3.56,Engineering,2023-04-27,2026-04-27,51600.0,3155,0.78,5,False,NY
+STU_00443,Erik,Escobar,21,Junior,2.99,Engineering,2024-01-06,2026-01-06,51600.0,0,0.79,3,True,NY
+STU_00444,Christopher,Murillo,21,Junior,3.84,Engineering,2023-08-20,2025-08-20,43000.0,12195,0.71,4,True,GA
+STU_00445,Renee,Harper,24,Senior,2.99,History,2024-06-10,2025-06-10,28000.0,0,0.84,7,True,FL
+STU_00446,Laura,Estrada,20,Sophomore,3.32,History,2024-09-18,2027-09-18,28000.0,1924,0.82,1,True,IL
+STU_00447,Carlos,Hernandez,22,Junior,3.98,History,2022-09-03,2024-09-03,28000.0,9456,0.96,4,False,OH
+STU_00448,Karen,Abbott,19,Sophomore,3.96,Biology,2025-02-08,2028-02-08,38000.0,9857,0.99,3,False,GA
+STU_00449,Adam,Ryan,20,Sophomore,3.68,Business,2023-01-23,2026-01-23,40000.0,6520,0.74,6,False,GA
+STU_00450,Emily,Scott,21,Junior,4.0,Engineering,2021-12-20,2023-12-20,43000.0,6512,0.98,4,True,NC
+STU_00451,Denise,Pennington,24,Senior,4.0,Computer Science,2023-04-09,2024-04-09,45000.0,12681,0.83,7,False,OH
+STU_00452,Jennifer,Cooper,21,Junior,3.58,Engineering,2022-06-05,2024-06-05,43000.0,7822,0.97,7,False,NC
+STU_00453,Ellen,Martin,21,Junior,3.76,History,2025-07-04,2027-07-04,28000.0,5948,0.81,7,True,IL
+STU_00454,Amanda,Brown,16,Freshman,3.58,English,2023-04-25,2027-04-25,30000.0,4300,0.85,4,True,FL
+STU_00455,Latoya,Flores,21,Junior,4.0,English,2023-07-04,2025-07-04,30000.0,8671,0.99,7,True,NC
+STU_00456,Juan,Torres,17,Freshman,3.81,English,2023-03-19,2027-03-19,30000.0,8298,0.97,1,False,NC
+STU_00457,Tiffany,Johnson,19,Sophomore,4.0,Business,2022-12-24,2025-12-24,40000.0,14376,1.0,1,True,FL
+STU_00458,Lindsey,Williamson,21,Junior,4.0,English,2022-09-28,2024-09-28,30000.0,5408,0.96,1,False,GA
+STU_00459,Todd,Brewer,23,Senior,3.76,Biology,2022-11-03,2023-11-03,45600.0,2840,0.87,6,False,TX
+STU_00460,Barbara,Keller,21,Junior,3.2,Mathematics,2024-04-27,2026-04-27,35000.0,1040,0.73,2,True,NC
+STU_00461,Joseph,Jones,16,Freshman,3.37,Computer Science,2022-06-21,2026-06-21,45000.0,1343,0.71,7,True,OH
+STU_00462,Francis,Lynch,20,Sophomore,3.9,Business,2024-05-06,2027-05-06,40000.0,7731,0.97,2,True,OH
+STU_00463,Monica,Horn,19,Sophomore,4.0,Biology,2024-12-04,2027-12-04,38000.0,11509,0.96,6,True,MI
+STU_00464,Robert,Anderson,17,Freshman,3.23,Mathematics,2024-06-30,2028-06-30,35000.0,164,0.87,7,False,OH
+STU_00465,Bethany,Thomas,19,Sophomore,3.48,Computer Science,2021-08-15,2024-08-15,45000.0,333,0.72,2,True,GA
+STU_00466,Valerie,Roberts,18,Freshman,3.24,History,2024-07-01,2028-07-01,28000.0,1937,0.7,2,True,FL
+STU_00467,Malik,Dalton,22,Junior,3.55,Mathematics,2021-07-27,2023-07-27,42000.0,3164,0.95,4,True,NY
+STU_00468,Molly,Lopez,19,Sophomore,3.88,Business,2025-02-26,2028-02-26,48000.0,5771,0.79,1,False,TX
+STU_00469,Frank,Fleming,18,Freshman,3.29,Biology,2023-10-18,2027-10-18,45600.0,1083,0.72,6,True,CA
+STU_00470,Julie,Rivas,22,Junior,3.86,Business,2024-02-07,2026-02-07,40000.0,14256,0.95,1,True,MI
+STU_00471,Charles,Spencer,20,Sophomore,4.0,Engineering,2024-01-22,2027-01-22,43000.0,8453,0.97,5,True,NC
+STU_00472,Clayton,Meyer,19,Sophomore,4.0,Biology,2024-02-18,2027-02-18,38000.0,6542,0.98,4,False,IL
+STU_00473,Stephanie,King,18,Freshman,4.0,English,2022-10-21,2026-10-21,30000.0,10650,0.9,6,True,PA
+STU_00474,Leah,Roach,22,Junior,3.9,History,2023-08-22,2025-08-22,28000.0,13818,0.98,6,True,OH
+STU_00475,Steven,Garcia,19,Sophomore,3.39,Business,2022-10-20,2025-10-20,40000.0,441,0.71,0,True,FL
+STU_00476,Alexander,Spears,20,Sophomore,3.61,English,2023-08-28,2026-08-28,30000.0,2626,0.77,6,True,FL
+STU_00477,Jodi,Cardenas,18,Freshman,3.7,Biology,2022-11-03,2026-11-03,38000.0,5852,0.73,5,True,NC
+STU_00478,Ashley,Harper,16,Freshman,3.51,English,2024-12-21,2028-12-21,36000.0,3928,0.76,4,False,NY
+STU_00479,Ashley,Watson,19,Sophomore,3.5,Computer Science,2023-10-04,2026-10-04,45000.0,4656,0.77,0,True,OH
+STU_00480,Michael,Martinez,17,Freshman,4.0,Engineering,2023-06-01,2027-06-01,51600.0,10501,0.99,2,True,CA
+STU_00481,Eric,Cross,19,Sophomore,3.44,Biology,2022-12-22,2025-12-22,38000.0,1431,0.71,3,True,GA
+STU_00482,Cynthia,Gilbert,22,Junior,3.87,Psychology,2024-07-01,2026-07-01,33000.0,7526,0.81,6,True,GA
+STU_00483,Julie,Miller,21,Junior,2.92,Computer Science,2023-04-01,2025-04-01,45000.0,0,0.74,2,True,GA
+STU_00484,Jeremy,Scott,18,Freshman,3.48,Engineering,2022-01-19,2026-01-19,43000.0,365,0.81,7,True,OH
+STU_00485,Michelle,Adams,16,Freshman,4.0,Engineering,2022-03-30,2026-03-30,51600.0,14402,0.92,5,True,NY
+STU_00486,Maria,Carter,20,Sophomore,4.0,Biology,2021-12-18,2024-12-18,38000.0,10050,0.79,2,True,NC
+STU_00487,Jeffrey,Morales,17,Freshman,3.77,History,2023-10-07,2027-10-07,28000.0,5506,0.81,0,False,GA
+STU_00488,Sandra,Rios,16,Freshman,3.86,Engineering,2022-06-02,2026-06-02,43000.0,7706,0.87,5,True,PA
+STU_00489,Ian,Garrison,22,Junior,3.83,Engineering,2022-04-29,2024-04-29,43000.0,5123,0.76,3,False,IL
+STU_00490,Jessica,Watkins,19,Sophomore,3.77,Biology,2022-05-20,2025-05-20,45600.0,4249,0.98,6,False,TX
+STU_00491,Darrell,Perry,24,Senior,3.48,Mathematics,2023-08-12,2024-08-12,42000.0,711,0.84,0,False,CA
+STU_00492,Brian,Bass,22,Junior,3.68,Business,2023-12-20,2025-12-20,40000.0,6808,0.78,4,True,MI
+STU_00493,Tristan,Lewis,20,Sophomore,3.32,Mathematics,2023-07-18,2026-07-18,35000.0,816,0.87,6,True,MI
+STU_00494,James,Henderson,18,Freshman,3.91,Psychology,2023-12-01,2027-12-01,33000.0,12458,0.99,4,True,OH
+STU_00495,Jeffrey,Bell,19,Sophomore,3.67,Psychology,2025-03-11,2028-03-11,33000.0,5763,0.78,2,True,NC
+STU_00496,Steve,Alexander,22,Junior,4.0,English,2023-05-05,2025-05-05,30000.0,5732,0.97,2,False,MI
+STU_00497,Tina,Martinez,16,Freshman,3.03,Biology,2023-11-15,2027-11-15,38000.0,528,0.78,7,True,NC
+STU_00498,Holly,Blackburn,24,Senior,3.56,Biology,2023-05-05,2024-05-05,45600.0,5220,0.72,2,False,NY
+STU_00499,Jeremy,Scott,23,Senior,3.24,Mathematics,2025-04-30,2026-04-30,35000.0,79,0.77,2,False,FL
+STU_00500,Ann,Mcdaniel,20,Sophomore,3.3,Psychology,2023-03-25,2026-03-25,33000.0,2340,0.76,5,True,NC
+STU_00501,Penny,Ortega,18,Freshman,3.8,Biology,2023-05-19,2027-05-19,38000.0,5530,0.8,0,False,PA
+STU_00502,Linda,Herrera,22,Junior,3.96,Psychology,2022-02-22,2024-02-22,33000.0,12198,0.81,1,True,NC
+STU_00503,Michael,Mendoza,22,Junior,3.46,Psychology,2022-08-21,2024-08-21,33000.0,1807,0.75,3,True,NC
+STU_00504,Madeline,Allen,20,Sophomore,3.56,English,2023-02-12,2026-02-12,36000.0,3556,0.7,1,True,TX
+STU_00505,Michael,Grant,24,Senior,3.71,Mathematics,2021-07-10,2022-07-10,42000.0,2009,0.87,6,True,CA
+STU_00506,Margaret,Reilly,18,Freshman,3.06,English,2021-07-10,2025-07-10,30000.0,1994,0.78,7,True,MI
+STU_00507,John,Gonzales,24,Senior,3.98,Psychology,2022-12-17,2023-12-17,33000.0,9597,0.86,1,False,IL
+STU_00508,Hector,Rivera,21,Junior,3.26,Biology,2023-06-22,2025-06-22,38000.0,237,0.78,7,True,PA
+STU_00509,Jordan,Rosario,18,Freshman,4.0,English,2022-05-08,2026-05-08,36000.0,5728,0.89,2,True,NY
+STU_00510,Kelli,Adams,22,Junior,3.32,Psychology,2023-04-08,2025-04-08,33000.0,1510,0.77,3,False,PA
+STU_00511,Matthew,Graves,18,Freshman,3.43,Business,2024-10-08,2028-10-08,48000.0,2306,0.79,4,True,TX
+STU_00512,Heather,Ingram,21,Junior,3.53,Computer Science,2023-12-04,2025-12-04,45000.0,2328,0.86,7,True,IL
+STU_00513,Heather,Anderson,18,Freshman,3.72,Engineering,2023-08-07,2027-08-07,43000.0,4799,0.81,6,False,MI
+STU_00514,David,Stein,18,Freshman,3.44,Psychology,2024-08-27,2028-08-27,33000.0,2766,0.85,3,False,MI
+STU_00515,Arthur,Peterson,19,Sophomore,4.0,Mathematics,2023-12-27,2026-12-27,35000.0,5666,0.81,7,False,FL
+STU_00516,Elizabeth,Pitts,24,Senior,4.0,Computer Science,2024-10-18,2025-10-18,45000.0,10897,0.82,4,False,OH
+STU_00517,Sharon,Mitchell,24,Senior,4.0,History,2024-07-28,2025-07-28,28000.0,12520,0.96,7,True,FL
+STU_00518,Judith,Hayes,17,Freshman,3.93,Biology,2025-06-30,2029-06-30,38000.0,14225,0.97,4,True,FL
+STU_00519,Timothy,Bradley,16,Freshman,3.58,Computer Science,2024-03-19,2028-03-19,54000.0,6294,0.79,0,True,NY
+STU_00520,Melinda,Smith,24,Senior,3.99,Psychology,2025-04-24,2026-04-24,39600.0,12615,0.87,0,False,TX
+STU_00521,Michelle,Bryant,20,Sophomore,4.0,Biology,2021-08-17,2024-08-17,38000.0,14751,0.7,5,True,NC
+STU_00522,Chase,Martin,22,Junior,4.0,History,2024-09-24,2026-09-24,33600.0,13290,0.99,2,False,CA
+STU_00523,Robert,Young,24,Senior,3.39,Biology,2022-08-07,2023-08-07,45600.0,1998,0.74,3,True,TX
+STU_00524,Ian,Rasmussen,19,Sophomore,3.93,Mathematics,2024-02-04,2027-02-04,42000.0,11633,0.98,1,False,TX
+STU_00525,Kristen,Schultz,22,Junior,3.38,History,2024-11-13,2026-11-13,33600.0,1280,0.99,4,True,TX
+STU_00526,David,Mann,19,Sophomore,3.39,Computer Science,2025-06-20,2028-06-20,45000.0,1870,0.73,1,True,NC
+STU_00527,David,Long,16,Freshman,4.0,Computer Science,2022-03-14,2026-03-14,45000.0,9094,0.87,6,False,GA
+STU_00528,Stacy,Davis,18,Freshman,3.25,English,2021-10-21,2025-10-21,30000.0,1023,0.71,5,False,GA
+STU_00529,Kristin,Larsen,16,Freshman,3.75,Mathematics,2024-02-01,2028-02-01,35000.0,2844,0.72,1,False,MI
+STU_00530,Dwayne,Davis,22,Junior,3.91,Computer Science,2021-11-02,2023-11-02,54000.0,14505,0.96,3,True,CA
+STU_00531,Jesse,Beard,20,Sophomore,3.47,History,2021-10-03,2024-10-03,33600.0,2379,0.74,0,False,NY
+STU_00532,Tyler,Sanchez,17,Freshman,3.91,Engineering,2024-11-01,2028-11-01,43000.0,14220,0.95,7,True,GA
+STU_00533,Alejandro,Miller,23,Senior,3.76,Business,2025-06-11,2026-06-11,48000.0,7938,0.85,6,True,TX
+STU_00534,Mark,Hernandez,21,Junior,3.99,Biology,2022-04-04,2024-04-04,38000.0,8888,0.85,6,False,OH
+STU_00535,Bonnie,Williamson,20,Sophomore,4.0,History,2023-01-30,2026-01-30,28000.0,5529,0.89,4,False,OH
+STU_00536,Maria,Martin,17,Freshman,4.0,English,2021-08-24,2025-08-24,30000.0,11462,0.98,6,True,OH
+STU_00537,Pamela,Ward,16,Freshman,3.77,Business,2024-10-29,2028-10-29,40000.0,5181,0.85,4,True,IL
+STU_00538,Hannah,Shea,23,Senior,3.95,History,2023-05-04,2024-05-04,28000.0,8013,0.91,2,True,PA
+STU_00539,Donna,Valdez,23,Senior,4.0,Biology,2022-10-07,2023-10-07,38000.0,11544,0.89,0,True,GA
+STU_00540,Julie,Fleming,18,Freshman,4.0,History,2022-12-22,2026-12-22,33600.0,11729,0.89,5,False,CA
+STU_00541,Joseph,Sandoval,18,Freshman,3.87,English,2023-08-23,2027-08-23,36000.0,7915,0.93,4,True,NY
+STU_00542,Brenda,Ray,20,Sophomore,3.95,Business,2024-09-17,2027-09-17,40000.0,11102,0.85,6,True,MI
+STU_00543,Jessica,Thompson,20,Sophomore,3.74,Engineering,2023-11-23,2026-11-23,43000.0,4431,0.79,6,False,FL
+STU_00544,Linda,Ryan,18,Freshman,3.91,Psychology,2023-07-20,2027-07-20,39600.0,11896,0.77,6,False,NY
+STU_00545,Kelly,Dixon,19,Sophomore,4.0,Mathematics,2023-11-29,2026-11-29,35000.0,11770,0.81,5,False,MI
+STU_00546,Tamara,Riley,22,Junior,4.0,Computer Science,2023-09-29,2025-09-29,45000.0,12273,0.93,6,True,OH
+STU_00547,John,Shelton,24,Senior,3.96,Mathematics,2024-10-13,2025-10-13,35000.0,9241,0.95,5,False,OH
+STU_00548,Pamela,Arellano,22,Junior,4.0,Business,2024-09-01,2026-09-01,40000.0,6418,0.72,2,True,FL
+STU_00549,Lori,Cox,20,Sophomore,3.54,Psychology,2022-07-09,2025-07-09,33000.0,4141,0.89,5,False,NC
+STU_00550,Devin,Casey,21,Junior,4.0,Engineering,2024-01-10,2026-01-10,43000.0,6164,0.96,1,True,PA
+STU_00551,Christopher,Nguyen,20,Sophomore,3.77,English,2024-08-16,2027-08-16,36000.0,5592,0.89,1,True,TX
+STU_00552,Andrea,Koch,22,Junior,3.39,History,2022-10-01,2024-10-01,28000.0,1927,0.86,3,True,PA
+STU_00553,Michelle,Castillo,23,Senior,3.98,Mathematics,2022-05-25,2023-05-25,35000.0,5859,0.97,6,True,FL
+STU_00554,Eric,White,16,Freshman,3.67,Engineering,2024-03-30,2028-03-30,43000.0,4843,0.98,5,False,PA
+STU_00555,Gary,Smith,20,Sophomore,3.79,Biology,2024-12-10,2027-12-10,38000.0,3748,0.94,6,False,GA
+STU_00556,Thomas,Bell,22,Junior,4.0,Mathematics,2024-09-27,2026-09-27,42000.0,11359,0.96,5,False,NY
+STU_00557,Heather,Cooper,19,Sophomore,3.7,Computer Science,2023-08-23,2026-08-23,45000.0,7911,0.9,5,False,MI
+STU_00558,Donna,Mcdowell,21,Junior,3.77,Computer Science,2023-01-31,2025-01-31,54000.0,6588,0.81,6,False,NY
+STU_00559,Roger,Dixon,16,Freshman,3.57,Business,2024-08-21,2028-08-21,40000.0,3027,0.74,4,False,FL
+STU_00560,Jimmy,Parker,23,Senior,3.79,Psychology,2024-12-30,2025-12-30,33000.0,2777,0.75,2,True,IL
+STU_00561,Adrienne,Hunt,23,Senior,3.29,Business,2023-12-14,2024-12-14,40000.0,1472,0.82,4,True,FL
+STU_00562,James,Woods,23,Senior,4.0,History,2023-02-09,2024-02-09,33600.0,8449,0.91,0,False,CA
+STU_00563,Christopher,Casey,17,Freshman,3.19,History,2024-06-24,2028-06-24,28000.0,2478,0.89,2,True,FL
+STU_00564,Lisa,Castro,24,Senior,3.0,Psychology,2023-05-05,2024-05-05,33000.0,925,0.82,0,True,MI
+STU_00565,Peter,Walker,20,Sophomore,3.79,Psychology,2022-03-26,2025-03-26,33000.0,5797,0.78,4,False,OH
+STU_00566,Alexandria,Gray,18,Freshman,3.56,Biology,2022-11-18,2026-11-18,45600.0,5762,0.78,3,False,TX
+STU_00567,David,Johnson,22,Junior,4.0,Mathematics,2022-02-15,2024-02-15,35000.0,5108,0.98,1,True,NC
+STU_00568,Renee,Gonzalez,18,Freshman,3.81,Engineering,2022-10-03,2026-10-03,51600.0,7416,0.97,5,False,TX
+STU_00569,Jessica,Wallace,21,Junior,4.0,Computer Science,2021-10-07,2023-10-07,45000.0,11716,0.91,1,False,MI
+STU_00570,Laurie,Mays,22,Junior,3.93,Business,2021-08-18,2023-08-18,40000.0,13423,0.94,0,False,IL
+STU_00571,Maria,Rodriguez,21,Junior,3.97,Business,2023-06-15,2025-06-15,40000.0,6185,0.98,0,True,OH
+STU_00572,Matthew,Daniel,16,Freshman,4.0,History,2022-10-14,2026-10-14,28000.0,5704,0.95,2,False,PA
+STU_00573,Tracy,Martin,20,Sophomore,3.32,Engineering,2021-09-10,2024-09-10,51600.0,1685,0.9,3,True,NY
+STU_00574,Patricia,Stewart,18,Freshman,3.94,Business,2022-01-20,2026-01-20,48000.0,12321,0.9,7,False,NY
+STU_00575,Jeffery,Salas,19,Sophomore,3.88,Biology,2023-11-19,2026-11-19,38000.0,10082,0.84,1,True,IL
+STU_00576,Daniel,Brown,17,Freshman,3.68,History,2024-07-11,2028-07-11,28000.0,6981,0.96,7,False,FL
+STU_00577,Kari,Peterson,20,Sophomore,3.67,Biology,2025-04-13,2028-04-13,38000.0,6609,0.83,4,True,NC
+STU_00578,Raymond,Evans,20,Sophomore,4.0,Biology,2023-10-28,2026-10-28,38000.0,14068,0.85,3,False,FL
+STU_00579,Dylan,Figueroa,18,Freshman,3.88,History,2025-02-24,2029-02-24,28000.0,6046,0.85,5,False,GA
+STU_00580,Michele,Butler,21,Junior,3.82,Psychology,2022-10-28,2024-10-28,33000.0,5227,0.73,4,False,FL
+STU_00581,Thomas,Summers,20,Sophomore,3.39,Mathematics,2021-08-26,2024-08-26,35000.0,1808,0.83,2,False,OH
+STU_00582,Alexis,Campbell,24,Senior,4.0,Business,2023-01-23,2024-01-23,40000.0,14667,0.85,2,True,NC
+STU_00583,William,Thompson,18,Freshman,3.52,Mathematics,2024-04-06,2028-04-06,42000.0,2319,0.79,2,True,NY
+STU_00584,Rachel,Garcia,23,Senior,4.0,Psychology,2021-09-16,2022-09-16,39600.0,5081,0.71,3,True,NY
+STU_00585,Megan,Campbell,24,Senior,3.47,Psychology,2024-10-01,2025-10-01,33000.0,312,0.81,6,False,IL
+STU_00586,Brianna,Torres,22,Junior,3.45,Computer Science,2024-02-04,2026-02-04,45000.0,1712,0.79,3,True,PA
+STU_00587,Betty,Robinson,16,Freshman,4.0,Business,2024-10-22,2028-10-22,48000.0,11982,0.95,0,True,CA
+STU_00588,Derrick,Mcintyre,23,Senior,3.22,English,2025-06-23,2026-06-23,30000.0,2278,0.91,6,True,FL
+STU_00589,Dylan,Allen,24,Senior,3.37,Computer Science,2021-09-14,2022-09-14,45000.0,469,0.84,7,False,FL
+STU_00590,Olivia,Munoz,23,Senior,3.79,English,2025-03-23,2026-03-23,36000.0,3396,0.84,6,True,TX
+STU_00591,Michael,Rogers,19,Sophomore,3.77,Computer Science,2024-11-24,2027-11-24,54000.0,3493,0.87,7,False,NY
+STU_00592,Kristen,Baxter,18,Freshman,3.3,Mathematics,2022-11-13,2026-11-13,42000.0,2711,0.77,3,False,TX
+STU_00593,Emily,Hernandez,24,Senior,3.13,Mathematics,2024-11-27,2025-11-27,35000.0,240,0.83,7,True,PA
+STU_00594,Robin,Harper,16,Freshman,4.0,English,2024-02-26,2028-02-26,30000.0,11179,0.9,7,True,OH
+STU_00595,Diana,Rodriguez,24,Senior,3.56,English,2024-06-02,2025-06-02,30000.0,7733,0.79,3,True,NC
+STU_00596,Suzanne,Richards,22,Junior,3.77,Psychology,2021-09-11,2023-09-11,33000.0,2171,0.74,5,True,GA
+STU_00597,Christopher,Jones,18,Freshman,3.68,English,2022-01-25,2026-01-25,30000.0,2341,0.87,3,True,FL
+STU_00598,Emily,Price,19,Sophomore,3.83,Biology,2024-09-12,2027-09-12,38000.0,8927,0.96,1,False,NC
+STU_00599,Brandon,Miller,16,Freshman,3.31,History,2023-04-19,2027-04-19,33600.0,1121,0.73,3,True,CA
+STU_00600,Audrey,Villanueva,18,Freshman,3.49,Mathematics,2024-04-11,2028-04-11,35000.0,569,0.8,6,True,FL
+STU_00601,Daniel,Jackson,17,Freshman,3.82,Psychology,2023-09-10,2027-09-10,33000.0,11977,0.91,0,False,PA
+STU_00602,Michael,Knight,18,Freshman,3.84,Psychology,2024-04-23,2028-04-23,39600.0,9656,0.84,5,True,CA
+STU_00603,Zachary,Wong,19,Sophomore,3.9,Biology,2021-11-28,2024-11-28,38000.0,7634,0.81,3,True,NC
+STU_00604,Stacy,Sherman,17,Freshman,3.33,English,2025-07-02,2029-07-02,30000.0,1582,0.72,4,True,PA
+STU_00605,Mary,Kennedy,20,Sophomore,4.0,Mathematics,2024-10-13,2027-10-13,42000.0,10004,0.74,2,False,NY
+STU_00606,Lori,Bowman,18,Freshman,3.34,English,2022-09-28,2026-09-28,30000.0,1250,0.75,1,True,OH
+STU_00607,Michael,Riggs,24,Senior,2.9,Computer Science,2024-11-13,2025-11-13,45000.0,0,0.73,4,False,NC
+STU_00608,Katherine,Perry,18,Freshman,3.87,History,2024-06-06,2028-06-06,28000.0,7200,0.85,7,True,IL
+STU_00609,Breanna,Hopkins,22,Junior,3.85,Psychology,2021-07-06,2023-07-06,33000.0,6167,0.77,1,False,OH
+STU_00610,April,Miller,20,Sophomore,3.73,Psychology,2023-06-26,2026-06-26,33000.0,4056,0.78,6,False,MI
+STU_00611,Anita,Morris,22,Junior,4.0,Engineering,2022-08-03,2024-08-03,51600.0,8599,0.91,4,True,TX
+STU_00612,Beth,Garcia,18,Freshman,3.63,Biology,2022-05-27,2026-05-27,38000.0,3036,0.73,6,False,FL
+STU_00613,Gwendolyn,Vasquez,16,Freshman,3.36,History,2025-01-07,2029-01-07,33600.0,638,0.71,5,True,TX
+STU_00614,Anthony,Mcgee,22,Junior,3.22,Mathematics,2024-11-10,2026-11-10,35000.0,123,0.75,3,False,FL
+STU_00615,Richard,Sanders,24,Senior,3.32,Mathematics,2021-09-21,2022-09-21,35000.0,287,0.99,2,True,GA
+STU_00616,Maureen,Harris,20,Sophomore,3.6,History,2025-02-08,2028-02-08,28000.0,6944,0.75,0,True,GA
+STU_00617,Walter,Camacho,22,Junior,3.88,History,2023-11-12,2025-11-12,28000.0,7925,0.71,3,True,IL
+STU_00618,Jared,Jones,17,Freshman,3.99,Engineering,2022-02-04,2026-02-04,43000.0,10048,0.9,1,False,GA
+STU_00619,Joseph,Lopez,21,Junior,3.92,Biology,2021-08-02,2023-08-02,38000.0,10106,0.8,0,True,NC
+STU_00620,Kelly,Franco,22,Junior,3.87,Psychology,2022-07-13,2024-07-13,33000.0,9767,0.93,4,True,PA
+STU_00621,Jose,Jones,18,Freshman,3.32,English,2022-05-15,2026-05-15,36000.0,428,0.92,3,False,CA
+STU_00622,Erin,Stevens,19,Sophomore,3.75,Computer Science,2025-02-20,2028-02-20,54000.0,2166,0.95,4,True,NY
+STU_00623,James,Smith,18,Freshman,3.91,Biology,2022-07-24,2026-07-24,38000.0,5561,0.73,1,False,PA
+STU_00624,Travis,Reilly,19,Sophomore,3.86,Engineering,2024-08-21,2027-08-21,43000.0,6104,0.86,7,True,FL
+STU_00625,Jennifer,Sweeney,24,Senior,3.84,English,2025-04-22,2026-04-22,36000.0,5758,0.89,6,False,CA
+STU_00626,Julie,Morales,23,Senior,4.0,Psychology,2024-04-28,2025-04-28,33000.0,14565,0.94,7,True,IL
+STU_00627,Sharon,Johnson,24,Senior,3.94,English,2022-04-01,2023-04-01,30000.0,14608,0.98,1,False,GA
+STU_00628,Victoria,Davis,19,Sophomore,3.82,Business,2023-01-05,2026-01-05,40000.0,7757,0.87,5,True,IL
+STU_00629,Michael,Garcia,22,Junior,3.64,Engineering,2022-04-21,2024-04-21,51600.0,3997,0.78,6,True,CA
+STU_00630,Michael,Lynn,19,Sophomore,3.78,Mathematics,2022-02-20,2025-02-20,35000.0,5738,0.94,3,False,MI
+STU_00631,Lauren,Ramos,21,Junior,3.44,Business,2023-04-19,2025-04-19,40000.0,2094,0.75,6,False,MI
+STU_00632,Bradley,Smith,24,Senior,4.0,English,2025-02-24,2026-02-24,30000.0,13905,0.94,1,True,NC
+STU_00633,Vickie,Mcdaniel,20,Sophomore,3.64,Biology,2024-01-01,2027-01-01,45600.0,5937,0.79,5,True,CA
+STU_00634,Melissa,Wright,23,Senior,3.96,Mathematics,2022-08-02,2023-08-02,35000.0,8613,0.86,7,False,NC
+STU_00635,Erik,Frye,24,Senior,3.86,Computer Science,2025-05-17,2026-05-17,45000.0,6664,0.9,7,False,MI
+STU_00636,Paul,Brown,21,Junior,3.56,Business,2023-05-11,2025-05-11,40000.0,6711,0.79,6,False,OH
+STU_00637,Timothy,Bradley,19,Sophomore,3.88,History,2022-12-16,2025-12-16,33600.0,11682,0.85,5,True,CA
+STU_00638,William,Mitchell,21,Junior,4.0,History,2022-04-16,2024-04-16,33600.0,6952,0.87,3,False,NY
+STU_00639,Mark,Thomas,18,Freshman,3.28,Mathematics,2022-05-26,2026-05-26,35000.0,351,0.72,4,True,IL
+STU_00640,Michelle,Wood,24,Senior,4.0,Business,2024-12-31,2025-12-31,40000.0,14585,0.84,7,False,PA
+STU_00641,Eric,Jackson,19,Sophomore,4.0,Psychology,2024-06-20,2027-06-20,33000.0,10760,0.98,5,False,GA
+STU_00642,Kelsey,Hoover,21,Junior,3.67,Engineering,2024-07-11,2026-07-11,43000.0,7878,0.78,3,True,NC
+STU_00643,Luis,Reyes,16,Freshman,3.43,Biology,2025-01-30,2029-01-30,45600.0,27,0.81,7,False,TX
+STU_00644,Taylor,Perez,16,Freshman,3.59,History,2021-12-18,2025-12-18,33600.0,2205,0.71,1,True,CA
+STU_00645,Mark,Crawford,24,Senior,3.92,Computer Science,2024-10-14,2025-10-14,54000.0,14313,0.79,5,True,NY
+STU_00646,Jessica,Smith,20,Sophomore,3.43,Computer Science,2024-10-07,2027-10-07,45000.0,1721,0.86,6,True,IL
+STU_00647,Emily,Stephens,20,Sophomore,3.86,History,2022-04-03,2025-04-03,33600.0,10965,0.72,1,True,TX
+STU_00648,Sharon,Taylor,22,Junior,3.71,Engineering,2021-10-31,2023-10-31,43000.0,7703,0.89,6,True,NC
+STU_00649,Kelly,King,24,Senior,4.0,English,2022-09-27,2023-09-27,30000.0,14077,0.86,2,False,FL
+STU_00650,Christian,Hickman,24,Senior,3.97,English,2022-11-06,2023-11-06,36000.0,13458,0.84,4,False,TX
+STU_00651,Nicole,Ryan,23,Senior,3.57,Engineering,2021-08-08,2022-08-08,51600.0,7082,0.72,6,True,NY
+STU_00652,Alexandra,Santana,19,Sophomore,4.0,Biology,2022-03-03,2025-03-03,45600.0,9480,0.77,7,False,NY
+STU_00653,Natasha,Collins,16,Freshman,3.36,Mathematics,2024-02-03,2028-02-03,42000.0,1030,0.71,3,True,TX
+STU_00654,Emily,Perry,24,Senior,3.57,English,2024-03-06,2025-03-06,30000.0,4482,0.78,7,False,NC
+STU_00655,Andrew,Rice,24,Senior,3.82,Business,2021-11-10,2022-11-10,48000.0,11170,0.86,3,True,TX
+STU_00656,Sean,Cooper,17,Freshman,3.66,Biology,2023-11-02,2027-11-02,45600.0,2916,0.9,5,False,CA
+STU_00657,Dylan,Carroll,17,Freshman,3.96,Mathematics,2023-03-16,2027-03-16,35000.0,11468,0.73,3,True,FL
+STU_00658,Jonathon,Skinner,21,Junior,4.0,History,2022-04-20,2024-04-20,28000.0,10754,0.92,3,True,FL
+STU_00659,Sonya,Marshall,23,Senior,3.7,Biology,2025-05-17,2026-05-17,38000.0,3614,0.97,5,True,OH
+STU_00660,Christy,Pratt,20,Sophomore,3.97,English,2023-07-22,2026-07-22,30000.0,9624,0.98,3,True,NC
+STU_00661,Douglas,Short,17,Freshman,3.75,English,2021-10-15,2025-10-15,30000.0,6023,0.89,2,True,OH
+STU_00662,Cindy,Carlson,17,Freshman,3.71,Computer Science,2023-12-11,2027-12-11,54000.0,4540,0.73,7,False,NY
+STU_00663,Wanda,Cortez,24,Senior,3.38,Computer Science,2023-02-11,2024-02-11,45000.0,2014,0.8,4,False,GA
+STU_00664,Crystal,Chambers,24,Senior,4.0,Psychology,2022-04-06,2023-04-06,33000.0,10347,0.82,6,True,PA
+STU_00665,Leah,Shaw,23,Senior,4.0,Mathematics,2024-04-22,2025-04-22,42000.0,8462,0.81,3,False,NY
+STU_00666,Daniel,Vasquez,23,Senior,4.0,Biology,2022-09-28,2023-09-28,38000.0,14498,0.83,6,False,IL
+STU_00667,Anthony,Martinez,16,Freshman,3.62,History,2022-09-15,2026-09-15,33600.0,4240,0.89,2,True,CA
+STU_00668,Kurt,Hawkins,17,Freshman,3.69,Mathematics,2025-07-01,2029-07-01,35000.0,2586,0.89,4,True,IL
+STU_00669,Anthony,Evans,24,Senior,4.0,Computer Science,2023-07-18,2024-07-18,45000.0,13535,0.99,3,False,OH
+STU_00670,Thomas,Dominguez,23,Senior,3.74,Engineering,2021-11-28,2022-11-28,43000.0,6977,0.87,0,True,FL
+STU_00671,Heather,Decker,20,Sophomore,3.0,Engineering,2023-03-01,2026-03-01,51600.0,0,0.75,3,True,NY
+STU_00672,Kim,Mitchell,20,Sophomore,3.79,Mathematics,2022-04-07,2025-04-07,35000.0,6222,0.94,4,False,FL
+STU_00673,Brenda,Hunt,23,Senior,4.0,Mathematics,2021-09-27,2022-09-27,35000.0,7023,0.91,4,False,IL
+STU_00674,Amanda,Roberts,20,Sophomore,3.6,Mathematics,2024-11-01,2027-11-01,42000.0,6181,0.76,7,True,CA
+STU_00675,Sarah,Parks,19,Sophomore,3.99,History,2024-01-31,2027-01-31,28000.0,6831,0.83,3,False,IL
+STU_00676,Paige,Stanley,18,Freshman,3.59,Computer Science,2025-04-28,2029-04-28,54000.0,6552,0.71,1,False,NY
+STU_00677,Lydia,Arellano,19,Sophomore,3.43,English,2023-04-10,2026-04-10,36000.0,2927,0.78,4,True,NY
+STU_00678,Michael,Petty,18,Freshman,3.68,Mathematics,2023-02-27,2027-02-27,35000.0,5628,0.96,1,True,IL
+STU_00679,Karl,Nguyen,17,Freshman,3.32,Business,2024-08-04,2028-08-04,48000.0,2609,0.87,0,False,TX
+STU_00680,Shannon,Booth,22,Junior,4.0,Mathematics,2021-12-31,2023-12-31,35000.0,11170,0.73,6,True,IL
+STU_00681,David,Fernandez,22,Junior,3.77,Computer Science,2024-05-12,2026-05-12,45000.0,7031,0.94,0,True,FL
+STU_00682,Courtney,Smith,17,Freshman,3.47,Engineering,2024-02-03,2028-02-03,43000.0,2678,0.8,6,True,FL
+STU_00683,Sandra,Morton,23,Senior,3.45,Computer Science,2025-06-09,2026-06-09,45000.0,2913,0.75,0,True,GA
+STU_00684,Melissa,Scott,17,Freshman,4.0,Mathematics,2021-12-13,2025-12-13,35000.0,5269,0.73,3,False,NC
+STU_00685,Paul,Jordan,23,Senior,4.0,Mathematics,2021-07-23,2022-07-23,42000.0,10102,0.84,6,True,CA
+STU_00686,Amber,Lopez,22,Junior,3.69,Engineering,2024-10-09,2026-10-09,43000.0,4150,0.95,4,False,IL
+STU_00687,Alice,Munoz,20,Sophomore,3.36,Mathematics,2022-07-27,2025-07-27,35000.0,1847,0.77,7,True,FL
+STU_00688,Richard,Smith,23,Senior,3.98,Business,2023-07-06,2024-07-06,48000.0,11393,0.96,2,True,NY
+STU_00689,Gregory,Villanueva,20,Sophomore,3.67,Computer Science,2023-04-14,2026-04-14,45000.0,4392,0.89,1,False,GA
+STU_00690,Timothy,Wright,19,Sophomore,4.0,Psychology,2024-12-28,2027-12-28,33000.0,5268,0.89,1,False,IL
+STU_00691,Jeffrey,Klein,22,Junior,4.0,Biology,2021-12-12,2023-12-12,45600.0,5586,0.98,1,True,NY
+STU_00692,Michael,Sherman,19,Sophomore,3.58,Computer Science,2021-09-23,2024-09-23,45000.0,2850,0.91,0,True,GA
+STU_00693,Anthony,Gates,19,Sophomore,4.0,Psychology,2024-07-11,2027-07-11,39600.0,10544,0.99,5,False,TX
+STU_00694,Dillon,Jordan,22,Junior,3.58,Mathematics,2025-01-19,2027-01-19,35000.0,2236,0.76,4,False,GA
+STU_00695,Peter,Kennedy,23,Senior,3.49,Engineering,2023-03-10,2024-03-10,51600.0,451,0.81,6,True,CA
+STU_00696,Heather,Arnold,22,Junior,4.0,Computer Science,2024-02-01,2026-02-01,54000.0,14121,0.9,5,True,CA
+STU_00697,Brandon,Jones,23,Senior,3.63,Computer Science,2025-01-15,2026-01-15,45000.0,5792,0.93,1,True,MI
+STU_00698,Michelle,Mack,17,Freshman,3.77,Business,2024-07-02,2028-07-02,40000.0,5635,0.82,7,True,GA
+STU_00699,Michael,Holt,20,Sophomore,3.61,English,2022-12-21,2025-12-21,36000.0,5564,0.72,5,False,CA
+STU_00700,Tina,Bryan,16,Freshman,4.0,Mathematics,2021-11-17,2025-11-17,35000.0,9496,0.91,0,True,OH
+STU_00701,Joseph,Bennett,16,Freshman,4.0,Business,2021-11-25,2025-11-25,48000.0,5127,0.97,0,False,TX
+STU_00702,Christopher,Pruitt,22,Junior,3.98,Biology,2023-12-30,2025-12-30,38000.0,10969,0.86,6,False,IL
+STU_00703,Mary,Phillips,22,Junior,3.89,History,2025-03-02,2027-03-02,28000.0,8706,0.86,4,False,GA
+STU_00704,Robert,Mitchell,16,Freshman,3.59,English,2024-04-16,2028-04-16,30000.0,5278,0.95,1,True,FL
+STU_00705,Kathy,Jackson,19,Sophomore,3.57,Computer Science,2023-04-08,2026-04-08,54000.0,3099,0.89,6,True,NY
+STU_00706,Laura,Landry,24,Senior,3.97,Business,2021-10-11,2022-10-11,40000.0,8619,0.91,5,False,MI
+STU_00707,Thomas,Thompson,22,Junior,3.77,English,2022-11-17,2024-11-17,36000.0,4256,0.81,7,True,CA
+STU_00708,Carla,Morris,23,Senior,3.44,Computer Science,2025-06-28,2026-06-28,45000.0,779,0.98,6,False,GA
+STU_00709,Bryan,Garcia,19,Sophomore,4.0,Engineering,2023-03-15,2026-03-15,43000.0,9233,0.82,0,True,NC
+STU_00710,Jill,Cross,19,Sophomore,3.62,History,2022-02-22,2025-02-22,33600.0,2005,0.86,7,True,CA
+STU_00711,Matthew,Knox,21,Junior,4.0,Mathematics,2025-01-09,2027-01-09,35000.0,7770,0.84,1,True,NC
+STU_00712,Mark,Reid,20,Sophomore,4.0,Biology,2022-02-09,2025-02-09,45600.0,13161,0.82,3,True,TX
+STU_00713,Tyler,Pope,22,Junior,3.56,English,2022-02-11,2024-02-11,36000.0,3775,0.81,5,False,TX
+STU_00714,Rhonda,Nichols,21,Junior,3.87,Computer Science,2024-05-10,2026-05-10,54000.0,14543,0.9,3,True,NY
+STU_00715,Peter,Mendoza,21,Junior,3.49,Engineering,2023-12-06,2025-12-06,43000.0,2250,0.98,5,True,FL
+STU_00716,James,Fisher,22,Junior,3.92,Psychology,2025-05-12,2027-05-12,39600.0,6188,0.81,2,True,NY
+STU_00717,Barbara,Smith,20,Sophomore,3.17,Computer Science,2025-06-18,2028-06-18,45000.0,1801,0.71,2,True,GA
+STU_00718,Michelle,Rodriguez,22,Junior,3.96,Business,2024-07-23,2026-07-23,40000.0,13164,0.86,6,False,GA
+STU_00719,Luis,Gross,18,Freshman,3.74,History,2021-07-20,2025-07-20,28000.0,4009,0.76,4,False,FL
+STU_00720,Kathryn,Smith,18,Freshman,3.75,Business,2024-08-09,2028-08-09,40000.0,3666,0.76,5,False,NC
+STU_00721,Jessica,Griffin,20,Sophomore,4.0,Psychology,2024-10-14,2027-10-14,33000.0,13726,0.93,0,True,MI
+STU_00722,Greg,Castillo,23,Senior,4.0,Business,2024-11-24,2025-11-24,40000.0,5354,0.91,2,True,MI
+STU_00723,Tara,Trevino,16,Freshman,3.65,English,2023-06-09,2027-06-09,30000.0,6055,0.85,5,False,OH
+STU_00724,John,Webb,22,Junior,3.98,Biology,2023-11-21,2025-11-21,38000.0,12970,0.75,6,False,FL
+STU_00725,Katie,Prince,23,Senior,3.82,Business,2025-05-31,2026-05-31,40000.0,9784,0.72,1,False,OH
+STU_00726,John,Fernandez,18,Freshman,4.0,Mathematics,2022-02-08,2026-02-08,35000.0,13176,0.89,0,True,IL
+STU_00727,Frank,Martin,18,Freshman,3.45,Biology,2022-03-23,2026-03-23,45600.0,1990,0.74,4,True,CA
+STU_00728,Jonathan,Johnson,18,Freshman,3.48,Psychology,2024-10-03,2028-10-03,33000.0,1906,0.73,5,True,OH
+STU_00729,Jeffrey,Delgado,18,Freshman,3.77,Engineering,2025-03-15,2029-03-15,43000.0,4736,0.96,1,False,OH
+STU_00730,Kelly,Hughes,18,Freshman,3.45,Business,2024-04-09,2028-04-09,40000.0,2969,0.97,2,False,FL
+STU_00731,Kyle,White,23,Senior,4.0,Computer Science,2023-06-03,2024-06-03,45000.0,6601,0.94,3,False,IL
+STU_00732,Amber,Gill,16,Freshman,3.36,Mathematics,2022-07-02,2026-07-02,35000.0,564,0.82,4,False,NC
+STU_00733,Patricia,Johnson,16,Freshman,3.48,History,2022-07-31,2026-07-31,28000.0,1185,0.88,2,True,NC
+STU_00734,Daniel,Rose,22,Junior,4.0,Psychology,2022-10-05,2024-10-05,39600.0,11407,0.98,5,True,CA
+STU_00735,James,Miller,17,Freshman,3.7,English,2023-04-30,2027-04-30,30000.0,6644,0.93,3,False,OH
+STU_00736,Paula,Chase,16,Freshman,3.5,Business,2022-08-30,2026-08-30,40000.0,7543,0.84,2,False,NC
+STU_00737,Joan,Duncan,23,Senior,3.96,Biology,2024-09-25,2025-09-25,38000.0,7822,0.85,6,True,PA
+STU_00738,Loretta,Kramer,22,Junior,4.0,Business,2023-06-07,2025-06-07,40000.0,5464,0.86,3,True,OH
+STU_00739,John,Arroyo,23,Senior,3.86,Engineering,2024-06-19,2025-06-19,43000.0,6165,0.79,1,True,FL
+STU_00740,Sean,Benitez,17,Freshman,3.31,English,2023-02-13,2027-02-13,30000.0,1065,0.93,0,False,MI
+STU_00741,Jessica,Mullins,23,Senior,4.0,Mathematics,2021-10-02,2022-10-02,35000.0,6890,0.97,5,True,OH
+STU_00742,Jason,Garcia,19,Sophomore,4.0,Mathematics,2024-02-19,2027-02-19,35000.0,5189,0.98,0,False,FL
+STU_00743,Martin,Freeman,23,Senior,3.79,Mathematics,2023-01-30,2024-01-30,42000.0,5792,0.95,1,False,TX
+STU_00744,Jeff,Lee,22,Junior,3.5,Psychology,2021-09-19,2023-09-19,39600.0,1340,0.74,4,False,NY
+STU_00745,Jeremy,Gibson,23,Senior,3.7,Psychology,2021-08-07,2022-08-07,39600.0,5664,0.84,5,True,TX
+STU_00746,Jason,Robinson,23,Senior,3.85,Engineering,2021-10-29,2022-10-29,51600.0,13229,0.8,1,True,NY
+STU_00747,Mary,Ray,22,Junior,4.0,Engineering,2025-04-03,2027-04-03,43000.0,12046,0.77,3,True,FL
+STU_00748,April,Robbins,23,Senior,3.62,Engineering,2023-11-25,2024-11-25,43000.0,3358,0.79,3,False,GA
+STU_00749,Erika,Cross,24,Senior,3.96,Business,2025-04-20,2026-04-20,48000.0,9593,0.8,3,False,CA
+STU_00750,Cameron,Reid,21,Junior,4.0,Business,2025-06-01,2027-06-01,40000.0,8589,0.95,0,True,MI
+STU_00751,Sean,Sullivan,23,Senior,3.97,History,2024-04-03,2025-04-03,33600.0,14817,0.93,5,True,NY
+STU_00752,Eugene,Mcmillan,17,Freshman,4.0,English,2024-12-16,2028-12-16,30000.0,6310,0.94,5,False,MI
+STU_00753,Michael,Kidd,20,Sophomore,3.94,English,2022-06-04,2025-06-04,30000.0,8218,0.92,7,True,GA
+STU_00754,Edwin,Adams,19,Sophomore,3.8,Engineering,2022-11-22,2025-11-22,51600.0,13495,0.75,4,False,TX
+STU_00755,Kelly,Floyd,21,Junior,3.75,Engineering,2025-01-28,2027-01-28,51600.0,2442,0.77,5,True,NY
+STU_00756,Andre,Mcdaniel,17,Freshman,3.64,Engineering,2024-10-28,2028-10-28,51600.0,6540,0.93,5,False,NY
+STU_00757,Jason,Fox,24,Senior,4.0,Psychology,2022-09-07,2023-09-07,33000.0,14539,0.9,4,False,NC
+STU_00758,Erica,Taylor,17,Freshman,4.0,Biology,2022-05-26,2026-05-26,38000.0,6470,1.0,5,True,NC
+STU_00759,Allison,Rosales,20,Sophomore,3.93,Mathematics,2023-09-17,2026-09-17,42000.0,9280,0.88,0,False,TX
+STU_00760,Benjamin,White,16,Freshman,3.2,Engineering,2023-03-19,2027-03-19,43000.0,2964,0.76,3,True,MI
+STU_00761,Amy,Martin,23,Senior,3.48,English,2025-02-21,2026-02-21,30000.0,298,0.87,4,True,PA
+STU_00762,Bryan,Williamson,19,Sophomore,3.54,History,2022-03-15,2025-03-15,33600.0,7823,0.82,0,False,TX
+STU_00763,Sara,Smith,24,Senior,3.75,History,2023-07-11,2024-07-11,33600.0,3466,0.92,2,True,NY
+STU_00764,Laura,Jones,23,Senior,3.79,English,2023-06-07,2024-06-07,30000.0,4720,0.88,5,False,GA
+STU_00765,John,Zuniga,17,Freshman,3.71,Business,2024-07-07,2028-07-07,48000.0,3469,0.8,6,True,TX
+STU_00766,Madeline,Olson,21,Junior,3.39,Psychology,2025-03-11,2027-03-11,33000.0,1640,0.71,5,False,IL
+STU_00767,Tammy,Nelson,19,Sophomore,3.4,Mathematics,2021-11-22,2024-11-22,35000.0,734,0.82,5,True,GA
+STU_00768,Angela,Larson,18,Freshman,3.97,Engineering,2021-11-18,2025-11-18,43000.0,6767,0.81,4,True,MI
+STU_00769,Allison,Reid,22,Junior,3.77,Business,2022-12-06,2024-12-06,40000.0,2657,0.86,7,False,MI
+STU_00770,Daniel,Wright,18,Freshman,3.9,English,2022-04-09,2026-04-09,30000.0,10067,0.84,5,True,FL
+STU_00771,Luke,Olson,22,Junior,4.0,Psychology,2024-10-26,2026-10-26,33000.0,5897,0.86,0,False,PA
+STU_00772,Steven,Johnson,22,Junior,3.32,Engineering,2023-04-02,2025-04-02,51600.0,291,0.79,1,True,TX
+STU_00773,Heather,Foster,19,Sophomore,4.0,Business,2025-03-30,2028-03-30,48000.0,14176,0.85,4,False,NY
+STU_00774,Lynn,Tate,20,Sophomore,3.07,Biology,2022-03-17,2025-03-17,38000.0,1473,0.7,4,True,MI
+STU_00775,Ryan,Carlson,24,Senior,3.79,History,2022-11-22,2023-11-22,28000.0,6634,0.9,0,True,PA
+STU_00776,Gwendolyn,Baker,24,Senior,3.48,Computer Science,2024-09-28,2025-09-28,54000.0,629,0.76,4,True,TX
+STU_00777,Patricia,Conner,16,Freshman,3.81,Business,2023-09-05,2027-09-05,48000.0,5970,0.85,7,True,TX
+STU_00778,James,Dunn,16,Freshman,4.0,Biology,2024-09-28,2028-09-28,38000.0,14025,0.92,7,True,OH
+STU_00779,Donald,Anthony,18,Freshman,3.98,History,2025-04-20,2029-04-20,28000.0,14986,0.74,4,True,IL
+STU_00780,Jeffery,Little,21,Junior,3.65,English,2025-01-23,2027-01-23,30000.0,5946,0.96,6,False,MI
+STU_00781,Leslie,Holden,18,Freshman,4.0,English,2021-08-08,2025-08-08,30000.0,8489,0.71,5,False,GA
+STU_00782,Elaine,Warren,19,Sophomore,3.88,Biology,2024-12-12,2027-12-12,38000.0,9295,0.91,2,True,MI
+STU_00783,James,Mitchell,18,Freshman,3.16,English,2024-02-11,2028-02-11,30000.0,1810,0.8,3,True,PA
+STU_00784,Regina,Foster,23,Senior,3.82,Mathematics,2022-08-05,2023-08-05,42000.0,10028,0.84,7,True,TX
+STU_00785,Jeanne,Moore,18,Freshman,3.83,Business,2023-01-06,2027-01-06,40000.0,9140,0.85,4,True,NC
+STU_00786,Kristy,Lewis,22,Junior,3.41,Computer Science,2023-12-02,2025-12-02,54000.0,324,0.98,1,True,TX
+STU_00787,Elizabeth,Adams,20,Sophomore,3.82,Engineering,2022-10-23,2025-10-23,43000.0,13948,0.81,4,True,OH
+STU_00788,Wendy,Turner,18,Freshman,3.6,Biology,2025-03-07,2029-03-07,45600.0,7139,0.9,4,True,CA
+STU_00789,Brandy,Rollins,20,Sophomore,3.91,English,2025-01-02,2028-01-02,30000.0,13602,0.74,6,True,IL
+STU_00790,Valerie,White,18,Freshman,3.9,Psychology,2024-02-16,2028-02-16,39600.0,5828,0.72,0,True,TX
+STU_00791,Whitney,Miles,21,Junior,4.0,Computer Science,2023-04-05,2025-04-05,54000.0,9633,0.84,1,False,CA
+STU_00792,Theodore,Benson,22,Junior,3.66,History,2024-04-19,2026-04-19,28000.0,5131,0.82,0,True,OH
+STU_00793,Joshua,Luna,19,Sophomore,3.89,Biology,2024-12-30,2027-12-30,38000.0,11053,1.0,6,False,OH
+STU_00794,Jody,Hensley,16,Freshman,4.0,Psychology,2023-06-18,2027-06-18,39600.0,6697,0.86,4,True,CA
+STU_00795,James,Lee,20,Sophomore,3.94,English,2024-03-27,2027-03-27,36000.0,13290,0.95,0,False,NY
+STU_00796,Jonathan,Tyler,17,Freshman,3.37,Biology,2022-10-28,2026-10-28,38000.0,2093,0.73,2,False,PA
+STU_00797,Philip,Rowe,18,Freshman,3.56,Business,2024-05-16,2028-05-16,40000.0,2323,0.82,0,True,NC
+STU_00798,Steven,Gray,17,Freshman,3.72,Mathematics,2023-08-25,2027-08-25,35000.0,2024,0.96,5,False,FL
+STU_00799,Aaron,Miller,23,Senior,4.0,Psychology,2022-03-14,2023-03-14,33000.0,5569,1.0,2,True,OH
+STU_00800,David,Berry,23,Senior,3.37,History,2021-12-19,2022-12-19,28000.0,2210,0.89,3,False,GA

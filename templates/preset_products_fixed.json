@@ -1,0 +1,151 @@
+{
+  "name": "preset_products_fixed",
+  "description": "High-quality realistic product dataset template",
+  "source_dataset": "products_comprehensive_fixed",
+  "created_at": "2025-07-04T23:48:00.000000",
+  "quality_score": 95.0,
+  "columns": [
+    {
+      "name": "product_id",
+      "data_type": "text",
+      "required": "True",
+      "description": "Product identifier in format PROD-XXXXX",
+      "pattern": "PROD-{random_digits:5}"
+    },
+    {
+      "name": "product_name",
+      "data_type": "categorical",
+      "required": "True",
+      "description": "Realistic product names",
+      "categories": [
+        "Samsung Galaxy Smartphone", "iPhone 15 Pro", "MacBook Air M2", "Dell XPS Laptop",
+        "Sony Headphones", "Bose Speaker", "Canon Camera", "Nike Running Shoes",
+        "Adidas Sneakers", "Levi's Jeans", "Calvin Klein T-Shirt", "Zara Dress",
+        "L'Oreal Lipstick", "Maybelline Foundation", "Clinique Moisturizer", "The Great Gatsby Book",
+        "Harry Potter Series", "Kindle E-Reader", "Toyota Camry Parts", "Honda Civic Accessories",
+        "Garden Hose 50ft", "Lawn Mower Electric", "Coffee Maker Deluxe", "Blender Pro Series",
+        "Gaming Chair RGB", "Standing Desk Adjustable", "Wireless Mouse", "Mechanical Keyboard",
+        "Yoga Mat Premium", "Dumbbells Set", "Protein Powder Vanilla", "Running Watch GPS",
+        "Instant Pot 6Qt", "Air Fryer Digital", "Vacuum Cleaner Cordless", "Smart TV 55 inch",
+        "PlayStation Console", "Xbox Controller", "VR Headset Meta", "Tablet Android 10 inch"
+      ]
+    },
+    {
+      "name": "category",
+      "data_type": "categorical",
+      "required": "True",
+      "description": "Product categories",
+      "categories": [
+        "Electronics",
+        "Clothing",
+        "Beauty",
+        "Sports",
+        "Books",
+        "Automotive",
+        "Home & Garden"
+      ]
+    },
+    {
+      "name": "brand",
+      "data_type": "categorical",
+      "required": "True",
+      "description": "Product brands",
+      "categories": [
+        "Samsung", "Apple", "Sony", "Nike", "Adidas", 
+        "Dell", "HP", "Canon", "Bose", "Levi's",
+        "Calvin Klein", "Zara", "L'Oreal", "Maybelline",
+        "Toyota", "Honda", "Generic", "Premium Brand"
+      ]
+    },
+    {
+      "name": "price",
+      "data_type": "float",
+      "required": "True",
+      "description": "Product price in USD",
+      "min_value": 5.99,
+      "max_value": 1999.99,
+      "distribution": "normal"
+    },
+    {
+      "name": "cost",
+      "data_type": "float",
+      "required": "True",
+      "description": "Product cost (should be less than price)",
+      "min_value": 3.00,
+      "max_value": 1500.00,
+      "distribution": "normal"
+    },
+    {
+      "name": "stock_quantity",
+      "data_type": "integer",
+      "required": "True",
+      "description": "Items in stock",
+      "min_value": 0,
+      "max_value": 999,
+      "distribution": "normal"
+    },
+    {
+      "name": "weight_kg",
+      "data_type": "float",
+      "required": "True",
+      "description": "Product weight in kilograms",
+      "min_value": 0.1,
+      "max_value": 10.0,
+      "distribution": "normal"
+    },
+    {
+      "name": "rating",
+      "data_type": "float",
+      "required": "True",
+      "description": "Customer rating 1.0 to 5.0",
+      "min_value": 1.0,
+      "max_value": 5.0,
+      "distribution": "normal"
+    },
+    {
+      "name": "review_count",
+      "data_type": "integer",
+      "required": "True",
+      "description": "Number of customer reviews",
+      "min_value": 10,
+      "max_value": 5000,
+      "distribution": "normal"
+    },
+    {
+      "name": "launch_date",
+      "data_type": "date",
+      "required": "True",
+      "description": "Product launch date",
+      "min_value": "2020-01-01",
+      "max_value": "2024-12-31"
+    },
+    {
+      "name": "is_bestseller",
+      "data_type": "boolean",
+      "required": "True",
+      "description": "Whether product is a bestseller"
+    },
+    {
+      "name": "supplier_country",
+      "data_type": "categorical",
+      "required": "True",
+      "description": "Country where product is manufactured",
+      "categories": [
+        "China", "USA", "Japan", "Germany", "South Korea",
+        "Taiwan", "Vietnam", "India", "Mexico", "Italy"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "type": "financial",
+      "columns": ["price", "cost"],
+      "description": "Cost should be 40-80% of price for realistic profit margins"
+    },
+    {
+      "type": "quality",
+      "columns": ["rating", "review_count"],
+      "description": "Higher rated products tend to have more reviews"
+    }
+  ]
+}

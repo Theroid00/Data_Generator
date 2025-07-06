@@ -1,0 +1,151 @@
+employee_id,first_name,last_name,email,department,job_level,salary,hire_date,age,performance_rating,remote_work,country,years_experience
+630587,Mark,Turner,xgrimes@example.org,Operations,Lead,25000.0,2021-07-05 23:34:29.730331,22,Good,True,USA,11
+7321202,Donna,Carpenter,jeremyjones@example.com,Design,Lead,76294.96306385242,2006-07-09 23:34:29.730529,42,Good,False,Canada,19
+9965438,Jennifer,Padilla,peterday@example.org,HR,Director,180111.0,2020-07-05 23:34:29.730664,26,Good,False,USA,15
+3329003,Michael,Woods,derrick18@example.net,Design,Junior,45129.78997300698,2019-07-06 23:34:29.730771,26,Good,True,Germany,3
+8537006,Billy,Valdez,qpatterson@example.net,Design,Senior,114554.98361717226,1980-07-15 23:34:29.730871,65,Needs Improvement,True,USA,21
+9780718,Mitchell,Day,snowjeff@example.org,HR,Senior,74485.39625731176,2018-07-06 23:34:29.730969,35,Excellent,True,Germany,26
+3838920,James,Norman,huynhmatthew@example.com,HR,Junior,67314.27682780544,2018-07-06 23:34:29.731062,40,Excellent,True,Canada,21
+14011404,Jason,Medina,crossjanet@example.org,Engineering,Lead,50028.84740162045,2010-07-08 23:34:29.731151,33,Needs Improvement,True,UK,32
+15668865,Danielle,Mason,xmarshall@example.org,Operations,Director,162140.0,2015-07-07 23:34:29.731240,53,Good,True,UK,15
+13426885,Jimmy,Becker,hahnjohn@example.net,Finance,Lead,34687.619908441484,2023-07-05 23:34:29.731332,29,Good,True,USA,16
+12378259,Robert,Baker,rachelsingh@example.net,Sales,Lead,27899.11713090797,2023-07-05 23:34:29.731424,27,Good,True,Germany,21
+15638991,Chad,Hayes,mariahthomas@example.org,Sales,VP,56872.59060226525,2015-07-07 23:34:29.731512,40,Good,True,UK,31
+8499090,Scott,Cantu,alexanderdustin@example.com,Sales,VP,54087.012885783566,2014-07-07 23:34:29.731606,32,Needs Improvement,True,Australia,32
+1531101,Nicole,Stewart,alexandermartin@example.org,Legal,Lead,63629.90202174097,2016-07-06 23:34:29.731692,39,Good,True,UK,34
+379218,Jennifer,Lang,adrian28@example.net,Design,Manager,86669.0,2018-07-06 23:34:29.731778,30,Good,True,Germany,27
+8531580,Michael,Garcia,nicole96@example.net,HR,VP,69473.76816851963,2023-07-05 23:34:29.731871,32,Needs Improvement,False,USA,3
+11167197,Richard,Horn,ihenderson@example.com,Engineering,Director,232524.0,2013-07-07 23:34:29.731960,34,Satisfactory,True,USA,4
+9484963,Terry,Campbell,yvonne56@example.net,Operations,Lead,28700.06736050564,2022-07-05 23:34:29.732046,22,Good,True,USA,23
+139555,Daniel,Floyd,andrew48@example.net,Marketing,Manager,80557.0,2024-07-04 23:34:29.732131,22,Good,True,Australia,1
+1856062,Brianna,Parker,gmoss@example.com,Operations,VP,51313.03008513668,2012-07-07 23:34:29.732217,34,Good,True,Germany,10
+1075500,Evan,Diaz,thomaschristopher@example.org,Finance,Junior,105559.7043415752,2015-07-07 23:34:29.732309,54,Satisfactory,False,Germany,27
+6057657,Katrina,Guerrero,coreyhardy@example.com,Design,Manager,102074.0,2023-07-05 23:34:29.732395,29,Needs Improvement,True,Canada,12
+5812803,Lisa,Sanchez,carlbailey@example.net,Design,Director,219820.0,2016-07-06 23:34:29.732479,40,Excellent,True,UK,16
+10327478,Robin,Nelson,bailey34@example.net,Finance,Senior,58819.38367708946,2019-07-06 23:34:29.732574,34,Good,True,UK,32
+16217335,Megan,Romero,kimlaura@example.com,HR,Junior,62495.727344949744,2025-07-04 23:34:29.732662,32,Excellent,True,USA,29
+12416207,Shawn,Rose,collinsdennis@example.org,Engineering,Director,125416.0,2024-07-04 23:34:29.732749,29,Good,False,Germany,1
+11085509,Maria,Hartman,julianfarrell@example.net,HR,Manager,143943.0,2007-07-09 23:34:29.732835,42,Satisfactory,True,Germany,20
+3879857,Michelle,Valdez,garciaamy@example.org,Engineering,Lead,28840.673256920476,2019-07-06 23:34:29.732929,24,Needs Improvement,True,Canada,6
+4346577,Kevin,Gonzalez,shirleyescobar@example.org,Design,Lead,59157.553824736045,2016-07-06 23:34:29.733019,39,Good,False,USA,11
+6966529,Amy,Moore,qsmith@example.com,Design,Senior,80330.77277809758,2010-07-08 23:34:29.733109,47,Satisfactory,False,Germany,17
+12860476,Michael,Bruce,smithjennifer@example.org,Design,Lead,62793.7494477669,2024-07-04 23:34:29.733196,34,Good,True,USA,28
+7381593,Brian,Fuller,vaughnsarah@example.com,Finance,Junior,25000.0,2023-07-05 23:34:29.733281,26,Needs Improvement,False,UK,4
+8302371,Robert,Wilson,cortezrichard@example.com,Marketing,Manager,115941.0,2017-07-06 23:34:29.733367,32,Good,True,Canada,4
+1473849,Heather,Woodard,carol88@example.net,Finance,Director,187232.0,2010-07-08 23:34:29.733451,54,Needs Improvement,True,Canada,10
+6471033,Mark,Wilson,millerjames@example.net,Sales,Manager,108409.0,2024-07-04 23:34:29.733536,29,Good,False,Germany,32
+5890243,Robert,Reed,mariacunningham@example.com,Design,Director,171470.0,2024-07-04 23:34:29.733624,28,Excellent,False,USA,34
+14370699,Patricia,Gibbs,deborah65@example.net,Legal,VP,67301.89929008963,2016-07-06 23:34:29.733713,39,Satisfactory,True,Canada,6
+11624336,Harold,Brown,richwendy@example.net,Finance,VP,56294.32181925834,2014-07-07 23:34:29.733799,41,Excellent,True,USA,1
+1119775,Jeffrey,Christensen,clarklaura@example.com,Design,Manager,92745.0,2022-07-05 23:34:29.733885,23,Needs Improvement,True,Australia,18
+5862364,Jennifer,Stout,fdaugherty@example.net,Design,Lead,102535.37608223388,2017-07-06 23:34:29.733971,50,Good,True,Germany,24
+15330993,Jesse,Hunt,jmccormick@example.net,Design,Lead,25000.0,2019-07-06 23:34:29.734056,25,Good,True,Canada,30
+4378841,Paul,Barrera,john42@example.com,Legal,VP,44879.046137018915,2016-07-06 23:34:29.734141,33,Good,True,UK,45
+5141972,Eric,Alexander,sandrawilliams@example.org,Operations,Junior,49800.317697258695,2024-07-04 23:34:29.734231,32,Needs Improvement,True,USA,19
+5890530,David,Rodriguez,pgonzalez@example.com,Design,Lead,62517.024196239865,2009-07-08 23:34:29.734319,42,Excellent,True,Australia,14
+14092291,Benjamin,Carlson,woodnicholas@example.net,Engineering,VP,34219.20601747191,2019-07-06 23:34:29.734405,24,Needs Improvement,True,Australia,37
+4904338,Michael,Gay,poolestephanie@example.com,HR,Junior,56028.149337496616,2020-07-05 23:34:29.734490,33,Good,True,UK,19
+10686237,Joseph,Hernandez,mferguson@example.com,Legal,Lead,61436.81672304593,2008-07-08 23:34:29.734580,39,Satisfactory,False,Germany,26
+4967958,Jonathan,Brown,joshuaarias@example.com,Design,VP,34720.292803783326,2021-07-05 23:34:29.734667,32,Satisfactory,True,USA,17
+12820025,Hector,Mcdowell,charlesbruce@example.org,Design,Senior,55690.97685693058,2016-07-06 23:34:29.734752,29,Satisfactory,True,UK,15
+3606435,Austin,Jackson,sarahbaird@example.org,Sales,Director,146505.0,2025-07-04 23:34:29.734837,25,Satisfactory,False,Australia,31
+2492224,Carlos,Galvan,ismith@example.org,Legal,Lead,42728.69483396079,2017-07-06 23:34:29.734922,26,Good,False,Germany,11
+14583254,Mary,Brown,wschneider@example.org,Finance,Junior,60554.60062421193,2020-07-05 23:34:29.735006,35,Good,False,Australia,14
+9220565,Russell,Salas,mathisdavid@example.net,Engineering,Lead,25000.0,2021-07-05 23:34:29.735092,22,Satisfactory,True,UK,39
+7299317,Christopher,Villarreal,martinalex@example.com,Engineering,VP,30761.966831246547,2023-07-05 23:34:29.735181,22,Excellent,False,Australia,20
+9114975,Mark,Figueroa,lisajennings@example.com,Engineering,Lead,45012.134277641264,2022-07-05 23:34:29.735273,26,Satisfactory,True,USA,11
+4933464,Jonathan,Mack,briansanchez@example.org,Sales,Lead,76252.80366929653,2021-07-05 23:34:29.735359,37,Excellent,False,Australia,36
+7338008,Peter,Hebert,eric27@example.com,Finance,Senior,47173.29684922838,2018-07-06 23:34:29.735445,31,Needs Improvement,True,Canada,12
+124186,Tiffany,Brown,christopherlindsey@example.net,HR,Lead,73076.30276092459,2000-07-10 23:34:29.735532,43,Good,True,USA,19
+16717989,Kayla,Cook,amy11@example.org,Design,VP,38813.5852390955,2023-07-05 23:34:29.735627,25,Good,False,UK,13
+7866702,Steven,Martinez,larsonjacqueline@example.net,Marketing,Lead,45949.20461965781,2019-07-06 23:34:29.735714,30,Good,False,USA,28
+13739255,Ross,Day,ugordon@example.com,Operations,VP,44223.2255742559,2012-07-07 23:34:29.735802,31,Satisfactory,True,UK,16
+3331913,Jason,Williams,millerjimmy@example.com,Sales,Director,133880.0,2024-07-04 23:34:29.735890,24,Good,True,Canada,35
+376471,Kristina,Mathis,jaimedaniels@example.org,Design,Junior,26197.1411302883,2023-07-05 23:34:29.735976,24,Good,True,Canada,17
+10912102,William,Harvey,robertamiller@example.com,Finance,VP,49059.146746722196,2022-07-05 23:34:29.736064,35,Good,True,USA,6
+10718266,Lisa,Stanley,christinavillanueva@example.com,Marketing,Senior,42767.067804148595,2022-07-05 23:34:29.736151,22,Good,True,UK,16
+4684783,William,Schmidt,laura78@example.org,Engineering,Senior,51628.44530253847,2018-07-06 23:34:29.736237,35,Excellent,True,UK,20
+15778884,Andre,Campbell,stonedawn@example.net,Finance,VP,129090.23547261106,2011-07-08 23:34:29.736323,67,Excellent,True,UK,28
+6665410,Justin,Mclean,cynthia83@example.org,HR,Lead,48072.22864249504,2024-07-04 23:34:29.736410,29,Satisfactory,True,Germany,28
+9047327,Pamela,Smith,rpittman@example.net,HR,Lead,42335.35076339408,2018-07-06 23:34:29.736499,28,Good,False,UK,9
+15050849,Rick,Morris,mrasmussen@example.org,HR,VP,25000.0,2024-07-04 23:34:29.736590,22,Satisfactory,False,Germany,30
+15623354,Vanessa,Garcia,mary66@example.org,Engineering,Junior,58669.644787733574,2018-07-06 23:34:29.736677,34,Satisfactory,True,Canada,13
+5058967,Christopher,Fisher,kcraig@example.net,Operations,Junior,80600.11645207435,2003-07-10 23:34:29.736764,52,Excellent,True,USA,17
+5571983,Henry,Roach,njohnson@example.net,Finance,VP,36304.87809137774,2023-07-05 23:34:29.736851,26,Needs Improvement,False,Germany,4
+3323641,Alyssa,Green,gomezeric@example.org,Sales,Junior,61354.83532084143,2012-07-07 23:34:29.736939,37,Satisfactory,True,USA,15
+10277789,Timothy,Hanson,medinagerald@example.net,Finance,Lead,45469.919996884295,2022-07-05 23:34:29.737026,25,Good,False,Germany,28
+1506137,Justin,Hughes,mariabright@example.org,Finance,Lead,31246.92458449028,2019-07-06 23:34:29.737112,24,Excellent,True,Germany,5
+12970175,Julie,Shelton,nsteele@example.net,Marketing,Senior,29550.26696927387,2023-07-05 23:34:29.737200,25,Excellent,False,Germany,3
+16400087,Matthew,Bullock,bbray@example.org,Operations,Senior,35647.41374010541,2024-07-04 23:34:29.737286,24,Satisfactory,True,Germany,15
+14996294,Kelly,Scott,wilsonkaitlin@example.org,Sales,Lead,45870.7769763725,2014-07-07 23:34:29.737376,30,Good,False,Germany,27
+9250794,Amy,Joyce,woodskristi@example.net,Legal,Manager,113571.0,2021-07-05 23:34:29.737465,34,Excellent,False,USA,28
+1729565,Crystal,Cisneros,mirandaaustin@example.net,Operations,Lead,41556.84249309923,2025-07-04 23:34:29.737555,23,Good,False,Germany,30
+4940988,Jonathan,Jackson,laura64@example.com,Finance,Manager,116497.0,2018-07-06 23:34:29.737644,28,Needs Improvement,True,Australia,25
+2634465,Wendy,Robinson,luiswilliams@example.com,Engineering,Director,204253.0,2008-07-08 23:34:29.737729,41,Good,False,UK,11
+15230411,Regina,Roberts,zmunoz@example.com,Design,Senior,48063.81794791539,2020-07-05 23:34:29.737814,27,Good,True,USA,42
+483713,William,Hamilton,ashley14@example.net,Marketing,Junior,25000.0,2021-07-05 23:34:29.737897,22,Satisfactory,True,USA,32
+12073572,Tina,Walters,nathancox@example.net,Finance,Lead,74017.16228913244,2014-07-07 23:34:29.737982,38,Excellent,True,UK,17
+1127230,Ryan,Phillips,cgibson@example.com,Finance,Lead,58160.43509160695,2010-07-08 23:34:29.738066,38,Satisfactory,False,Australia,32
+8452315,Charles,Francis,zhernandez@example.com,HR,VP,59041.017956570184,2025-07-04 23:34:29.738149,35,Needs Improvement,True,Canada,31
+14696398,Bryan,Hawkins,richardgreen@example.com,Operations,Manager,105203.0,2020-07-05 23:34:29.738233,40,Good,False,Germany,18
+2114678,Nicole,Ferguson,stevenrobinson@example.net,Sales,VP,78493.01713041119,2020-07-05 23:34:29.738316,48,Good,True,UK,3
+7661075,Christine,Hernandez,xcarlson@example.net,Design,Senior,38208.12553611478,2025-07-04 23:34:29.738399,22,Needs Improvement,False,Australia,30
+7641726,David,Fox,meredithsanders@example.net,Engineering,Lead,103417.81683339294,2014-07-07 23:34:29.738482,51,Satisfactory,False,UK,32
+6543982,Samantha,Davis,pattersonmark@example.net,Marketing,VP,34185.75454497668,2021-07-05 23:34:29.738572,22,Satisfactory,True,Germany,13
+1926043,Nicole,Macdonald,miguelolsen@example.net,Finance,Senior,25000.0,2020-07-05 23:34:29.738662,23,Satisfactory,False,USA,27
+13627400,Michael,Phillips,mcdanielthomas@example.org,HR,Lead,32044.231754835568,2021-07-05 23:34:29.738751,22,Satisfactory,False,UK,20
+15510160,Chad,Goodman,xcurry@example.net,Operations,Lead,44642.00591571246,2023-07-05 23:34:29.738835,22,Excellent,True,USA,28
+15937453,Robert,Davis,ismith@example.net,HR,Manager,138401.0,2008-07-08 23:34:29.738920,40,Needs Improvement,True,Germany,25
+4203935,Ariana,Douglas,danamiller@example.org,Sales,Lead,39749.040786832986,2013-07-07 23:34:29.739005,31,Needs Improvement,False,UK,30
+11782012,Alexis,Miles,briana45@example.com,Marketing,VP,64875.97276031904,2017-07-06 23:34:29.739089,34,Satisfactory,True,USA,25
+3483436,Christina,Hamilton,debbielee@example.org,Marketing,Senior,101964.81290390187,2009-07-08 23:34:29.739176,53,Excellent,True,USA,20
+11175963,Debra,Anderson,cranecarl@example.com,Design,Manager,87469.0,2000-07-10 23:34:29.739263,56,Good,False,Germany,15
+9683012,Christine,Martinez,linda85@example.net,Operations,VP,39969.49379842645,2016-07-06 23:34:29.739348,27,Good,True,Germany,28
+14305338,Curtis,Lewis,juliamoore@example.org,HR,Junior,25678.45346865028,2022-07-05 23:34:29.739432,22,Satisfactory,True,UK,16
+13143173,Christopher,Cooper,jacobmontgomery@example.com,Finance,Junior,77747.17566102967,2024-07-04 23:34:29.739517,38,Needs Improvement,True,Australia,48
+4099702,Sara,Meza,qbell@example.com,Marketing,Senior,94924.58310532481,2025-07-04 23:34:29.739605,52,Good,True,Germany,5
+10841422,Alicia,Colon,jamesmaddox@example.net,Marketing,VP,48257.484697308995,2018-07-06 23:34:29.739688,28,Satisfactory,True,Australia,1
+3962335,Melissa,Lee,fellis@example.net,Sales,Manager,143187.0,2012-07-07 23:34:29.739772,33,Needs Improvement,False,USA,8
+11792055,Cynthia,Brown,wford@example.org,Marketing,Director,199825.0,2025-07-04 23:34:29.739856,43,Satisfactory,True,USA,22
+9664909,Paige,Ferguson,turnerdavid@example.net,Marketing,Manager,90545.0,2008-07-08 23:34:29.739940,46,Excellent,False,Germany,9
+13674825,Anthony,Espinoza,vlin@example.com,Marketing,Lead,75377.1799562516,2023-07-05 23:34:29.740025,33,Needs Improvement,True,Australia,13
+4845925,Steven,Johnson,bmoore@example.org,Marketing,Senior,36550.77621941726,2021-07-05 23:34:29.740125,27,Needs Improvement,True,UK,32
+7370654,Michael,Tran,grayyvonne@example.com,HR,Junior,74814.98235758096,2008-07-08 23:34:29.740215,37,Satisfactory,False,UK,5
+821389,Jo,Webb,rachelmarshall@example.org,Design,Junior,35256.75152516591,2023-07-05 23:34:29.740303,26,Good,False,Germany,31
+8433608,Kayla,Murphy,ericchavez@example.net,Design,Senior,52510.22669410573,2014-07-07 23:34:29.740391,39,Excellent,False,UK,45
+1320562,Kevin,Perez,johnlee@example.com,Design,Junior,65956.45164667038,2023-07-05 23:34:29.740476,32,Satisfactory,True,Germany,25
+10994340,Benjamin,Anderson,andrewdaniels@example.net,Design,Manager,142637.0,2020-07-05 23:34:29.740565,40,Needs Improvement,False,UK,28
+12126750,Patricia,Simmons,ggreen@example.net,Legal,Director,198332.0,2021-07-05 23:34:29.740650,32,Good,True,Canada,8
+3588511,Michael,Sanchez,ytorres@example.org,Finance,Lead,62525.64876268262,2023-07-05 23:34:29.740734,38,Needs Improvement,True,Germany,29
+14011592,Melissa,Cook,gutierrezmonica@example.com,HR,Lead,37463.24518049579,2019-07-06 23:34:29.740820,24,Good,True,Germany,1
+2909024,Nicholas,Randolph,jesse88@example.com,HR,Junior,39796.64542409422,2014-07-07 23:34:29.740907,29,Good,False,USA,26
+9863661,Matthew,Li,astephens@example.net,Finance,Junior,71375.4772058549,2011-07-08 23:34:29.740993,36,Excellent,True,USA,4
+5018731,Joanna,Allen,brandon86@example.org,Design,Director,170089.0,2018-07-06 23:34:29.741080,51,Good,False,UK,8
+8444241,Tiffany,Whitney,ocantrell@example.net,Operations,VP,55503.24861114438,2017-07-06 23:34:29.741165,34,Satisfactory,False,Canada,25
+12668612,Justin,Martinez,kathleenlarsen@example.com,Design,Lead,45031.06098156543,2021-07-05 23:34:29.741248,25,Excellent,True,Canada,29
+6309052,Robert,Wilson,goodtonya@example.org,Engineering,Manager,145925.0,2022-07-05 23:34:29.741332,30,Good,True,UK,18
+1911050,Marcus,Black,emmaboyd@example.net,Design,Lead,60893.25916582937,2024-07-04 23:34:29.741416,26,Good,True,UK,15
+813888,Ashley,Bryant,tiffany70@example.org,Design,VP,50679.06935889535,2009-07-08 23:34:29.741499,35,Satisfactory,True,Australia,18
+4539415,Selena,Owens,stephaniebrown@example.com,Marketing,Junior,32145.24152380645,2022-07-05 23:34:29.741595,22,Satisfactory,True,UK,7
+6878760,Beth,Brown,qbrown@example.net,Finance,Lead,41730.96033252609,2021-07-05 23:34:29.741679,30,Needs Improvement,False,Germany,8
+5065724,Jeffery,Villanueva,hyork@example.org,Operations,Lead,66327.71295494662,2012-07-07 23:34:29.741762,34,Good,True,UK,33
+111278,Eric,Matthews,michaelmartin@example.com,Design,Lead,55024.544083361376,2017-07-06 23:34:29.741845,29,Good,True,Canada,12
+10875052,Joshua,Foster,powellteresa@example.org,Design,Lead,109013.68934396346,2023-07-05 23:34:29.741930,55,Good,False,Australia,6
+8849160,Gordon,Dominguez,rebecca01@example.org,Sales,Lead,51091.67270762806,2015-07-07 23:34:29.742015,33,Good,False,USA,26
+15641686,Rachel,Brooks,terrykevin@example.com,Marketing,Director,203709.0,2019-07-06 23:34:29.742103,26,Satisfactory,True,UK,26
+2648681,Richard,Austin,cnelson@example.net,Finance,Senior,80892.89631602837,2014-07-07 23:34:29.742191,45,Good,True,USA,19
+2022508,David,Atkins,diazronald@example.com,Engineering,Junior,62404.73583972099,2018-07-06 23:34:29.742279,36,Needs Improvement,False,Germany,22
+9062256,Katrina,Wilson,bethmills@example.net,Engineering,Senior,84906.95508443567,2015-07-07 23:34:29.742364,46,Good,True,USA,10
+7123294,Paul,Rodriguez,jillian81@example.net,Finance,VP,52285.64881069786,2003-07-10 23:34:29.742448,41,Satisfactory,True,Australia,5
+4737467,Bethany,Pace,nguerrero@example.com,Operations,Senior,56253.152945639435,2006-07-09 23:34:29.742533,38,Satisfactory,False,UK,18
+833620,Michael,Mcdonald,vprice@example.org,Operations,Director,207092.0,2022-07-05 23:34:29.742621,22,Good,True,Canada,19
+16727793,David,Berry,austin31@example.com,HR,Junior,78359.25673514215,1996-07-11 23:34:29.742705,51,Good,True,USA,25
+1743041,Tyler,Manning,martinemily@example.com,Legal,Director,190628.0,2018-07-06 23:34:29.742791,26,Satisfactory,True,UK,22
+5830711,Todd,Pham,cmiller@example.net,HR,Junior,25000.0,2022-07-05 23:34:29.742879,22,Needs Improvement,True,Germany,15
+16123574,Christine,Harmon,kim91@example.net,Design,Junior,42892.682838831475,2017-07-06 23:34:29.742965,40,Excellent,True,Germany,10
+15684350,Stephanie,Blair,ogarrison@example.com,Engineering,Manager,133250.0,2015-07-07 23:34:29.743051,32,Good,False,Germany,16
+11723690,Sandy,Peterson,jeremytravis@example.org,Engineering,Manager,97436.0,2024-07-04 23:34:29.743137,22,Good,False,USA,14
+5611786,Chloe,Hurley,brett60@example.org,Operations,Director,191435.0,2017-07-06 23:34:29.743221,30,Good,True,Australia,6
+14321764,Andrew,Tran,bfrazier@example.com,Operations,Director,125914.0,2016-07-06 23:34:29.743306,32,Excellent,False,Germany,29
+6333766,Timothy,Cooley,todd47@example.com,HR,Manager,84404.0,2016-07-06 23:34:29.743392,37,Satisfactory,True,UK,31
+9909094,Jessica,Benitez,salazarbrent@example.net,Marketing,VP,58756.10012294432,2021-07-05 23:34:29.743488,38,Satisfactory,False,Australia,25
